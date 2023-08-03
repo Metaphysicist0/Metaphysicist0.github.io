@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tianliang Yao, an undergraduate majoring in Automation at the Department of Control Science and Engineering, College of Electronics and Information Engineering at Tongji University.
+Hi! I am Tianliang Yao, an undergraduate majoring in Automation at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/).
 
-I am working on exploring how Artificial intelligence (AI) empowers smart healthcare. Specifically, my current research mainly focuses on surgical robots and medical image processing. To facilitate life (my laziness), I am also very interested in Brain-computer Interface (BCI).
+I am working on exploring how Artificial Intelligence (AI) empowers healthcare. Specifically, my current research mainly focuses on surgical robots and medical image processing. To facilitate life (my laziness), I am also very interested in Brain-Computer Interface (BCI). Soft robotics and continuum robotics also attract my attention.
 
 Reach me at yaotianliang2003@gmail.com or 2150248@tongji.edu.cn or 1814912393@qq.com if you want to discuss research ideas or cooperate with me. Welcome!!!
 

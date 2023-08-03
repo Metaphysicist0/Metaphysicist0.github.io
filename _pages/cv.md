@@ -7,11 +7,11 @@ redirect_from:
 ---
 
 -------------------------------------------------
-### Education
+## Education
 * B.E. Degree, Automation, Tongji University, China, Sep. 2021 ~ Jul. 2025 (expected).
   
 -------------------------------------------------
-### Project Experience
+## Project Experience
 * AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform, leader, Jan. 2022 ~ Current
   * Medical image processing: segmentation and registration of 2D DSA Images and 3D CTA Images
   * Design, processing, and testing of interventional surgery robot
@@ -20,20 +20,21 @@ redirect_from:
   * Medical image processing: segmentation and pixel-based statistics
 
 -------------------------------------------------
-### Publications
+## Publications
 <sup>\*</sup> denotes co-first authorship; 
 <sup>&dagger;</sup> denotes corresponding authorship.
-#### **Journal**
+
+### **Journal**
 To be updated...
 
-#### **Conference**
+### **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
 
-#### **Patent**
+### **Patent**
 To be updated...
 
 -------------------------------------------------
-### Honors and Rewards
+## Honors and Rewards
 * **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Jul 2023.
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.

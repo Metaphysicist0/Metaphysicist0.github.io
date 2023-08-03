@@ -7,8 +7,8 @@ author_profile: true
 
 ## AI4Medical
 * Medical Robotics
-  * Endovascular Interventional Surgery Robots.
-     * Clamping and delivering structure for the guidewire (diameter: 0.35mm).
+  * Endovascular Interventional Surgery Robots
+     * Clamping and delivering structure for the guidewire (diameter: 0.35mm)
      * Task automation in Percutaneous coronary intervention (PCI) via deep-reinforcement learning. (I want to do)
   * To be continued...
 * Biomedical Image Processing

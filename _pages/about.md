@@ -11,7 +11,7 @@ Hi! I am Tianliang Yao, an undergraduate majoring in Automation at the Departmen
 
 I am working on exploring how Artificial Intelligence (AI) empowers healthcare. Specifically, my current research mainly focuses on surgical robots and medical image processing. To facilitate life (my laziness), I am also very interested in Brain-Computer Interface (BCI). Soft robotics and continuum robotics also attract my attention.
 
-Reach me at yaotianliang2003@gmail.com or 2150248@tongji.edu.cn or 1814912393@qq.com if you want to discuss research ideas or cooperate with me. Welcome!!!
+Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or cooperate with me. Welcome!!!
 
 ### Recent News
 * 2023.07--One of our journal papers (my first journal paper) is **under review** in Computers in Biology and Medicine.

@@ -9,7 +9,7 @@ redirect_from:
 -------------------------------------------------
 ## Education
 * B.E. Degree, Automation, Tongji University, China, Sep. 2021 ~ Jul. 2025 (expected).
-  
+  Courses: Optimization, Embedded system, Digital Circuits, etc.
 -------------------------------------------------
 ## Project Experience
 * AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform, leader, Jan. 2022 ~ Current

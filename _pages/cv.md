@@ -5,11 +5,12 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-## You can download my CV in PDF format here!!!
-[CV.pdf](../files/CV.pdf)
+My CV in PDF format can be downloaded here!!!
+[CV.pdf](files/CV.pdf)
 
-<iframe src="../files/CV.pdf" height="600" width="800"></iframe> 
+<iframe src="files/CV.pdf" height="600" width="800"></iframe> 
 -------------------------------------------------
+
 ## Education
 * B.E. Degree, Automation, Tongji University, China, Sep. 2021 ~ Jul. 2025 (expected).
   * Courses: Theory of Optimization, Embedded System, Digital Circuits, etc.

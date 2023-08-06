@@ -5,10 +5,6 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-My CV in PDF format can be downloaded here!!!
-[CV.pdf](files/CV.pdf)
-
-<iframe src="files/CV.pdf" height="600" width="800"></iframe> 
 -------------------------------------------------
 
 ## Education
@@ -46,10 +42,15 @@ To be updated...
 * **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2022.
 * The distinguished B. E. academic scholarship in Tongji University, 2021-2022.
 * The distinguished activity scholarship in Tongji University, 2021-2022.
-
+  
 -------------------------------------------------
 ## Skills
 * Programming Languages: Python, LaTeX, C/C++, MATLAB, HTML, JavaScript, CSS, Verilog HDL.
 * Tech Skills: Pytorch, OpenCV, 3DSlicer, Arduino, Multisim.
   
 -------------------------------------------------
+My CV in PDF format can be downloaded here!!!
+[CV.pdf](files/CV.pdf)
+
+<iframe src="files/CV.pdf" height="600" width="800"></iframe> 
+

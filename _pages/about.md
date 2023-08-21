@@ -16,6 +16,6 @@ I am equally fascinated by Brain-Computer Interfaces (BCI) and other frontier te
 Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or work together with me. Welcome!!!
 
 ### Recent News
-* 2023.08--Accepted as an Industry Research Intern at TruthMed
-* 2023.07--One of our journal papers (my first journal paper) is **under review** in Computers in Biology and Medicine.
+* 2023.08--Accepted as an **Industry Research Intern** at TruthMed
+* 2023.07--One of our journal papers (my first journal paper) is **under review** in Computers in Biology and Medicine. (Current status: **Minor Revision**)
 * 2023.07--One of our conference papers (my first paper and my first conference paper) is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.

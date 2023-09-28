@@ -16,6 +16,6 @@ I am equally fascinated by Brain-Computer Interfaces (BCI) and other frontier te
 Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or work together with me. Welcome!!!
 
 ### Recent News
+* 2023.09--Journal paper *Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation* is **accepted** by Computers in Biology and Medicine. (JCR: Q1, IF=7.7)
 * 2023.08--Accepted as an **Industry Research Intern** at TruthMed, editor of Medzine (TruthMed Innovation Internal Publication of Journal, Est. 2023).
-* 2023.07--One of our journal papers (my first journal paper) is **under review** in Computers in Biology and Medicine. (Current status: **Minor Revision**).
 * 2023.07--One of our conference papers (my first paper and my first conference paper) is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.

@@ -1,12 +1,14 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
+title: "Works"
+permalink: /works/
 author_profile: true
 ---
 
 <sup>\*</sup> denotes co-first authorship; 
 <sup>&dagger;</sup> denotes corresponding authorship.
+
+## **Publications**
 
 #### **Journal**
 1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, Volume 166, November 2023. (JCR: Q1, IF=7.7)
@@ -17,3 +19,7 @@ author_profile: true
 
 #### **Patent**
 Coming Soon...
+
+## **Presentation**
+1. Sharing talk, “Application of machine learning in coronary image analysis,” CTOCC 2023, Oct, 2023.
+2. Oral presentation on "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*", ICARM 2023, Jul 2023.

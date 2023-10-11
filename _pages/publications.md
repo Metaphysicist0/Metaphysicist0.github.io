@@ -21,5 +21,5 @@ author_profile: true
 Coming Soon...
 
 ## **Presentation**
-1. Sharing talk, "*Application of machine learning in coronary image analysis*," CTOCC 2023, Oct 2023.
+1. Sharing talk on "*Application of machine learning in coronary image analysis*," CTOCC 2023, Oct 2023.
 2. Oral presentation on "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*", ICARM 2023, Jul 2023.

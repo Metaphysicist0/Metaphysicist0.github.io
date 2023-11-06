@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 * B.E. Degree, Automation, Tongji University, China, Sep. 2021 ~ Jul. 2025 (expected).
-  * Courses: Theory of Optimization, Embedded System, Digital Circuits, etc.
+  * Courses: Theory of Optimization, Embedded Systems, Digital Circuits, etc.
   
 -------------------------------------------------
 ## Project Experience
@@ -36,6 +36,7 @@ To be updated...
 
 -------------------------------------------------
 ## Honors and Rewards
+* **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Oct 2023.
 * **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Jul 2023.
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.

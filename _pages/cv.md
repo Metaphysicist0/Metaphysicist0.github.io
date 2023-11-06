@@ -38,6 +38,7 @@ To be updated...
 ## Talks
 * Sharing talk, "Application of Machine Learning in Coronary Artery Image Analysis," CTOCC 2023, Oct 2023.
 * Contributed talk, "A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties", ICARM 2023, Jul 2023.
+  
 -------------------------------------------------
 ## Honors and Rewards
 * **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Oct 2023.

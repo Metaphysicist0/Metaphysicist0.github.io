@@ -16,7 +16,7 @@ I am equally fascinated by Brain-Computer Interfaces (BCI) and other frontier te
 Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or work together with me. Welcome!!!
 
 Currently, I have extensive cooperation in the fields of medicine and artificial intelligence:
-In terms of medicine, the main cooperative units include: [Peking Union Medical College](http://www.cams.ac.cn/), [Peking University School of Medicine](https://www.bjmu.edu.cn/), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/)), and [Tongji University School of Medicine](https://med.tongji.edu.cn/).
+In terms of medicine, the main cooperative units include: [Peking Union Medical College](http://www.cams.ac.cn/), [Peking University School of Medicine](https://www.bjmu.edu.cn/), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/), and [Tongji University School of Medicine](https://med.tongji.edu.cn/).
 Regarding artificial intelligence, the main cooperation units include: King's College London, the University of Edinburgh, Xi'an Jiaotong University, Soochow University, and Suzhou Ultimage Health Technology Co., Ltd.
 
 ### Recent News

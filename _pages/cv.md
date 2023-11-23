@@ -42,6 +42,7 @@ To be updated...
 * Contributed talk, "A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties", ICARM 2023, Jul 2023.
 
   [slides-ICARM2023.pdf](../files/ICARM2023.pdf)
+  
 -------------------------------------------------
 ## Honors and Rewards
 * **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Oct 2023.

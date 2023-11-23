@@ -56,6 +56,10 @@ To be updated...
 * The distinguished activity scholarship in Tongji University, 2021-2022.
   
 -------------------------------------------------
+## Industry practice
+* Industry Research Intern at TruthMed, editor of Medzine (TruthMed Innovation Internal Publication of Journal, Est. 2023).
+
+-------------------------------------------------
 ## Skills
 * Programming Languages: Python, LaTeX, C/C++, MATLAB, HTML, JavaScript, CSS, Verilog HDL.
 * Tech Skills: Pytorch, OpenCV, 3DSlicer, Arduino, Multisim.

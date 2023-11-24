@@ -22,8 +22,9 @@ In terms of medicine, the main cooperative units include: [Peking Union Medical 
 Regarding artificial intelligence, the main cooperation units include: [King's College London](https://www.kcl.ac.uk/), [the University of Edinburgh](https://www.ed.ac.uk/), [Fudan University](https://www.fudan.edu.cn/), [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), and Suzhou Ultimage Health Technology Co., Ltd.
 
 ### Recent News
-* 2023.10-- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track).
-* 2023.10-- Sharing talk on: **Application of Machine Learning in Coronary Artery Image Analysis**, CTOCC 2023.
-* 2023.09--Journal paper *Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation* is **accepted** by Computers in Biology and Medicine. (JCR: Q1, IF=7.7)
-* 2023.08--Accepted as an **Industry Research Intern** at TruthMed, editor of Medzine (TruthMed Innovation Internal Publication of Journal, Est. 2023).
-* 2023.07--One of our conference papers (my first paper and my first conference paper) is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.
+* 2023.11 -- **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2023.
+* 2023.10 -- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track).
+* 2023.10 -- Sharing talk on: **Application of Machine Learning in Coronary Artery Image Analysis**, CTOCC 2023.
+* 2023.09 -- Journal paper *Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation* is **accepted** by Computers in Biology and Medicine. (JCR: Q1, IF=7.7)
+* 2023.08 -- Accepted as an **Industry Research Intern** at TruthMed, editor of Medzine (TruthMed Innovation Internal Publication of Journal, Est. 2023).
+* 2023.07 -- One of our conference papers (my first paper and my first conference paper) is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.

@@ -49,6 +49,7 @@ To be updated...
 * **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Jul 2023.
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.
+* **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2023.
 * **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2022.
 * The distinguished B. E. academic scholarship in Tongji University, 2022-2023.
 * The distinguished activity scholarship in Tongji University, 2022-2023.

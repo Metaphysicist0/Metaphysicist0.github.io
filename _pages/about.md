@@ -17,9 +17,6 @@ Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or 
 
 I have extensive cooperation in the fields of medicine and artificial intelligence:
 
-In terms of medicine, the main cooperative units include: [Peking Union Medical College](http://www.cams.ac.cn/), [Peking University School of Medicine](https://www.bjmu.edu.cn/), [Shanghai Jiao Tong University School of Medicine](https://www.shsmu.edu.cn/), and [Tongji University School of Medicine](https://med.tongji.edu.cn/).
-
-Regarding artificial intelligence, the main cooperation units include: [King's College London](https://www.kcl.ac.uk/), [the University of Edinburgh](https://www.ed.ac.uk/), [Fudan University](https://www.fudan.edu.cn/), [Xi'an Jiaotong University](http://en.xjtu.edu.cn/), [Soochow University](http://eng.suda.edu.cn/), and Suzhou Ultimage Health Technology Co., Ltd.
 
 ### Recent News
 * 2023.11 -- **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2023.

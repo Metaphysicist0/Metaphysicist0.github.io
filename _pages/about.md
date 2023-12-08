@@ -15,8 +15,6 @@ I am equally fascinated by Brain-Computer Interfaces (BCI) and other frontier te
 
 Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or work together with me. Welcome!!!
 
-I have extensive cooperation in the fields of medicine and artificial intelligence:
-
 
 ### Recent News
 * 2023.11 -- **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2023.

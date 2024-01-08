@@ -5,7 +5,13 @@ permalink: /research/
 author_profile: true
 ---
 
-## AI4Medical
+## AI4Medical and Intelligent Robotics
+
+In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence (two major aspects of intelligent robots). 
+Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. Jian S. Dai) and continuum/soft robotic structure are interesting and prosperous.
+For algorithm intelligence, semantic analysis of surgical scenes, imitation learning of surgeon skills, surgical planning and decision-making, and intelligent control theory are all vital.
+
+## What I've done and what I'm working on.
 * Medical Robotics
   * Endovascular Interventional Surgery Robots
      * Clamping and delivering structure for the guidewire (diameter: 0.35mm)

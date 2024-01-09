@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 ## AI4Medical and Intelligent Robotics
-In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence (two major aspects of intelligent robots). Reaching level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang][https://imr.sjtu.edu.cn/en/po_facultyv/532.html])) is my ultimate goal.
+In the field of intelligent medical robotics, I hope to combine machine intelligence and algorithm intelligence (two major aspects of intelligent robots). Reaching level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)) is my ultimate goal.
 
 Regarding machine intelligence, metamorphic mechanism (a wonderful theory proposed by Prof. [Jian S. Dai](https://sustech.edu.cn/zh/faculties/daijiansheng.html)) and continuum/soft robotic structures are interesting and prosperous.
 

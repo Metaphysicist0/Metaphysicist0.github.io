@@ -7,7 +7,7 @@ author_profile: true
 
 ## AI4Medical and Intelligent Robotics
 
-I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (aiming to reach the level 5 (standard of automation proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html))), and Medical Image Analysis.
+I mainly focus on AI4Medical, Biomedical Engineering, Intelligent Medical Robotics (aiming to reach the level 5, standard of automation proposed by Prof. [Guang-Zhong Yang](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)), and Medical Image Analysis.
 
 In the field of intelligent medical robotics (or a broader horizon: AI4Medical), I hope to combine **mechanism intelligence** and **algorithm intelligence** together.
 

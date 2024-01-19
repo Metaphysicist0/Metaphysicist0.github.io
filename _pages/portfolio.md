@@ -27,7 +27,7 @@ Prof. Yi Sun @ EPFL & University of Tokyo.
 
 **Friends and Collaborators**
 
-Xinyi Wang @ PUMC.
+Xinyi Wang @ PUMC & Tongji Univ.
 
 Zhifan Yan @ Tongji Univ.
 

@@ -7,9 +7,7 @@ author_profile: true
 
 **A Blogger**
 
-I have published many technical blogs and study notes on the CSDN Technology Forum. Everyone is welcome to pay attention to these notes.
-
-[This is the Transfer Link](https://blog.csdn.net/Metaphysicist?type=blog)
+I have published many technical blogs and study notes on the CSDN Technology Forum. *[This is the Transfer Link](https://blog.csdn.net/Metaphysicist?type=blog)*
 
 **Mentors**
 

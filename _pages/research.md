@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## AI4Medical and Intelligent Robotics
+## AI4Medical and Intelligent Medical Robotics
 
 I mainly focus on AI4Medical, Biomedical Engineering, and Intelligent Medical Robotics (aiming to reach the level 5, standard of automation proposed by *Prof. [Guang-Zhong Yang (RAE Fellow (FREng), Fellow of IEEE, IET, AIMBE, IAMBE, MICCAI)](https://imr.sjtu.edu.cn/en/po_facultyv/532.html)*, and Medical Image Analysis.
 

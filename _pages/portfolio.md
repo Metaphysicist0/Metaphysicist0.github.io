@@ -11,7 +11,7 @@ I have published some technical blogs and study notes on the CSDN Technology For
 
 **Mentors**
 
-Prof. [Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/index.html) (FEurASc, RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CEng) @ KCL & SUSTech.
+Prof. [Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/index.html) (FEurASc, RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CAA, CEng) @ KCL & SUSTech.
 
 Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm) @ Tongji Univ.
 

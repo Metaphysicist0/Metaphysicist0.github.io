@@ -18,8 +18,8 @@ Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or 
 
 ### Recent News
 * 2023.11 -- **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2023.
-* 2023.10 -- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track).
+* 2023.10 -- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track), Leader.
 * 2023.10 -- Sharing talk on: **Application of Machine Learning in Coronary Artery Image Analysis**, CTOCC 2023.
-* 2023.09 -- Journal paper *Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation* is **accepted** by Computers in Biology and Medicine. (JCR: Q1, IF=7.7)
+* 2023.09 -- Journal paper *[Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation](https://www.sciencedirect.com/science/article/abs/pii/S0010482523010053)* is **accepted** by Computers in Biology and Medicine. (JCR: Q1, IF=7.7)
 * 2023.08 -- Accepted as an **Industry Research Intern** at TruthMed, editor of Medzine (TruthMed Innovation Internal Publication of Journal, Est. 2023).
-* 2023.07 -- One of our conference papers (my first paper and my first conference paper) is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.
+* 2023.07 -- Conference paper *[A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties](https://ieeexplore.ieee.org/abstract/document/10218965/authors#authors)* (my first paper and my first conference paper) is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.

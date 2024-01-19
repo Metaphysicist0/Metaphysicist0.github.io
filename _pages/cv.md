@@ -14,18 +14,29 @@ redirect_from:
 -------------------------------------------------
 ## Project Experience
 * AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform, leader, Jan. 2022 ~ Current.
+  
     Tongji University.
+  
   * Medical image processing: segmentation and registration of 2D DSA Images and 3D CTA Images
   * Design, processing, and testing of interventional surgery robot
-* Venibot: Intelligent Painless Veni Puncture Robot, member, Sep. 2022 ~ Nov. 2023. Tongji University.
+* Venibot: Intelligent Painless Veni Puncture Robot, member, Sep. 2022 ~ Nov. 2023.
+
+  Tongji University.
+  
   * Medical Image Analysis: Segmenting vessel from NIR images.
+    
 * A Deep-Learning System for Predicting the Efficacy of SOAIC for RB, member, Jul. 2023 ~ Current.
+ 
   Tongji University & Xinhua Hospital Affiliated to SJTU.
+  
   * Medical image processing: Segmentation.
   * Bioinformatic Analysis: Correlation analysis and prognosis prediction via machine learning.
 * A Deep-learning System for Identification of Molecular Subtypes of EC, member, Nov. 2023 -- Current.
+  
   Tongji University.
+  
   *Pathological image classification via deep learning.
+  
 -------------------------------------------------
 ## Publications
 <sup>\*</sup> denotes co-first authorship; 

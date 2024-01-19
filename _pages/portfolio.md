@@ -25,7 +25,7 @@ Prof. Yi Sun @ EPFL & University of Tokyo.
 
 **Friends and Collaborators**
 
-Xinyi Wang @ PUMC (Fuwai Hospital, CAMS & PUMC) & Tongji Univ. One of my most invaluable driven and capable collaborators in the intersection of medicine and engineering. An excellent medical student in the Department of Cardiology. We jointly developed the *[AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform](https://med.tongji.edu.cn/info/1322/9337.htm)*. Her professional dedication and passion for clinical medicine also inspire me greatly.
+Xinyi Wang @ [PUMC](https://www.pumc.edu.cn/) [(Fuwai Hospital, CAMS & PUMC)](https://www.fuwaihospital.org/Hospitals/Main) & Tongji Univ. An excellent medical student in the Department of Cardiology. One of my most invaluable driven and capable collaborators in the intersection of medicine and engineering.  We jointly developed the *[AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform](https://med.tongji.edu.cn/info/1322/9337.htm)*. Her professional dedication and passion for clinical medicine also inspire me greatly.
 
 Zhifan Yan @ Tongji Univ. As one of the key participants in developing the *[AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform](https://see.tongji.edu.cn/info/1143/11961.htm)* with strong mechanical design capabilities and hands-on skills. Beyond his technical contributions, our discussions during the journey in Guiyang also taught me valuable lessons about professionalism and comportment. exchanging ideas with him always fosters learning that extends beyond the scope of any single project. 
 

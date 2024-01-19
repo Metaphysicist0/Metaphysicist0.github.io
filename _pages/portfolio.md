@@ -11,15 +11,18 @@ I have published some technical blogs and study notes on the CSDN Technology For
 
 **Mentors**
 
-Prof. Jian S. Dai (RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CEng) @ KCL & SUSTech.
-
-Prof. Peng Qi @ Tongji Univ.
-
-Prof. Chengjia Wang @ Edinburgh Univ. & Heriot-Watt Univ.
-
-Prof. Bo Lu @ Soochow Univ & CUHK (T Stone Robotics Institute).
-
-Prof. Yi Sun @ EPFL & University of Tokyo.
+-Prof. Jian S. Dai (RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CEng) @ KCL & SUSTech.
+-
+-Prof. Peng Qi @ Tongji Univ.
+-
+-Prof. Chengjia Wang @ Edinburgh Univ. & Heriot-Watt Univ.
+-
+-MD/PhD. Prof. Zhaolei Jiang @ Xinhua Hospital Affiliated to SJTU School of Medicine.
+-
+-Prof. Bo Lu @ Soochow Univ & CUHK (T Stone Robotics Institute).
+-
+-Prof. Yi Sun @ EPFL & University of Tokyo.
+-
 
 ......
 

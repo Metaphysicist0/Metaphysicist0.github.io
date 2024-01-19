@@ -9,17 +9,23 @@ redirect_from:
 
 ## Education
 * B.E. Degree, Automation, Tongji University, China, Sep. 2021 ~ Jul. 2025 (expected).
-  * Courses: Theory of Optimization, Embedded Systems, Digital Circuits, etc.
+  * Courses: Intelligent Control Theory, Theory of Optimization, Embedded Systems etc.
   
 -------------------------------------------------
 ## Project Experience
-* AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform, leader, Jan. 2022 ~ Current
+* AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform, leader, Jan. 2022 ~ Current.
+    Tongji University.
   * Medical image processing: segmentation and registration of 2D DSA Images and 3D CTA Images
   * Design, processing, and testing of interventional surgery robot
-* Venibot: Intelligent Painless Veni Puncture Robot, member, Sep. 2022 ~ Nov. 2022.
-* Retinal drug delivery analysis based on computer vision, member, Jul. 2023 ~ Current
-  * Medical image processing: segmentation and pixel-based statistics
-
+* Venibot: Intelligent Painless Veni Puncture Robot, member, Sep. 2022 ~ Nov. 2023. Tongji University.
+  * Medical Image Analysis: Segmenting vessel from NIR images.
+* A Deep-Learning System for Predicting the Efficacy of SOAIC for RB, member, Jul. 2023 ~ Current.
+  Tongji University & Xinhua Hospital Affiliated to SJTU.
+  * Medical image processing: Segmentation.
+  * Bioinformatic Analysis: Correlation analysis and prognosis prediction via machine learning.
+* A Deep-learning System for Identification of Molecular Subtypes of EC, member, Nov. 2023 -- Current.
+  Tongji University.
+  *Pathological image classification via deep learning.
 -------------------------------------------------
 ## Publications
 <sup>\*</sup> denotes co-first authorship; 
@@ -45,7 +51,7 @@ To be updated...
   
 -------------------------------------------------
 ## Honors and Rewards
-* **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Oct 2023.
+* **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
 * **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Jul 2023.
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.
@@ -62,7 +68,7 @@ To be updated...
 
 -------------------------------------------------
 ## Skills
-* Programming Languages: Python, LaTeX, C/C++, MATLAB, HTML, JavaScript, CSS, Verilog HDL.
+* Programming Languages: Python, LaTeX, C/C++, MATLAB, R, HTML, JavaScript, CSS, Verilog HDL.
 * Tech Skills: Pytorch, OpenCV, 3DSlicer, Arduino, Multisim.
   
 -------------------------------------------------

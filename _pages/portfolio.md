@@ -11,12 +11,23 @@ I have published many technical blogs and study notes on the CSDN Technology For
 [Transfer Link](https://blog.csdn.net/Metaphysicist?type=blog)
 
 **Mentors**
+
 Prof. Jian S. Dai (RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CEng) @ KCL & SUSTech.
+
 Prof. Peng Qi @ Tongji Univ.
+
 Prof. Chengjia Wang @ Edinburgh Univ. & Heriot-Watt Univ.
+
 Prof. Bo Lu @ Soochow Univ.
+
+Prof. Yi Sun @ EPFL & University of Tokyo.
+
 ......
 
 **Friends and Collaborators**
+
 Xinyi Wang @ PUMC.
+
 Zhifan Yan @ Tongji Univ.
+
+......

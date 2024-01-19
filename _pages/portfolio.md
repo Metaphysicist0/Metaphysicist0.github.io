@@ -5,3 +5,18 @@ permalink: /portfolio/
 author_profile: true
 ---
 
+**A Blogger**
+I have published many technical blogs and study notes on the CSDN Technology Forum. Everyone is welcome to pay attention to these notes.
+
+[Transfer Link](https://blog.csdn.net/Metaphysicist?type=blog)
+
+**Mentors**
+Prof. Jian S. Dai (RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CEng) @ KCL & SUSTech.
+Prof. Peng Qi @ Tongji Univ.
+Prof. Chengjia Wang @ Edinburgh Univ. & Heriot-Watt Univ.
+Prof. Bo Lu @ Soochow Univ.
+......
+
+**Friends and Collaborators**
+Xinyi Wang @ PUMC.
+Zhifan Yan @ Tongji Univ.

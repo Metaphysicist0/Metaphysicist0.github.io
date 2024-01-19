@@ -17,7 +17,7 @@ Prof. Peng Qi @ Tongji Univ.
 
 Prof. Chengjia Wang @ Edinburgh Univ. & Heriot-Watt Univ.
 
-MD/PhD, Prof. Zhaolei Jiang @ Xinhua Hospital Affiliated to SJTU School of Medicine.
+Prof. Zhaolei Jiang @ Xinhua Hospital Affiliated to SJTU School of Medicine.
 
 Prof. Bo Lu @ Soochow Univ & CUHK (T Stone Robotics Institute).
 

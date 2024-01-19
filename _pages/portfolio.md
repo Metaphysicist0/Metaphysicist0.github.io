@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Interesting things"
+title: "Miscellaneous"
 permalink: /portfolio/
 author_profile: true
 ---

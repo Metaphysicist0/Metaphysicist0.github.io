@@ -19,7 +19,7 @@ Prof. Peng Qi @ Tongji Univ.
 
 Prof. Chengjia Wang @ Edinburgh Univ. & Heriot-Watt Univ.
 
-Prof. Bo Lu @ Soochow Univ.
+Prof. Bo Lu @ Soochow Univ & CUHK (T Stone Robotics Institute).
 
 Prof. Yi Sun @ EPFL & University of Tokyo.
 

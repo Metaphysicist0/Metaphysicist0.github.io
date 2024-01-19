@@ -27,12 +27,12 @@ Prof. Yi Sun @ EPFL & University of Tokyo.
 
 **Friends and Collaborators**
 
-Xinyi Wang @ PUMC & Tongji Univ.
+Xinyi Wang @ PUMC (Fuwai Hospital, CAMS & PUMC) & Tongji Univ.
 
 Zhifan Yan @ Tongji Univ.
 
 Zhiyuan Wu @ Tongji Univ.
 
-Xueqing Gao @ Tongji Univ.
+Xueqing Gao @ Tongji Univ & Fudan Univ (ISTBI).
 
 ......

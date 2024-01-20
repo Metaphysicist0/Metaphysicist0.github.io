@@ -30,7 +30,7 @@ redirect_from:
   Tongji University & Xinhua Hospital Affiliated to SJTU.
   
   * Medical image processing: Segmentation.
-  * Bioinformatic Analysis: Correlation analysis and prognosis prediction via machine learning.4
+  * Bioinformatic Analysis: Correlation analysis and prognosis prediction via machine learning.
   
 * A Deep-learning System for Identification of Molecular Subtypes of EC, member, Nov. 2023 -- Current.
   

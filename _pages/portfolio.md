@@ -23,7 +23,7 @@ Prof. [Bo Lu](https://lu-bo.github.io/) @ Soochow Univ & CUHK. (T Stone Robotics
 
 ......
 
-**Friends and Collaborators**
+**Most Important Friends and Collaborators**
 
 Xinyi Wang @ [PUMC](https://www.pumc.edu.cn/) [(Fuwai Hospital, CAMS & PUMC)](https://www.fuwaihospital.org/Hospitals/Main) & Tongji Univ. She is an outstanding medical student in the Department of Cardiology. As one of my most invaluable driven and capable collaborators in the intersection of medicine and engineering, Xinyi has played an invaluable role in the development of our *[AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform](https://med.tongji.edu.cn/info/1322/9337.htm)*. Her vast clinical expertise and experience are critical to the project's success. Xinyi's professional dedication and passion for clinical medicine continue to inspire me greatly. She is truly dedicated to applying her skills and knowledge to improve patient care. It has been a privilege to work with such a driven and capable young clinician-researcher.
 

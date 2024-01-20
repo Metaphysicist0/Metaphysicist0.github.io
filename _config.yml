@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Tian-Liang Yao @ Tongji Univ."
+title                    : "Tianliang Yao @ Tongji Univ."
 title_separator          : "-"
 name                     : &name "Tianliang Yao"
 description              : &description "personal description"

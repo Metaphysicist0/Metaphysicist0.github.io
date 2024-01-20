@@ -9,6 +9,8 @@ redirect_from:
 
 Hi! I am Tian-Liang Yao, an undergraduate majoring in Automation at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
+I am a student member of the IEEE (Robotics and Automation Society), CAA, CCF.
+
 My research aims to discover how Artificial Intelligence (AI) aids the field of healthcare. Currently, I mainly focus on three major applications: intelligent medical robotics, medical image processing, and bioinformatic analysis. I seek to streamline and improve clinical workflows through technology. I aspire to explore all of these areas through research in the years ahead, gaining exciting and valuable insights and making meaningful contributions.
 
 Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or work together with me. Welcome!!!

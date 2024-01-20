@@ -19,7 +19,7 @@ Prof. [Chengjia Wang](https://scholar.google.com/citations?hl=en&user=lwV4KfwAAA
 
 Prof. [Zhaolei Jiang](https://www.youlai.cn/super/docintro/40841/) @ Xinhua Hospital Affiliated to SJTU School of Medicine.
 
-Prof. [Bo Lu](https://lu-bo.github.io/) @ Soochow Univ & CUHK. (T Stone Robotics Institute).
+Prof. [Bo Lu](https://lu-bo.github.io/) @ Soochow Univ. & CUHK. (T Stone Robotics Institute).
 
 ......
 

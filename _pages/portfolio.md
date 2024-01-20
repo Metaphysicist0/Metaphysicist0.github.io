@@ -29,11 +29,7 @@ Xinyi Wang @ [PUMC](https://www.pumc.edu.cn/) [(Fuwai Hospital, CAMS & PUMC)](ht
 
 Zhifan Yan @ Tongji Univ. Zhifan is one of the key participants in developing the *[AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform](https://see.tongji.edu.cn/info/1143/11961.htm)* with his strong mechanical design capabilities and hands-on skills. Beyond his technical contributions, our discussions during the journey in Guiyang also taught me valuable lessons about professionalism and comportment. exchanging ideas with him always fosters learning that extends beyond the scope of any single project. 
 
-<img 
-  src="/images/mmexport1698739301779.jpg" 
-  alt="with Xinyi & Zhifan @ Guizhou Univ. Guiyang, Oct 2023."
-  style="width: 50%; height: auto;"
->
+<img src="/images/mmexport1698739301779.jpg" style="width: 50%; height: auto;" alt="with Xinyi & Zhifan @ Guizhou Univ. in Guiyang, Oct 2023."> 
 with Xinyi & Zhifan @ Guizhou Univ. Guiyang, Oct 2023.
 
 Zhiyuan Wu @ Tongji Univ. Zhiyuan is my guide in the field of Computer Vision (CV). His methodology for conducting research and writing papers in CV was also instructive. In terms of leading an interdisciplinary team, he showed me how to complete projects by bringing together colleagues from different backgrounds in the project of *[Veni-bot](https://news.tongji.edu.cn/info/1003/82844.htm)*. His guidance has been invaluable as I continue pursuing this field of study.

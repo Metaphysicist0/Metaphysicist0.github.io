@@ -1,5 +1,5 @@
 ---
-layout: /
+layout: archive
 title: "Miscellaneous"
 permalink: /portfolio/
 author_profile: true

@@ -64,7 +64,8 @@ To be updated...
 -------------------------------------------------
 ## Honors and Rewards
 * **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
-  
+("Challenge Cup" is the most influential research competition among university students in China, especially Research Track.)
+
 <img src="/images/微信图片_20231108232700.jpg" style="width: 50%; height: auto;" alt="Physical display of my project. @ Guizhou Univ. in Guiyang, Oct 2023."> 
 
 *Physical display of my project. @ Guizhou Univ. Oct 2023.*

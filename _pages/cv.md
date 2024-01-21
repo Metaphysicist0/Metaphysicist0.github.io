@@ -71,7 +71,7 @@ To be updated...
 
 <img src="/images/ICARM23.jpg" style="width: 50%; height: auto;" alt="2023 IEEE ICARM Best Conference Paper Finalist, Jul 2023."> *2023 IEEE ICARM Best Conference Paper Finalist, Jul 2023.*
 
-* **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th China Robot Industry Annual Conference, Dec 2023.
+* **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th Annual Conference of China Robot Industry, Dec 2023.
 
  <img src="/images/微信图片_20240121211304.jpg" style="width: 50%; height: auto;" alt=" Ding Han, expert in mechanical and electronic engineering and FCAE, presented the award to my instructor Prof. Peng Qi."> *Ding Han, expert in mechanical and electronic engineering and FCAE, presented the award to my instructor Prof. Peng Qi. Dec 2023.*
 

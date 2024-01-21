@@ -34,7 +34,7 @@ redirect_from:
   
 * A Deep-learning System for Identification of Molecular Subtypes of EC, member, Nov. 2023 -- Current.
   
-  Tongji University.
+  Tongji University & Shanghai First Maternity Infant Health Hospital Affiliated to Tongji Univ.
   
   * Pathological image classification via deep learning.
   

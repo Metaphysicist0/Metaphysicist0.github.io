@@ -65,13 +65,11 @@ To be updated...
 ## Honors and Rewards
 * **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
   
-<img src="/images/微信图片_20231108232700.jpg" style="width: 50%; height: auto;" alt="Physical display of my project. @ Guizhou Univ. in Guiyang, Oct 2023."> 
-*Physical display of my project. @ Guizhou Univ. in Guiyang, Oct 2023.*
+<img src="/images/微信图片_20231108232700.jpg" style="width: 50%; height: auto;" alt="Physical display of my project. @ Guizhou Univ. in Guiyang, Oct 2023."> *Physical display of my project. @ Guizhou Univ. in Guiyang, Oct 2023.*
 
 * **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Jul 2023.
 
-<img src="/images/ICARM23.jpg" style="width: 50%; height: auto;" alt="2023 IEEE ICARM Best Conference Paper Finalist, Jul 2023."> 
-*2023 IEEE ICARM Best Conference Paper Finalist, Jul 2023.*
+<img src="/images/ICARM23.jpg" style="width: 50%; height: auto;" alt="2023 IEEE ICARM Best Conference Paper Finalist, Jul 2023."> *2023 IEEE ICARM Best Conference Paper Finalist, Jul 2023.*
 
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.

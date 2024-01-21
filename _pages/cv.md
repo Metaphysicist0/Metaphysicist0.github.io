@@ -79,7 +79,7 @@ To be updated...
 
  <img src="/images/微信图片_20240121211304.jpg" style="width: 50%; height: auto;" alt=" Ding Han, expert in mechanical and electronic engineering and FCAE, presented the award to my instructor Prof. Peng Qi."> 
  
- *Ding Han, expert in mechanical and electronic engineering and FCAE, presented the award to my instructor Prof. Peng Qi. Dec 2023.*
+ *Prof. Han Ding, expert in mechanical and electronic engineering and FCAE, presented the award to my instructor Prof. Peng Qi. Dec 2023.*
 
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.

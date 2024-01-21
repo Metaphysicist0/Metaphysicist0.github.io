@@ -15,7 +15,7 @@ redirect_from:
 ## Project Experience
 * AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform, leader, Jan. 2022 ~ Current.
   
-    Tongji University.
+  Tongji University & Shanghai Tenth People’s Hospital Affiliated to Tongji Univ. $ Tongji Hospital Affiliated to Tongji Univ.
   
   * Medical image processing: segmentation and registration of 2D DSA Images and 3D CTA Images
   * Design, processing, and testing of interventional surgery robot

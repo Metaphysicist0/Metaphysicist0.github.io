@@ -17,6 +17,7 @@ Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or 
 
 
 ### Recent News
+* 2023.12 -- **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th China Robot Industry Annual Conference, Dec 2023.
 * 2023.11 -- **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2023.
 * 2023.10 -- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track), Leader.
 * 2023.10 -- Sharing talk on: **Application of Machine Learning in Coronary Artery Image Analysis**, CTOCC 2023.

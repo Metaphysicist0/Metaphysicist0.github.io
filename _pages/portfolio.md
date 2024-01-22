@@ -38,4 +38,5 @@ I have published some technical blogs and study notes on the CSDN Technology For
 ***Zhiyuan Wu* @ Tongji Univ.** Zhiyuan is my guide in the field of Computer Vision (CV). His methodology for conducting research and writing papers in CV was also instructive. In terms of leading an interdisciplinary team, he showed me how to complete projects by bringing together colleagues from different backgrounds in the project of *[Veni-bot](https://news.tongji.edu.cn/info/1003/82844.htm/)*. His guidance has been invaluable as I continue pursuing this field of study.
 
 ***Xueqing Gao* @ Tongji Univ & Fudan Univ. (ISTBI).** With dual technical backgrounds in optoelectronics and medical image analysis, our interesting conversations often inspire each other with ideas across both domains. Bringing together these two fields through discussion has led to insightful exchanges about their intersections and potential for AI4Science.
+
 ......

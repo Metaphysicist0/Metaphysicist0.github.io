@@ -39,4 +39,5 @@ I have published some technical blogs and study notes on the CSDN Technology For
 
 ***Xueqing Gao* @ Tongji Univ & Fudan Univ. (ISTBI).** With dual technical backgrounds in optoelectronics and medical image analysis, our interesting conversations often inspire each other with ideas across both domains. Bringing together these two fields through discussion has led to insightful exchanges about their intersections and potential for AI4Science.
 
+***Margaret Wang @ Harverford & ETH.*** An interesting astrophysicist. I am very optimistic about the application of machine learning in astronomy in our discussion and look forward to working together to discover strange patterns.
 ......

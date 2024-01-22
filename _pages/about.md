@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tian-Liang Yao, an undergraduate majoring in Automation at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) & [Shanghai Research Institute for Intelligent Autonomous Systems(SRIAS)](https://srias.tongji.edu.cn/main.htm), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
+Hi! I am Tian-Liang Yao, an undergraduate majoring in Automation at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) & [Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS)](https://srias.tongji.edu.cn/main.htm), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
 I am a student member of the IEEE (Robotics and Automation Society), CAA and CCF.
 

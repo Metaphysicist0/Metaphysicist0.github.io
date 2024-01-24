@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 * B.E. Degree, Automation, Tongji University, China, Sep. 2021 ~ Jul. 2025 (expected).
-  * Courses: Intelligent Control Theory, Theory of Optimization, Embedded Systems etc.
+  * A+ Courses: Algorithms, Intelligent Control Theory, Theory of Optimization, Embedded Systems etc.
   
 -------------------------------------------------
 ## Project Experience

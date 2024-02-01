@@ -9,7 +9,7 @@ redirect_from:
 
 ## Education
 * B.E. Degree, Automation, Tongji University, China, Sep. 2021 ~ Jul. 2025 (expected).
-  * A+ Courses: Intelligent Autonomous Robotics and Systems (Tongji Univ. \& SRIAS), Intelligent Control Theory, Theory of Optimization, Algorithms, Embedded Systems etc.
+  * A+ Courses: Intelligent Autonomous Robotics and Systems (Tongji Univ. & SRIAS), Intelligent Control Theory, Theory of Optimization, Algorithms, Embedded Systems etc.
   
 -------------------------------------------------
 ## Project Experience

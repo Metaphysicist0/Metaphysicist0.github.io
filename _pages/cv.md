@@ -100,10 +100,4 @@ To be updated...
 * Programming Languages: Python, LaTeX, C/C++, MATLAB, R, HTML, JavaScript, CSS, Verilog HDL.
 * Tech Skills: Pytorch, OpenCV, 3DSlicer, Arduino, Multisim.
   
--------------------------------------------------
-My CV in PDF format can be downloaded here!!!
-
-[CV.pdf](../files/CV.pdf)
-
-<iframe src="../files/CV.pdf" height="600" width="800"></iframe> 
 

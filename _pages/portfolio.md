@@ -3,10 +3,6 @@ layout: archive
 title: "Miscellaneous"
 permalink: /portfolio/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
 
 ## A Blogger
 I have published some technical blogs and study notes on the CSDN Technology Forum. *[This is the Transfer Link](https://blog.csdn.net/Metaphysicist?type=blog)*.

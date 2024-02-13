@@ -2,9 +2,11 @@
 main:
   - title: "Research"
     url: /research/
-  - title: "CV"
+  - title: "Awards"
     url: /cv/
   - title: "Publications"
     url: /publications/
   - title: "Miscellaneous"
     url: /portfolio/
+  - title: "CV(PDF)"
+    url: /sitemap/

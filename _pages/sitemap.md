@@ -8,4 +8,6 @@ redirect_from:
 -------------------------------------------------
 
 My CV in PDF format can be downloaded here!!!
-<embed src="CV_2024.1.pdf"  width=100% height=1000px></embed>
+[CV.pdf](CV_2024.1.pdf)
+
+<iframe src="CV_2024.1.pdf" height="600" width="800"></iframe> 

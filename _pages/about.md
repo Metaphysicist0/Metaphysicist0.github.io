@@ -16,6 +16,7 @@ Reach me at yaotianliang2003@gmail.com if you want to discuss research ideas or 
 
 
 ### Recent News
+* 2024 -- **I am actively pursuing PhD opportunities @ Fall 2025. If any distinguished professors are seeking highly-motivated students who wish to make contributions through collaborative research, I would appreciate the chance to discuss potential opportunities. Please feel free to contact me at your earliest convenience, please!!!!**
 * 2023.12 -- **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th Annual Conference of China Robot Industry.
 * 2023.10 -- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track), Leader.
 * 2023.10 -- Sharing talk on: **Application of Machine Learning in Coronary Artery Image Analysis**, CTOCC 2023.

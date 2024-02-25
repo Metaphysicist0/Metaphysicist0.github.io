@@ -12,7 +12,7 @@ I am a student member of the IEEE (Robotics and Automation Society), CAA, and CC
 
 My research aims to discover how Artificial Intelligence (AI) aids the field of healthcare. Currently, I mainly focus on three major applications: intelligent medical robotics, medical image processing, and bioinformatic analysis. I seek to streamline and improve clinical workflows through technology. I aspire to explore all of these areas through research in the years ahead, gaining exciting and valuable insights and making meaningful contributions.
 
-Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn if you want to discuss research ideas or work together with me. Welcome!!!
+Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also wechat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 
 
 ### Recent News

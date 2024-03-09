@@ -25,7 +25,8 @@ Prof. ***[Bo Lu](https://lu-bo.github.io)*** @ Soochow Univ. & CUHK. (T Stone Ro
 
 ......
 
-<img src="/images/Team@2023.jpg" style="width: 50%; height: auto;" alt=" Yuan Liu, Xinyi Wang, Tianliang Yao, Prof. Peng Qi, Zhifan Yan and Haonan Ma (from left to right) @ Guizhou Univ. in Guiyang, Oct 2023."> 
+<img src="/images/Team@2023.jpg" style="width: 50%; height: auto;" alt="Yuan Liu, Xinyi Wang, Tianliang Yao, Prof. Peng Qi, Zhifan Yan and Haonan Ma (from left to right) @ Guizhou Univ. in Guiyang, Oct 2023."> 
+*Yuan Liu, Xinyi Wang, Tianliang Yao, Prof. Peng Qi, Zhifan Yan and Haonan Ma (from left to right) @ Guizhou Univ. in Guiyang, Oct 2023.*
 
 ## Most Important Friends and Collaborators
 

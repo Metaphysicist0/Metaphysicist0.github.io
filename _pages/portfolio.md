@@ -13,9 +13,9 @@ I have published some technical blogs and study notes on the CSDN Technology For
 
 ## Mentors
 
-Prof. ***[Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/index.html)*** (MAE, RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CAA, CEng) @ KCL & SUSTech.
-
 Prof. ***[Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)*** @ Tongji Univ.
+
+Prof. ***[Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/index.html)*** (MAE, RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CAA, CEng) @ KCL & SUSTech.
 
 Prof. ***[Chengjia Wang](https://scholar.google.com/citations?hl=en&user=lwV4KfwAAAAJ&view_op=list_works&sortby=pubdate)*** @ Edinburgh Univ. & Heriot-Watt Univ.
 
@@ -24,6 +24,8 @@ Prof. ***[Zhaolei Jiang](https://www.youlai.cn/super/docintro/40841)*** @ Xinhua
 Prof. ***[Bo Lu](https://lu-bo.github.io)*** @ Soochow Univ. & CUHK. (T Stone Robotics Institute).
 
 ......
+
+<img src="/images/Team@2023.jpg" style="width: 50%; height: auto;" alt=" Yuan Liu, Xinyi Wang, Tianliang Yao, Prof. Peng Qi, Zhifan Yan and Haonan Ma (from left to right) @ Guizhou Univ. in Guiyang, Oct 2023."> 
 
 ## Most Important Friends and Collaborators
 

@@ -18,7 +18,6 @@ author_profile: true
 
 
 ## **Selected Patents**
-\section{Selected Patents}
 1. [CN115886997A] “Multi-segment coupled continuum robot for endovascular intervention and its control method.” Peng Qi, **Tianliang Yao**.
 
 2. [CN116363478A] “An image data set enhancement method, storage medium, and terminal via improved DCGAN.” Peng Qi, **Tianliang Yao**, Yi Zhang

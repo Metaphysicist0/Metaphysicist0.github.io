@@ -23,4 +23,9 @@ Prof. ***[Zhaolei Jiang](https://www.youlai.cn/super/docintro/40841)*** @ Xinhua
 
 Prof. ***[Bo Lu](https://lu-bo.github.io)*** @ Soochow Univ. & CUHK. (T Stone Robotics Institute).
 
+Dr. ***Mengjie Shi*** @ King's College London.
+
+Prof. ***[Wenfeng Xia](https://www.purlkcl.org/wenfengxia)*** @ King's College London.
+
+Prof. ***[Tom Vercauteren](https://cai4cai.ml/author/tom-vercauteren/)*** @ King's College London.
 ......

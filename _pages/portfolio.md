@@ -13,6 +13,8 @@ I have published some technical blogs and study notes on the CSDN Technology For
 
 ## Mentors
 
+Prof. X, my future supervisor.
+
 Prof. ***[Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)*** @ Tongji Univ.
 
 Prof. ***[Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/index.html)*** (MAE, RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CAA, CEng) @ KCL & SUSTech.

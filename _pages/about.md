@@ -10,7 +10,7 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 
 I am a student member of the IEEE, IEEE Robotics and Automation Society, CAA, and CCF.
 
-My research aims to discover how Artificial Intelligence (AI) aids the field of healthcare. Currently, I mainly focus on three major applications: intelligent medical robotics, medical image processing, and bioinformatic analysis. I seek to streamline and improve clinical workflows through technology. I aspire to explore all of these areas through research in the years ahead, gaining exciting and valuable insights and making meaningful contributions.
+My research aims to discover how Artificial Intelligence (AI) aids the field of healthcare. Currently, I mainly focus on three major applications: intelligent medical robotics, medical image analysis, and bioinformatic analysis. I seek to streamline and improve clinical workflows through technology and work towards image-based automation in robotic surgery. I aspire to explore all of these areas through research in the years ahead, gaining exciting and valuable insights and making meaningful contributions.
 
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 

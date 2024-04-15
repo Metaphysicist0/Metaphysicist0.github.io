@@ -13,46 +13,54 @@ redirect_from:
   
 -------------------------------------------------
 ## Project Experience
-#### AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform
+### *AI-powered Cardiovascular Intelligent Diagnosis and Treatment Platform*
+
 *Jan. 2022 -- Current*
+
 **Team leader**, in collaboration with Prof. Peng Qi, Prof. Chengjia Wang, and Prof. Bo Lu
-*Tongji University*
-- Medical image processing: segmentation and registration of 2D DSA Images and 3D CTA Images.
-- Design, processing, and testing of interventional surgery robot (for guidewire gripping and delivery).
 
-#### Venibot: Intelligent Painless Venipuncture Robot
+*Tongji University*
+
+### *Venibot: Intelligent Painless Venipuncture Robot*
+
 *Nov. 2022 -- Mar. 2023*
+
 Team member, in collaboration with Prof. Peng Qi
-*Tongji University*
-- Medical Image Analysis: Segmenting vessel from NIR images.
 
-#### A Deep-Learning System for Predicting the Efficacy of SOAIC for RB
+*Tongji University*
+
+### *A Deep-Learning System for Predicting the Efficacy of SOAIC for RB*
+
 *Jul. 2023 -- Current*
+
 In collaboration with Prof. Peng Qi, Prof. Chaohui Jing, and Dr. Xin Zhang
+
 *Tongji University and Xinhua Hospital*
-- Medical image processing: Segmentation of DSA images.
-- Bioinformatic Analysis: Correlation analysis and prognosis prediction via machine learning.
 
-#### A Deep-learning System for Identification of Molecular Subtypes of EC
+### *A Deep-learning System for Identification of Molecular Subtypes of EC*
+
 *Nov. 2023 -- Current*
+
 In collaboration with Prof. Peng Qi and Prof. Yiran Li
+
 *Tongji University*
-- Pathological image classification via deep learning.
 
-#### Automatic Needle Tracking with PA Enhancement and Deep-Learning
+### *Automatic Needle Tracking with PA Enhancement and Deep-Learning*
+
 *Jan. 2024 -- Apr. 2024*
-In collaboration with Dr. Mengjie Shi, Prof. Wenfeng Xia, and Prof. Tom Vercauteren
-*King's College London (Remote)*
-- Photoacoustic image segmentation, needle tip detection, and target tracking via Kalman Filter.
 
-#### Comprehensive Medical Image Analysis
+In collaboration with Dr. Mengjie Shi, Prof. Wenfeng Xia, and Prof. Tom Vercauteren
+
+*King's College London (Remote)*
+
+### *Comprehensive Medical Image Analysis*
+
 *Mar. 2024 -- Current*
+
 In collaboration with  Prof. Zhen Chen and Prof. Peng Qi.
+
 *CAIR and Tongji University*
-- Multimodality image analysis, ranging from DSA Images, Pathology Images, and CTA Images.
-- Advancing novel algorithms for imperfect medical image data.
-- Collection of new datasets.
-  
+
 -------------------------------------------------
 ## Publications
 <sup>\*</sup> denotes co-first authorship; 

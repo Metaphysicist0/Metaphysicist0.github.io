@@ -37,6 +37,12 @@ redirect_from:
   Tongji University & Shanghai First Maternity Infant Health Hospital Affiliated to Tongji Univ.
   
   * Pathological image classification via deep learning.
+ 
+* Pathology Image Analysis, member, Mar. 2024 -- Current.
+  
+  CAIR, HKISI, CAS, and Tongji University.
+  
+  * Pathological image classification via deep learning.
   
 -------------------------------------------------
 ## Publications

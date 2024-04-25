@@ -17,7 +17,7 @@ Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeCha
 
 ### Recent News
 * 2024.04 -- The *Pursuit of Excellence Scholarship* (the highest honor @ Tongji University, **3/44000, top 0.006% each year**).
-* 2024.04 -- Journal paper ***2D-3D Coronary Artery Registration Method Based on Super-pixel Particle Swarm Optimization*** has been submitted to IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) (JCR Q1, IF=5.3).
+* 2024.04 -- Journal paper ***A Two-stage 2D-3D Coronary Artery Registration Method based on Super-pixel Particle Swarm Optimization*** has been submitted to IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) (JCR Q1, IF=5.3).
 * 2024.03 -- Conference paper ***Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*** has been submitted to IEEE International Ultrasonics Symposium (IUS), 2024. (Research intern @ King's College London, advisor: Dr. Mengjie Shi, Prof. Tom Vercauteren, Prof. Wenfeng Xia)
 * 2023.12 -- **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th Annual Conference of China Robot Industry.
 * 2023.10 -- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track), Leader.

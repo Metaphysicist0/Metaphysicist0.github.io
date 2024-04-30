@@ -101,6 +101,7 @@ In collaboration with  Prof. Zhen Chen and Prof. Peng Qi, *CAIR and Tongji Unive
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.
 * **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2023.
 * **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2022.
+* The *Pursuit of Excellence Scholarship* (the highest honor @ Tongji University, **6/44000, top 0.013% each year**), May 2024.
 * The distinguished B. E. academic scholarship in Tongji University, 2022-2023.
 * The distinguished activity scholarship in Tongji University, 2022-2023.
 * The distinguished B. E. academic scholarship in Tongji University, 2021-2022.

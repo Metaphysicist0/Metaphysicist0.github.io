@@ -9,8 +9,9 @@ author_profile: true
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## **Journal**
-1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, Volume 166, November 2023. (JCR: Q1, IF=7.7)
+1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, Volume 166, November 2023. (JCR: Q1, IF=7.7).
 2. Peng Qi, Wenxi Qu, **Tianliang Yao**, Haonan Ma, Dylan Wintle, Yinyi Lai, Giorgos Papanastasiou, Chengjia Wang, "*2D-3D Coronary Artery Registration Method Based on Super-pixel Particle Swarm Optimization*", IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI). (JCR: Q1, IF=5.3, under review).
+3. Yiran Li, Jingnan Zhu, **Tianliang Yao**, Peng Qi, Qizhi He, “An Interpretable Deep Learning Model for Molecular Classification of Endometrial Cancer Using Whole Slide Images: A Prospective Cohort Study", eClinicalMedicine. (JCR Q1, IF: 15.1, under review).
 
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)

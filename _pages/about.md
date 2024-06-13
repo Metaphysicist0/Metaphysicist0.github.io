@@ -16,11 +16,11 @@ Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeCha
 
 
 ### Recent News
+* 2024.06 -- Conference paper ***Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*** is **accepted** as **oral** by IEEE International Ultrasonics Symposium (IUS), 2024. (Research intern @ King's College London, advisor: Dr. Mengjie Shi, Prof. Tom Vercauteren, Prof. Wenfeng Xia)
 * 2024.06 -- Journal paper ***An Interpretable Deep Learning Model for the Molecular Classification of Endometrial Cancer Using Immunohistochemical Digital Pathology Images: A Prospective Clinical Study with Large Sample Size, Multifactorial, and Survival Analysis*** has been submitted to eClinicalMedicine (JCR Q1, IF=15.1).
 * 2024.05 -- *Qi Di Scholarship*. (the highest honor @ the College of Electronic and Information Engineering, sponsored by Qidi Wu, former deputy minister of education, **20/1800, top 1% each year**).
 * 2024.04 -- The *Pursuit of Excellence Scholarship* (the highest honor @ Tongji University, **20/~44000 (including all academic staff and all students), top 0.05% each year**).
 * 2024.04 -- Journal paper ***A Two-stage 2D-3D Coronary Artery Registration Method based on Super-pixel Particle Swarm Optimization*** has been submitted to IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI) (JCR Q1, IF=5.3).
-* 2024.03 -- Conference paper ***Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*** has been submitted to IEEE International Ultrasonics Symposium (IUS), 2024. (Research intern @ King's College London, advisor: Dr. Mengjie Shi, Prof. Tom Vercauteren, Prof. Wenfeng Xia)
 * 2023.12 -- **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th Annual Conference of China Robot Industry.
 * 2023.10 -- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track), Leader.
 * 2023.10 -- Sharing talk on: **Application of Machine Learning in Coronary Artery Image Analysis**, CTOCC 2023.

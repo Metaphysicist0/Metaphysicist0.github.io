@@ -48,13 +48,14 @@ In collaboration with  Prof. Zhen Chen and Prof. Peng Qi, *CAIR and Tongji Unive
 <sup>\*</sup> denotes co-first authorship; 
 <sup>&dagger;</sup> denotes corresponding authorship.
 
-### **Journal**
-1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, Volume 166, November 2023. (JCR: Q1, IF=7.7)
-2. Peng Qi, Wenxi Qu, **Tianliang Yao**, Haonan Ma, Dylan Wintle, Yinyi Lai, Giorgos Papanastasiou, Chengjia Wang, "*2D-3D Coronary Artery Registration Method Based on Super-pixel Particle Swarm Optimization*", Information Fusion. (JCR: Q1, IF=18.6, under review).
+## **Journal**
+1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, Volume 166, November 2023. (JCR: Q1, IF=7.7).
+2. Peng Qi, Wenxi Qu, **Tianliang Yao**, Haonan Ma, Dylan Wintle, Yinyi Lai, Giorgos Papanastasiou, Chengjia Wang, "*2D-3D Coronary Artery Registration Method Based on Super-pixel Particle Swarm Optimization*", IEEE Transactions on Emerging Topics in Computational Intelligence (TETCI). (JCR: Q1, IF=5.3, under review).
+3. Peng Qi, **Tianliang Yao**, Jingnan Zhu, Qizhi He, Yiran Li, “An Interpretable Deep Learning Model for Molecular Classification of Endometrial Cancer Using Whole Slide Images: A Prospective Cohort Study", eClinicalMedicine. (JCR Q1, IF: 15.1, under review).
 
-### **Conference**
+## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
-2. Mengjie Shi, **Tianliang Yao**, Tom Vercauteren, Wenfeng Xia, "*Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*", IEEE International Ultrasonics Symposium (IUS), 2024. (**oral**)
+2. Mengjie Shi, **Tianliang Yao**, Tom Vercauteren, Wenfeng Xia, "*Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*", IEEE International Ultrasonics Symposium (IUS), 2024. (**Oral**)
 
 ### **Selected Patents**
 1. [CN115886997A] “Multi-segment coupled continuum robot for endovascular intervention and its control method.” Peng Qi, **Tianliang Yao**.

@@ -68,6 +68,7 @@ In collaboration with  Prof. Zhen Chen and Prof. Peng Qi, *CAIR and Tongji Unive
 5. [CN116913466A] “Pan-vascular interventional surgery training assistance system via large language model (LLM) and its construction and use methods.”  Peng Qi, **Tianliang Yao**, Ying Wang, Kexin He.
 
 -------------------------------------------------
+
 ## Talks
 * Sharing talk, "Application of Machine Learning in Coronary Artery Image Analysis," CTOCC 2023, Oct 2023.
  

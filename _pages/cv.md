@@ -79,6 +79,9 @@ In collaboration with  Prof. Zhen Chen and Prof. Peng Qi, *CAIR and Tongji Unive
 * Sharing talk on “Advancing Embodied AI in Percutaneous Coronary Intervention Robots,” Siemens Healthineers
 (Business Line of Endovascular Robotics), Jun 2024.
   [slides-Siemens@Tongji-English.pdf](../files/0615_Siemens_Tongji_v3.pdf)
+
+   <img src="/images/0615_Siemens.jpg" style="width: 50%; height: auto;" alt=" with Prof. Rebecca Fahrig and Dr. Markus from Siemens."> 
+  
 -------------------------------------------------
 ## Honors and Rewards
 * **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.

@@ -78,7 +78,7 @@ In collaboration with  Prof. Zhen Chen and Prof. Peng Qi, *CAIR and Tongji Unive
 
 * Sharing talk on “Advancing Embodied AI in Percutaneous Coronary Intervention Robots,” Siemens Healthineers
 (Business Line of Endovascular Robotics), Jun 2024.
-  [slides-ICARM2023-English.pdf](../files/0615_Seminar with Siemens@Tongji.pdf)
+  [slides-Siemens@Tongji-English.pdf](../files/0615_Seminar with Siemens@Tongji.pdf)
 -------------------------------------------------
 ## Honors and Rewards
 * **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.

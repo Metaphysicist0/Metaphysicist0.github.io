@@ -54,7 +54,7 @@ In collaboration with  Prof. Zhen Chen and Prof. Peng Qi, *CAIR and Tongji Unive
 
 ### **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
-2. Mengjie Shi, **Tianliang Yao**, Tom Vercauteren, Wenfeng Xia, "*Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*", IEEE International Ultrasonics Symposium (IUS), 2024. (under review)
+2. Mengjie Shi, **Tianliang Yao**, Tom Vercauteren, Wenfeng Xia, "*Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*", IEEE International Ultrasonics Symposium (IUS), 2024. (**oral**)
 
 ### **Selected Patents**
 1. [CN115886997A] “Multi-segment coupled continuum robot for endovascular intervention and its control method.” Peng Qi, **Tianliang Yao**.

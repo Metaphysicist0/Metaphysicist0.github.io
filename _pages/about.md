@@ -16,6 +16,7 @@ Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeCha
 
 
 ### Recent News
+* 2024.06 -- Very glad to have a sharing talk on **Advancing Embodied AI in Percutaneous Coronary Intervention Robots** at the Seminar with Prof. Rebecca Fahrig and Prof. Markus from Siemens Healthineers!
 * 2024.06 -- Conference paper ***Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*** is **accepted** as **oral** by IEEE International Ultrasonics Symposium (IUS), 2024. (Research intern @ King's College London, advisor: Dr. Mengjie Shi, Prof. Tom Vercauteren, Prof. Wenfeng Xia)
 * 2024.06 -- Journal paper ***An Interpretable Deep Learning Model for the Molecular Classification of Endometrial Cancer Using Immunohistochemical Digital Pathology Images: A Prospective Clinical Study with Large Sample Size, Multifactorial, and Survival Analysis*** has been submitted to eClinicalMedicine (JCR Q1, IF=15.1).
 * 2024.05 -- *Qi Di Scholarship*. (the highest honor @ the College of Electronic and Information Engineering, sponsored by Qidi Wu, former deputy minister of education, **20/1800, top 1% each year**).

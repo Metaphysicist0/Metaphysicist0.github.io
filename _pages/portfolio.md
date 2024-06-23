@@ -17,8 +17,6 @@ Prof. ***X***, my future supervisor.
 
 Prof. ***[Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm)*** @ Tongji Univ.
 
-Prof. ***[Zhen Chen](https://franciszchen.github.io/)*** @ CAIR, HKISI, CAS.
-
 Prof. ***[Jian S. Dai](https://nms.kcl.ac.uk/jian.dai/index.html)*** (MAE, RAE Fellow (FREng), Fellow of IEEE, ASME, RSA, IMechE, CAA, CEng) @ KCL & SUSTech.
 
 Prof. ***[Chengjia Wang](https://scholar.google.com/citations?hl=en&user=lwV4KfwAAAAJ&view_op=list_works&sortby=pubdate)*** @ Edinburgh Univ. & Heriot-Watt Univ.

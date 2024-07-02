@@ -8,7 +8,7 @@ redirect_from:
 
 Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) & [Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS)](https://srias.tongji.edu.cn/main.htm), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
-I am a student member of the IEEE, IEEE Robotics and Automation Society, CAA, and CCF.
+I am a student member of the IEEE, IEEE Robotics and Automation Society, Chinese Association of Automation (CAA), and China Computer Federation (CCF), while also serving as an Executive Committee Member of the Tongji University Student Branch of CAA.
 
 My research aims to discover how Artificial Intelligence (AI) aids the field of healthcare. Currently, I mainly focus on three major applications: intelligent medical robotics, medical image analysis, and bioinformatic analysis. I seek to streamline and improve clinical workflows through technology and work towards image-based automation in robotic surgery. I aspire to explore all of these areas through research in the years ahead, gaining exciting and valuable insights and making meaningful contributions.
 

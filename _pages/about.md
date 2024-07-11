@@ -8,12 +8,7 @@ redirect_from:
 
 Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) & [Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS)](https://srias.tongji.edu.cn/main.htm), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
-I am a student member of the IEEE, IEEE Robotics and Automation Society, CAA, and CCF, while also serving as an Executive Committee Member of the Tongji University Student Branch of CAA.
-
-My research aims to advance the integration of Artificial Intelligence (AI) in healthcare, focusing on three interconnected areas: embodied intelligent medical robotics, medical image analysis, and bioinformatic analysis. I am particularly interested in developing embodied AI systems for medical robots, enhancing their ability to perceive, reason, and interact within complex clinical environments. This work synergizes with my efforts in medical image analysis, where I seek to improve diagnostic accuracy and enable image-guided interventions. By leveraging these technologies, I strive to streamline clinical workflows and pioneer image-based automation in robotic surgery, pushing the boundaries of minimally invasive procedures. Concurrently, my research in bioinformatics aims to unlock insights from large-scale biological data, contributing to personalized medicine and drug discovery. Through this multifaceted approach, I aspire to make significant contributions to the field, driving innovations that bridge the gap between AI, robotics, and healthcare to ultimately enhance patient outcomes and revolutionize medical practices.
-
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
-
 
 ### Recent News
 * 2024.07 -- One survey regarding Wearable Devices for Blood Glucose Measurement has been submitted to **Biosensors and Bioelectronics (JCR Q1, IF:10.7)**.

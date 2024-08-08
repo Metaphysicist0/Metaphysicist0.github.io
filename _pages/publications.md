@@ -34,3 +34,6 @@ author_profile: true
 1. Sharing talk on "*Application of machine learning in coronary image analysis*," CTOCC 2023, Oct 2023.
 2. Oral presentation on "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*", ICARM 2023, Jul 2023.
 3. Sharing talk on “Advancing Embodied AI in Percutaneous Coronary Intervention Robots,” Siemens Healthineers (Business Line of Endovascular Robotics), Jun 2024.
+
+## **Academic Service**
+Reviewer for International Journal of Surgery (JCR Q1, IF: 12.9).

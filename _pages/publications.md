@@ -36,4 +36,4 @@ author_profile: true
 3. Sharing talk on “Advancing Embodied AI in Percutaneous Coronary Intervention Robots,” Siemens Healthineers (Business Line of Endovascular Robotics), Jun 2024.
 
 ## **Academic Service**
-Reviewer for International Journal of Surgery (JCR Q1, IF: 12.9), Journal of Systems Science and Systems Engineering.
+Reviewer for International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applications (JCR Q1, IF:7.5), Journal of Systems Science and Systems Engineering.

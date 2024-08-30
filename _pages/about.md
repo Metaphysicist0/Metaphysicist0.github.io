@@ -11,6 +11,8 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 
 ### Recent News
+* 2024.08 -- Working on multiple papers regarding medical robotics (design, sensing, learning & control and in vivo studies).
+* 2024.08 -- One paper regarding ECG Analysis has been submitted to **IEEE JBHI (JCR Q1, IF:7.0)**.
 * 2024.07 -- One survey regarding Wearable Devices for Blood Glucose Measurement has been submitted to **Biosensors and Bioelectronics (JCR Q1, IF:10.7)**.
 * 2024.07 -- One paper regarding WSIs has been submitted to **npj Digital Medicine (JCR Q1, IF: 15.2)**.
 * 2024.06 -- Very glad to have a sharing talk on **Advancing Embodied AI in Percutaneous Coronary Intervention Robots** at the Seminar with Prof. Rebecca Fahrig and Prof. Markus from Siemens Healthineers!

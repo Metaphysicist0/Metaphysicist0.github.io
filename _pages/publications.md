@@ -14,6 +14,7 @@ author_profile: true
 3. Peng Qi <sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Jingnan Zhu <sup>\*</sup>, Qizhi He, Yiran Li, "*An Interpretable Deep Learning Model for Molecular Classification of Endometrial Cancer Using Whole Slide Images: A Prospective Cohort Study*", npj Digital Medicine. (JCR Q1, IF: 15.2, under review).
 4. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Biosensors and Bioelectronics. (JCR Q1, IF: 10.7, under review)
 5. Di Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Xusen Sun, Rong Luo, "*Advancing ECG Signal Classification and Interpretation with a Hybrid Transformer-LSTM Model*",  IEEE Journal of Biomedical and Health Informatics. (JCR Q1, IF: 7.0, under review).
+6. Cheng Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Chenwei Wu, Jianyuan Ni4, "*Deep Learning for Personalized Electrocardiogram Diagnosis: A Reviewl*", Biosensors and Bioelectronics. (JCR Q1, IF: 10.7, under review)
 
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)

@@ -11,7 +11,7 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 
 ### Recent News
-* 2024.09 -- One paper regarding Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies has been submitted to ICRA 2025, and one more regarding sim2real is working!!!
+* 2024.09 -- 2 papers regarding Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies and Sim2Real on endovascular robotics have been submitted to ICRA 2025 !!!
 * 2024.08 -- One paper regarding ECG Analysis has been submitted to **IEEE JBHI (JCR Q1, IF:7.0)**.
 * 2024.07 -- One survey regarding Wearable Devices for Blood Glucose Measurement has been submitted to **Biosensors and Bioelectronics (JCR Q1, IF:10.7)**.
 * 2024.07 -- One paper regarding WSIs has been submitted to **npj Digital Medicine (JCR Q1, IF: 15.2)**.

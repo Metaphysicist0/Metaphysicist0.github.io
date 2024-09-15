@@ -15,6 +15,7 @@ author_profile: true
 4. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Biosensors and Bioelectronics. (JCR Q1, IF: 10.7, under review)
 5. Di Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Xusen Sun, Rong Luo, "*Advancing ECG Signal Classification and Interpretation with a Hybrid Transformer-LSTM Model*",  IEEE Journal of Biomedical and Health Informatics. (JCR Q1, IF: 7.0, under review).
 6. Cheng Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Chenwei Wu, Jianyuan Ni4, "*Deep Learning for Personalized Electrocardiogram Diagnosis: A Reviewl*", Biosensors and Bioelectronics. (JCR Q1, IF: 10.7, under review)
+7. Yong Li<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Kun Zhao<sup>\*</sup>, Xuesong Li, Xiaozheng Song, Xuguang Xu, Jinshuang Li, Tong Wang, Yu Chen, Dajie Wang, Yutian Shen, Zhihao Yang, Zican Zhou, Bo Lu, Liu Wang, Tao Shan, Yun Liu, Peng Qi, “A Safe Planning of Percutaneous Coronary Intervention for Coronary Artery Dissection: A Retrospective Analysis", Journal of the American College of Cardiology (JACC), (JCR Q1, IF: 21.7, under review)
 
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)

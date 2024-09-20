@@ -11,11 +11,8 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 
 ### Recent News
-* 2024.09 -- One paper regarding AI-assisted cardiovascular intervention planning has been submitted to **JACC Cardiovascular Imaging**.
+* 2024.09 -- *Baosteel Scholarship* (top 0.5%). 
 * 2024.09 -- 2 papers regarding Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies and Sim2Real on endovascular robotics have been submitted to ICRA 2025 !!!
-* 2024.08 -- One paper regarding ECG Analysis has been submitted to **IEEE JBHI (JCR Q1, IF:7.0)**.
-* 2024.07 -- One survey regarding Wearable Devices for Blood Glucose Measurement has been submitted to **Biosensors and Bioelectronics (JCR Q1, IF:10.7)**.
-* 2024.07 -- One paper regarding WSIs has been submitted to **npj Digital Medicine (JCR Q1, IF: 15.2)**.
 * 2024.06 -- Very glad to have a sharing talk on **Advancing Embodied AI in Percutaneous Coronary Intervention Robots** at the Seminar with Prof. Rebecca Fahrig and Prof. Markus from Siemens Healthineers!
 * 2024.06 -- Conference paper ***Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*** is **accepted** as **oral** by IEEE International Ultrasonics Symposium (IUS), 2024. (Research intern @ King's College London, advisor: Dr. Mengjie Shi, Prof. Tom Vercauteren, Prof. Wenfeng Xia)
 * 2024.05 -- *Qi Di Scholarship*. (the highest honor @ the College of Electronic and Information Engineering, sponsored by Qidi Wu, former deputy minister of education, **20/1800, top 1% each year**).

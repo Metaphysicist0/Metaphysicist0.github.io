@@ -11,6 +11,7 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 
 ### Recent News
+* 2024.09 -- *National Scholarship*.
 * 2024.09 -- *Baosteel Scholarship* (top 0.5%). 
 * 2024.09 -- 2 papers regarding Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies and Sim2Real on endovascular robotics have been submitted to ICRA 2025 !!!
 * 2024.06 -- Very glad to have a sharing talk on **Advancing Embodied AI in Percutaneous Coronary Intervention Robots** at the Seminar with Prof. Rebecca Fahrig and Prof. Markus from Siemens Healthineers!

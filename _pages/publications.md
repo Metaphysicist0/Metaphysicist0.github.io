@@ -16,7 +16,9 @@ author_profile: true
 5. Di Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Xusen Sun, Rong Luo, "*Advancing ECG Signal Classification and Interpretation with a Hybrid Transformer-LSTM Model*",  IEEE Journal of Biomedical and Health Informatics. (JCR Q1, IF: 7.0, under review).
 6. Cheng Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Chenwei Wu, Jianyuan Ni, "*Deep Learning for Personalized Electrocardiogram Diagnosis: A Review*", Biosensors and Bioelectronics. (JCR Q1, IF: 10.7, major revision)
 7. Yong Li<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Kun Zhao<sup>\*</sup>, Xuesong Li, Xiaozheng Song, Xuguang Xu, Jinshuang Li, Tong Wang, Yu Chen, Dajie Wang, Yutian Shen, Zhihao Yang, Zicai Zhou, Bo Lu, Liu Wang, Tao Shan, Yun Liu, Peng Qi, “*A Safe Planning of Percutaneous Coronary Intervention for Coronary Artery Dissection: A Retrospective Analysis*", JACC Cardiovascular Imaging. (JCR Q1, IF: 12.8, under review)
-
+8. Mengjie Shi, **Tianliang Yao**, Tom Vercauteren, Wenfeng Xia, "*Data-driven Needle Tip Tracking with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*", IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (Special Section: 2024 UFFC Joint Symposium). (under review)
+9. Luqi Gong, Haotian Chen, Yikun Chen, **Tianliang Yao**, Shuai Zhao, Chao Li, Guangjie Han, "*DPNet: Dynamic Pooling Network for Accurate and Efficient Size-Aware Tiny Object Detection*", IEEE Internet of Things Journal. (JCR Q1, IF: 8.2, under review)
+    
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
 2. Mengjie Shi, **Tianliang Yao**, Tom Vercauteren, Wenfeng Xia, "*Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*", IEEE International Ultrasonics Symposium (IUS), 2024. (**Oral**)

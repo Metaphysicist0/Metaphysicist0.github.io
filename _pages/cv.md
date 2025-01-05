@@ -34,7 +34,6 @@ redirect_from:
 ## Honors and Rewards
 
 * **Baosteel Scholarship Special Award (宝钢优秀学生特等奖)** (15 undergrads nationwide), Nov 2024.
-* 
 * **Academic Star Pacesetter of Tongji (同济大学学术之星标兵)**, the highest honor for undergrads @ Tongji （6 undergraduates per year）, Nov 2024.
 * **The Pursuit of Excellence Scholarship (同济大学追求卓越奖励基金)** (the highest honor @ Tongji., 20/~44,000 applicants (including all academic staff and all students), top 0.05%), May 2024.
 * **Qi Di Scholarship (启迪奖学金)** (the highest honor @ the College of Electronic and Information Engineering, sponsored by Qidi Wu (吴启迪), former deputy minister of education and former president of Tongji Univ., 20/~1800, top 1%), May 2024.

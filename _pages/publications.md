@@ -17,7 +17,7 @@ author_profile: true
 6. Xihe Qiu, Haoyu Wang, **Tianliang Yao**, Xiaoyu Tan, Chao Qu, Yuan Cheng, Zhijun Fang, and Peng Qi, "*Learning Expressive Task Embeddings and Sample-Efficient Exploration for Context Shift Reduction in Offline Meta-Reinforcement Environment*", IEEE Transactions on Systems, Man and Cybernetics: Systems (T-SMC). (JCR Q1, IF: 8.6, under review)
 7. **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, and Peng Qi, "*Simulation-based Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE Transactions on Automation Science and Engineering (T-ASE). (JCR Q1, IF: 5.9, under review)
 8. Haoyu Wang, **Tianliang Yao**, Bin Chen, Yujie Zeng, Chenyu Zhou, Anji Li, "*Operational Risk Mitigation in Complex Systems: Enhancing Safety and Reliability of Power Generation Systems on Intelligent Control Strategies Using Adversarial Imitation Learning*", IEEE Transactions on Parallel and Distributed Systems (T-PDS). (JCR Q1, IF: 5.6, under review)
-9. Haoyu Wang, **Tianliang Yao**, Bin Chen, Chenyu Zhou, Hangling Sun, and Anji Li, "Adaptive Electromagnetic Signal Analysis via Non-Euclidean Manifold Learning for Atmospheric Precipitation Understanding", IEEE Signal Processing Letters. (JCR Q1, IF: 3.2, under review)
+9. Haoyu Wang, **Tianliang Yao**, Bin Chen, Chenyu Zhou, Hangling Sun, and Anji Li, "*Adaptive Electromagnetic Signal Analysis via Non-Euclidean Manifold Learning for Atmospheric Precipitation Understanding*", IEEE Signal Processing Letters. (JCR Q1, IF: 3.2, under review)
 
     
 ## **Conference**

@@ -10,7 +10,7 @@ author_profile: true
 
 ## **Journal**
 1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, Volume 166, November 2023. (JCR: Q1, IF: 7.7).
-2.  Cheng Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Chenwei Wu, Jianyuan Ni, "*Advances in Deep Learning for Personalized ECG Diagnostics: A Systematic Review Addressing Inter-Patient Variability and Generalization Constraints*", Biosensors and Bioelectronics. (JCR Q1, IF: 10.7)
+2. Cheng Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Chenwei Wu, Jianyuan Ni, "*Advances in Deep Learning for Personalized ECG Diagnostics: A Systematic Review Addressing Inter-Patient Variability and Generalization Constraints*", Biosensors and Bioelectronics. (JCR Q1, IF: 10.7)
 3. Peng Qi, Wenxi Qu, **Tianliang Yao**, Haonan Ma, Dylan Wintle, Yinyi Lai, Giorgos Papanastasiou, Chengjia Wang, "*2D-3D Coronary Artery Registration Method Based on Super-pixel Particle Swarm Optimization*", IEEE Transactions on Computational Imaging (TCI). (JCR: Q1, IF: 4.2, under review).
 4. Peng Qi <sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Jingnan Zhu <sup>\*</sup>, Qizhi He, Yiran Li, "*An Interpretable Deep Learning Model for Molecular Classification of Endometrial Cancer Using Whole Slide Images: A Prospective Cohort Study*", npj Digital Medicine. (JCR Q1, IF: 15.2, under review).
 5. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Artificial Intelligence Review. (JCR Q1, IF: 10.7, major revision)
@@ -44,4 +44,5 @@ author_profile: true
 3. Sharing talk on “Advancing Embodied AI in Percutaneous Coronary Intervention Robots,” Siemens Healthineers (Business Line of Endovascular Robotics), Jun 2024.
 
 ## **Academic Service**
+Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 Reviewer for International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applications (JCR Q1, IF:7.5), Journal of Systems Science and Systems Engineering.

@@ -30,7 +30,6 @@ redirect_from:
    *with Prof. Rebecca Fahrig and Dr. Markus from Siemens.*
   
 -------------------------------------------------
-
 ## Honors and Rewards
 
 * **Baosteel Scholarship Special Award (宝钢优秀学生特等奖)** (15 undergrads nationwide), Nov 2024.
@@ -68,8 +67,5 @@ redirect_from:
 * The distinguished activity scholarship in Tongji University, 2021-2023.
 
 -------------------------------------------------
-## Skills
-* Programming Languages: Python, LaTeX, C/C++, MATLAB, R, HTML, JavaScript, CSS, Verilog HDL.
-* Tech Skills: Pytorch, OpenCV, 3DSlicer, Arduino, Multisim.
-  
-
+## Mentoring
+* Madaoji Ban (RA, 2024-2025, 3rd year undergraduate @ HKU EE) with 1 ICRA paper submission.

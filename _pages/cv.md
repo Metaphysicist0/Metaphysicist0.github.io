@@ -56,10 +56,6 @@ redirect_from:
 
 * **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th Annual Conference of China Robot Industry, Dec 2023.
 
- <img src="/images/微信图片_20240121211304.jpg" style="width: 50%; height: auto;" alt=" Ding Han, expert in mechanical and electronic engineering and FCAE, presented the award to my instructor Prof. Peng Qi."> 
- 
- *Prof. Han Ding, expert in mechanical and electronic engineering and FCAS, presented the award to my instructor Prof. Peng Qi. Dec 2023.*
-
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.
 * **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2022, 2023.

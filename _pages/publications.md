@@ -23,8 +23,8 @@ author_profile: true
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
 2. Mengjie Shi, **Tianliang Yao**, Tom Vercauteren, Wenfeng Xia, "*Learned Needle Tip Localization with A Photoacoustic Beacon for Ultrasound-Guided Minimally Invasive Procedures*", IEEE International Ultrasonics Symposium (IUS), 2024. (**Oral**)
-3. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE Conference on Robotics and Automation (ICRA), 2025. (under review).
-4. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*"  IEEE Conference on Robotics and Automation (ICRA), 2025. (under review).
+3. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE Conference on Robotics and Automation (ICRA), 2025.
+4. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*"  IEEE Conference on Robotics and Automation (ICRA), 2025.
 
 ## **Selected Patents**
 1. [CN115886997A] “Multi-segment coupled continuum robot for endovascular intervention and its control method.” Peng Qi, **Tianliang Yao**.

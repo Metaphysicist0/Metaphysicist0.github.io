@@ -55,8 +55,11 @@ redirect_from:
 *2023 IEEE ICARM Best Conference Paper Finalist, Jul 2023.*
 
 * **Robot Application Innovation Award** (Key technologies of endovascular interventional surgical robot, awarded to Medical Robot Research Team of Tongji University) in the 4th Annual Conference of China Robot Industry, Dec 2023.
+<img src="/images/Robot_Application_Innovation_Award.png" style="width: 50%; height: auto;" alt="2023 Robot Application Innovation Award, Dec 2023."> 
 
 * **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
+  <img src="/images/Exhibition_Award.jpg" style="width: 50%; height: auto;" alt="Exhibition_Award, Jun 2023.">
+  
 * **Grand Prize** in “Challenge Cup” Shanghai College Students Contest of Extracurricular Academic and Scientific Work, May 2023.
 * **First Prize** in “Intelligent Robot Fighting Competition” of China, Nov 2022, 2023.
 * The distinguished B. E. academic scholarship in Tongji University, 2021-2023.

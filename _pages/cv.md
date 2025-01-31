@@ -11,7 +11,7 @@ redirect_from:
 * B.E. Degree, Automation, Tongji University, GPA:89/95, Rank:1/61, Shanghai, China, Sep. 2021 ~ Jul. 2025 (expected).
   * Supervisor: Prof. Peng Qi.
   
-* Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, GPA:89/95, Rank:1/61, Hong Kong SAR, China, Aug. 2025 ~ Jul. 2029 (expected).
+* Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Aug. 2025 ~ Jul. 2029 (expected).
   * Supervisor: Prof. Yixuan Yuan.
   
 

@@ -6,7 +6,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) & [Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS)](https://srias.tongji.edu.cn/main.htm), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
+Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) & [Shanghai Research Institute for Intelligent Autonomous Systems (SRIAS)](https://srias.tongji.edu.cn/main.htm), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm). I am also an incoming Ph.D. student at AIM group at the Department of Electronic Engineering, The Chinese University of Hong Kong supervised by Prof. Yixuan Yuan.
 
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 

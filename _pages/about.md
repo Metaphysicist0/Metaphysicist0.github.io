@@ -11,7 +11,7 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 Reach me at yaotianliang2003@gmail.com or yaotianliang@tongji.edu.cn (also WeChat: ytl20030607) if you want to discuss research ideas or work together with me. Welcome!!!
 
 ### Recent News
-* 2025.01 -- 2 papers are accepted by ICRA 2025 (Embodied AI in medical robotics and its clinical application) with the **IEEE RAS Travel Grant Award**!
+* 2025.01 -- 2 papers are accepted by ICRA 2025 (Embodied AI in medical robotics and its clinical application) with the **IEEE ICRA RAS Travel Grant Award**!
 * 2024.12 -- One paper regarding Personalized ECG Diagnosis has been accepted by *Biosensors and Bioelectronics* (JCR Q1, IF:10.7)!
 * 2024.11 -- *Baosteel Scholarship Special Award*. 
 * 2024.05 -- *Qi Di Scholarship*. (the highest honor @ the College of Electronic and Information Engineering, sponsored by Qidi Wu, former deputy minister of education, **20/1800, top 1% each year**).

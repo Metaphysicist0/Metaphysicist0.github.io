@@ -26,7 +26,8 @@ author_profile: true
 4. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE Conference on Robotics and Automation (ICRA), 2025.
 5. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (under review)
 6. Yuhui Hu, **Tianliang Yao**, Jingwei Song, Di Wu, Lei Ma, Peng Qi, "*Deep Learning based Guidewire Robot Tip-Force Estimation from Intraoperative DSA Images with a Physics-Embedded Model*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (under review)
-7. Haoyu Wang, Xihe Qiu, **Tianliang Yao**, Xiaoyu Tan, Sijia Li, "*Hybrid Physical-Linguistic Knowledge Fusion for Efficient Enhanced Robotic Coordination in Subequivariant Reinforcement Learning Framework*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (under review)
+7. Sijia Li, Xiaoyu Tan, Chen Zhan, Haoyu Wang, **Tianliang Yao**, Xihe Qiu, "*MLLM-Supervised Reinforcement Learning for Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (under review)
+8. Haoyu Wang, Xihe Qiu, **Tianliang Yao**, Xiaoyu Tan, Sijia Li, "*Hybrid Physical-Linguistic Knowledge Fusion for Efficient Enhanced Robotic Coordination in Subequivariant Reinforcement Learning Framework*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (under review)
 
 
 ## **Selected Patents**

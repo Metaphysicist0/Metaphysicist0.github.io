@@ -72,7 +72,7 @@ redirect_from:
 ## Academic Service
 * Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 
-* Reviewer for International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applications (JCR Q1, IF:7.5), Knowledge-based Systems (JCR Q1, IF:7.2). IEEE IROS 2025, Journal of Systems Science and Systems Engineering.
+* Reviewer for International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applications (JCR Q1, IF:7.5), Knowledge-based Systems (JCR Q1, IF:7.2). IROS 2025, IJCNN 2025, Journal of Systems Science and Systems Engineering.
 
 -------------------------------------------------
 ## Mentoring

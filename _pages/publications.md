@@ -49,6 +49,9 @@ author_profile: true
 International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applications (JCR Q1, IF:7.5), Knowledge-based Systems (JCR Q1, IF:7.2), Journal of Systems Science and Systems Engineering.
 #### **Conference Reviewer**
 IROS 2025, IJCNN 2025.
+#### **Academic Organizations**
+Student Committee Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
+
 
 ## **Presentation**
 1. Sharing talk on "*Application of machine learning in coronary image analysis*," CTOCC 2023, Oct 2023.

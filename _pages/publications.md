@@ -45,11 +45,11 @@ author_profile: true
 5. [CN116913466A] “Pan-vascular interventional surgery training assistance system via large language model (LLM) and its construction and use methods.”  Peng Qi, **Tianliang Yao**, Ying Wang, Kexin He.
 
 ## **Services**
-#### **Journal Reviewer**
+### **Journal Reviewer**
 International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applications (JCR Q1, IF:7.5), Knowledge-based Systems (JCR Q1, IF:7.2), Journal of Systems Science and Systems Engineering.
-#### **Conference Reviewer**
+### **Conference Reviewer**
 IROS 2025, IJCNN 2025.
-#### **Academic Organizations**
+### **Academic Organizations**
 Student Committee Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 
 

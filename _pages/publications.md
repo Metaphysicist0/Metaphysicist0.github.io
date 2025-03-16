@@ -32,18 +32,6 @@ author_profile: true
 8. Haoyu Wang, Xihe Qiu, **Tianliang Yao**, Xiaoyu Tan, Sijia Li, "*Hybrid Physical-Linguistic Knowledge Fusion for Efficient Enhanced Robotic Coordination in Subequivariant Reinforcement Learning Framework*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (under review)
 9. Haoyu Wang, Bin Chen, Zilong Yin, **Tianliang Yao**, Sijia Li, Hangling Sun, Chenyu Zhou, "*Distributed Formation Control and Collision Avoidance Using Subequivariant Properties*", Chinese Control Conference (CCC), 2025. (under review)
 
-
-## **Selected Patents**
-1. [CN115886997A] “Multi-segment coupled continuum robot for endovascular intervention and its control method.” Peng Qi, **Tianliang Yao**.
-
-2. [CN116363478A] “An image data set enhancement method, storage medium, and terminal via improved DCGAN.” Peng Qi, **Tianliang Yao**, Yi Zhang
-
-3. [CN116416288A] “An angiography image registration method via AKAZE and ResNet.”  Peng Qi, **Tianliang Yao**, Yiran Li.
-
-4. [CN117426752A] “A method for determining the location of vascular stenosis based on Newton's method.”  Peng Qi, **Tianliang Yao**, Miaojing Shi.
-
-5. [CN116913466A] “Pan-vascular interventional surgery training assistance system via large language model (LLM) and its construction and use methods.”  Peng Qi, **Tianliang Yao**, Ying Wang, Kexin He.
-
 ## **Services**
 ### **Journal Reviewer**
 International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applications (JCR Q1, IF:7.5), Knowledge-based Systems (JCR Q1, IF:7.2), Journal of Systems Science and Systems Engineering.
@@ -51,7 +39,6 @@ International Journal of Surgery (JCR Q1, IF: 12.9), Expert Systems with Applica
 IROS 2025, IJCNN 2025.
 ### **Academic Organizations**
 Student Committee Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
-
 
 ## **Presentation**
 1. Sharing talk on "*Application of machine learning in coronary image analysis*," CTOCC 2023, Oct 2023.

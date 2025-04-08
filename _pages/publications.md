@@ -9,7 +9,7 @@ author_profile: true
 <sup>&dagger;</sup> denotes corresponding authorship.
 
 ## **Journal**
-1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, Volume 166, November 2023. (JCR: Q1, IF: 7.7).
+1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7).
 2. Cheng Ding<sup>\*</sup>, **Tianliang Yao <sup>\*</sup>**, Chenwei Wu, Jianyuan Ni, "*Advances in Deep Learning for Personalized ECG Diagnostics: A Systematic Review Addressing Inter-Patient Variability and Generalization Constraints*", Biosensors and Bioelectronics, 2024. (JCR Q1, IF: 10.7)
 3. **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 5.9)
 4. Luqi Gong, Haotian Chen, Yikun Chen, **Tianliang Yao**, Shuai Zhao, Chao Li, Guangjie Han, "*DPNet: Dynamic Pooling Network for Accurate and Efficient Size-Aware Tiny Object Detection*", IEEE Internet of Things Journal (IoTJ), 2025. (JCR Q1, IF: 8.2)

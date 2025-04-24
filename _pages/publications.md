@@ -20,7 +20,8 @@ author_profile: true
 9. Xihe Qiu, Haoyu Wang, **Tianliang Yao**, Xiaoyu Tan, Chao Qu, Yuan Cheng, Zhijun Fang, and Peng Qi, "*Learning Expressive Task Embeddings and Sample-Efficient Exploration for Context Shift Reduction in Offline Meta-Reinforcement Environment*", IEEE Transactions on Systems, Man and Cybernetics: Systems (T-SMC). (JCR Q1, IF: 8.6, under review)
 10. Haoyu Wang, **Tianliang Yao**, Bin Chen, Yujie Zeng, Chenyu Zhou, Anji Li, "*Operational Risk Mitigation in Complex Systems: Enhancing Safety and Reliability of Power Generation Systems on Intelligent Control Strategies Using Adversarial Imitation Learning*", IEEE Transactions on Parallel and Distributed Systems (T-PDS). (JCR Q1, IF: 5.6, under review)
 11. Shuang Liang, Zhicheng Liu, Guangyuan Liu, **Tianliang Yao**, Chunyi Yang, Peng Qi, "*Self-Supervised Coronary Vessel Segmentation in X-Ray Angiography with Perspective Synthesis and Fourier Spectral Constraints*", IEEE Transactions on Medical Imaging (TMI). (JCR Q1, IF: 8.9, under review)
-
+12. Haoyu Wang, **Tianliang Yao**, Sijia Li, Ka Gao, Hangling Sun, Chenyu Zhou, Anji Li, Qiangqiang Fu, Yu Wang, Bin Chen, "*A Hierarchical Information Policy Fusion Framework with Multimodal Large Language Models for Autonomous Guidewire Navigation in Endovascular Procedures*", Information Fusion. (JCR Q1, IF: 14.7, under review)
+13. **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions*", Nature Reviews Electrical Engineering. (under review)
     
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ARM), 2023. (**Best Conference Paper Finalist**)

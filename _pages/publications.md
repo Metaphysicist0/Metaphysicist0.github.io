@@ -23,6 +23,7 @@ author_profile: true
 12. Haoyu Wang, **Tianliang Yao**, Sijia Li, Ka Gao, Hangling Sun, Chenyu Zhou, Anji Li, Qiangqiang Fu, Yu Wang, Bin Chen, "*A Hierarchical Information Policy Fusion Framework with Multimodal Large Language Models for Autonomous Guidewire Navigation in Endovascular Procedures*", Information Fusion. (JCR Q1, IF: 14.7, under review)
 13. **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions*", Nature Reviews Electrical Engineering. (under review)
 14. Haoyu Wang, Bin Chen, **Tianliang Yao**, Ka Gao, "*Latent Dynamics Subequivariant and Context-Aware Variational Collaborative Control for Continuum Robots with Multi-Objective Optimization*", Expert Systems With Applications. (JCR Q1, IF: 7.5, under review)
+15. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY), under review. (JCR Q1, IF: 6.8)
     
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ARM), 2023. (**Best Conference Paper Finalist**)

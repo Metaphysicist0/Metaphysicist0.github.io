@@ -14,7 +14,7 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 * 2025.03 -- 1 paper regarding embodied intelligence in robotic-assisted endovascular procedure has been accepted by IEEE T-ASE!
 * 2025.01 -- 2 papers are accepted by ICRA 2025 (Embodied AI in medical robotics and its clinical application) with the **IEEE ICRA RAS Travel Grant Award**!
 * 2024.12 -- One paper regarding Personalized ECG Diagnosis has been accepted by *Biosensors and Bioelectronics* (JCR Q1, IF:10.7)!
-* 2024.11 -- *Baosteel Scholarship Special Award*. 
-* 2024.05 -- *Qi Di Scholarship*. (the highest honor @ the College of Electronic and Information Engineering, sponsored by Qidi Wu, former deputy minister of education, **20/1800, top 1% each year**).
+* 2024.11 -- *Baosteel Scholarship Special Award* (15 undergraduates per year). 
+* 2024.05 -- *Qi Di Scholarship*.
 * 2024.04 -- The *Pursuit of Excellence Scholarship* (the highest honor @ Tongji University, **20/~44000 (including all academic staff and all students), top 0.05% each year**).
 * 2023.07 -- Conference paper ***[A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties](https://ieeexplore.ieee.org/abstract/document/10218965/authors#authors)*** (my first paper and my first conference paper) is awarded as **Best Conference Paper Finalist** in IEEE ICARM 2023.

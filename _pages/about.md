@@ -10,6 +10,7 @@ Hi! I am Tianliang Yao, an undergraduate at the Department of Control Science an
 
 
 ### Recent News
+* 2025.04 -- I won the *Pursuit of Excellence Scholarship* (the highest honor @ Tongji University) **again**!
 * 2025.03 -- 1 paper regarding embodied intelligence in robotic-assisted endovascular procedure has been accepted by IEEE T-ASE!
 * 2025.01 -- 2 papers are accepted by ICRA 2025 (Embodied AI in medical robotics and its clinical application) with the **IEEE ICRA RAS Travel Grant Award**!
 * 2024.12 -- One paper regarding Personalized ECG Diagnosis has been accepted by *Biosensors and Bioelectronics* (JCR Q1, IF:10.7)!

@@ -76,8 +76,5 @@ redirect_from:
 
 -------------------------------------------------
 ## Mentoring
-* Madaoji Ban (RA, 2024-2025, 3rd-year undergraduate @ HKU EE) with 1 ICRA paper submission.
+* Madaoji Ban (RA, 2024-2025, 3rd-year undergraduate @ HKU EE) with 1 ICRA paper accepted.
   
-* Gengyi Feng (RA, 2024-2025, 4th-year undergraduate @ Tongji Rehabilitation).
-
-* Chenghao Li (RA, 2024-2025, 2nd-year undergraduate @ Tongji Mechatronics).

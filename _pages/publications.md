@@ -33,6 +33,8 @@ Expert Systems with Applications (JCR Q1, IF:7.5)
 
 Knowledge-based Systems (JCR Q1, IF:7.2)
 
+IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 5.9)
+
 Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
 
 Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)

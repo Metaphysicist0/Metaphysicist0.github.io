@@ -14,6 +14,9 @@ author_profile: true
 3. **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 5.9)
 4. Di Ding<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Genyi Feng, Xueqing Gao, Rong Luo, Xusen Sun, "*Empowering Biomedical Research with Foundation Models in Computational Microscopy: A Systematic Review*", Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
 5. Luqi Gong, Haotian Chen, Yikun Chen, **Tianliang Yao**, Shuai Zhao, Chao Li, Guangjie Han, "*DPNet: Dynamic Pooling Network for Accurate and Efficient Size-Aware Tiny Object Detection*", IEEE Internet of Things Journal (IoTJ), 2025. (JCR Q1, IF: 8.2)
+6. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems. (JCR Q1, IF: 10.7, minor revision)
+7. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Artificial Intelligence Review. (JCR Q1, IF: 10.7, minor revision)
+8. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY), under review. (JCR Q1, IF: 6.8, minor revision)
 
     
 ## **Conference**

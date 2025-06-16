@@ -15,10 +15,10 @@ author_profile: true
 4. Di Ding<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Genyi Feng, Xueqing Gao, Rong Luo, Xusen Sun, "*Empowering Biomedical Research with Foundation Models in Computational Microscopy: A Systematic Review*", Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
 5. Luqi Gong, Haotian Chen, Yikun Chen, **Tianliang Yao**, Shuai Zhao, Chao Li, Guangjie Han, "*DPNet: Dynamic Pooling Network for Accurate and Efficient Size-Aware Tiny Object Detection*", IEEE Internet of Things Journal (IoTJ), 2025. (JCR Q1, IF: 8.2)
 6. Qin Sun, Xinyi Zhang, Jiani You, Yueshan Pang, Zining Luo, Yuhang Liu, Yuquan Chen, Yixin Sun, Zifeng Zhuang, Zhiwu Li, Anan Yu, **Tianliang Yao**, Ming He, Xu Liu, Yuan Zhang, Yongfu Xiong, Yixing Ren, Jiebin Xie, "*Comparative effectiveness of colonic stenting alone and with neoadjuvant chemotherapy for patients with left-sided obstructive colon cancer: A meta-analysis*", International Journal of Surgery (IJS), 2025. (JCR Q1, IF: 12.5)
-7. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems. (JCR Q1, IF: 10.7, minor revision)
-8. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Artificial Intelligence Review. (JCR Q1, IF: 10.7, minor revision)
-9. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY). (JCR Q1, IF: 6.8, minor revision)
-10. Di Ding<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Haoyu Wang, Rong Luo, Xusen Sun, "*Vision-Based Contact Force Sensing in Robotic Surgery: A Technical Review*", IEEE Transactions on Medical Robotics and Bionics (T-MRB), (JCR Q1, IF: 3.4, minor revision)
+7. Di Ding<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Haoyu Wang, Rong Luo, Xusen Sun, "*Vision-Based Contact Force Sensing in Robotic Surgery: A Technical Review*", IEEE Transactions on Medical Robotics and Bionics (T-MRB), (JCR Q1, IF: 3.4)
+8. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems. (JCR Q1, IF: 10.7, minor revision)
+9. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Artificial Intelligence Review. (JCR Q1, IF: 10.7, minor revision)
+10. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY). (JCR Q1, IF: 6.8, minor revision)
 
     
 ## **Conference**
@@ -28,6 +28,7 @@ author_profile: true
 4. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE International Conference on Robotics and Automation (ICRA), 2025.
 5. Haoyu Wang, Bin Chen, Zilong Yin, **Tianliang Yao**, Sijia Li, Hangling Sun, Chenyu Zhou, "*Distributed Formation Control and Collision Avoidance Using Subequivariant Properties*", The 44th Chinese Control Conference (CCC), 2025.
 6. Xiasi Wang, **Tianliang Yao**, Simin Chen, Runqi Wang, Lei Ye, Kuofeng Gao, Yi Huang, Yuan Yao, "*VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service*", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. (**Main**)
+7. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 
 
 ## **Services**

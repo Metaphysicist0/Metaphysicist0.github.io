@@ -27,7 +27,7 @@ author_profile: true
 3. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*", IEEE International Conference on Robotics and Automation (ICRA), 2025. (**IEEE ICRA RAS Travel Grants Award**)
 4. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE International Conference on Robotics and Automation (ICRA), 2025.
 5. Haoyu Wang, Bin Chen, Zilong Yin, **Tianliang Yao**, Sijia Li, Hangling Sun, Chenyu Zhou, "*Distributed Formation Control and Collision Avoidance Using Subequivariant Properties*", The 44th Chinese Control Conference (CCC), 2025.
-6. Xiasi Wang, **Tianliang Yao**, Simin Chen, Runqi Wang, Lei Ye, Kuofeng Gao, Yi Huang, Yuan Yao, "*VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service*", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. (**Main**)
+6. Xiasi Wang<sup>\*</sup>**, **Tianliang Yao<sup>\*</sup>****, Simin Chen, Runqi Wang, Lei Ye, Kuofeng Gao, Yi Huang, Yuan Yao, "*VLMInferSlow: Evaluating the Efficiency Robustness of Large Vision-Language Models as a Service*", The 63rd Annual Meeting of the Association for Computational Linguistics (ACL), 2025. (**Main**)
 7. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025.
 
 

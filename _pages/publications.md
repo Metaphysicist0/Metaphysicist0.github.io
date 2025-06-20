@@ -17,8 +17,9 @@ author_profile: true
 6. Qin Sun, Xinyi Zhang, Jiani You, Yueshan Pang, Zining Luo, Yuhang Liu, Yuquan Chen, Yixin Sun, Zifeng Zhuang, Zhiwu Li, Anan Yu, **Tianliang Yao**, Ming He, Xu Liu, Yuan Zhang, Yongfu Xiong, Yixing Ren, Jiebin Xie, "*Comparative effectiveness of colonic stenting alone and with neoadjuvant chemotherapy for patients with left-sided obstructive colon cancer: A meta-analysis*", International Journal of Surgery (IJS), 2025. (JCR Q1, IF: 12.5)
 7. Di Ding<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Haoyu Wang, Rong Luo, Xusen Sun, "*Vision-Based Contact Force Sensing in Robotic Surgery: A Technical Review*", IEEE Transactions on Medical Robotics and Bionics (T-MRB), (JCR Q1, IF: 3.4)
 8. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY). (JCR Q1, IF: 6.8)
-9. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems. (JCR Q1, IF: 10.7, minor revision)
+9. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems (TFS). (JCR Q1, IF: 10.7, minor revision)
 10. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Artificial Intelligence Review. (JCR Q1, IF: 10.7, minor revision)
+11. Yuhui Hu<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Jingwei Song, Di Wu, Lei Ma, Peng Qi, "*Deep Learning based Guidewire Robot Tip-Force Estimation from Intraoperative DSA Images with a Physics-Embedded Model*", IEEE/ASME Transactions on Mechatronics (T-Mech). (JCR Q1, IF: 7.3, under review)
 
     
 ## **Conference**

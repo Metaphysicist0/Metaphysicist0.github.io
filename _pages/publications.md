@@ -20,6 +20,7 @@ author_profile: true
 9. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems (TFS). (JCR Q1, IF: 10.7, minor revision)
 10. Hui Zhang, **Tianliang Yao**, Cheng Ding, "*Wearable Devices for Blood Glucose Measurement: A Review*", Artificial Intelligence Review. (JCR Q1, IF: 10.7, minor revision)
 11. Yuhui Hu<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Jingwei Song, Di Wu, Lei Ma, Peng Qi, "*Deep-Learning-based Guidewire Robot Distal-End Force Estimation from Intraoperative Imaging with a Physics-Embedded Model*", IEEE/ASME Transactions on Mechatronics (T-Mech). (JCR Q1, IF: 7.3, under review)
+12. Mengjie Shi<sup>\*</sup>, **Tianliang Yao<sup>\*</sup>**, Tom Vercauteren, Wenfeng Xia, "*Data-Driven Photoacoustic Needle Tip Tracking for Guiding Minimally Invasive Procedures*", Journal of Physics: Photonics. (JCR Q1, IF: 4.6, under review)
 
     
 ## **Conference**

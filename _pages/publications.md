@@ -39,6 +39,8 @@ International Journal of Surgery (JCR Q1, IF: 12.9)
 
 Expert Systems with Applications (JCR Q1, IF:7.5)
 
+IEEE/ASME Transactions on Mechatronics (JCR Q1, IF:7.3)
+
 Knowledge-based Systems (JCR Q1, IF:7.2)
 
 IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 5.9)

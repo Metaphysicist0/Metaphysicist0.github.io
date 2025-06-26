@@ -39,7 +39,7 @@ International Journal of Surgery (JCR Q1, IF: 12.9)
 
 Expert Systems with Applications (JCR Q1, IF:7.5)
 
-IEEE/ASME Transactions on Mechatronics (JCR Q1, IF:7.3)
+IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF:7.3)
 
 Knowledge-based Systems (JCR Q1, IF:7.2)
 

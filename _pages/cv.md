@@ -42,4 +42,4 @@ redirect_from:
 -------------------------------------------------
 ## Mentoring
 * Madaoji Ban (RA, 2024-2025, 3rd-year undergraduate @ HKU EE) with 1 ICRA paper accepted.
-  
+* Bingrui Li (RA, 2025, 2nd-year undergraduate @ University of Birmingham)  with 1 IROS paper accepted.

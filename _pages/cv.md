@@ -41,6 +41,6 @@ redirect_from:
 
 -------------------------------------------------
 ## Mentoring
-* Genyi Feng (RA, 2024-2025, 4th-year undergraduate @ School of Medicine of Tongji) with 1 paper accepted by Advanced Intelligent Systems.
 * Madaoji Ban (RA, 2024-2025, 3rd-year undergraduate @ HKU EE) with 1 paper accepted by ICRA.
+* Yueqi Xu (RA, 2024-2025 undergraduate @ SusTech) with 1 paper accepted by IEEE T-FS.
 * Bingrui Li (RA, 2025, 2nd-year undergraduate @ University of Birmingham)  with 1 paper accepted by IROS.

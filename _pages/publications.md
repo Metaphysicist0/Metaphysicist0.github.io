@@ -13,8 +13,7 @@ author_profile: true
 2. **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 5.9)
 3. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
 4. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)
-5. **Tianliang Yao<sup>\*</sup>**, Bin Chen<sup>\*</sup>, Haoyu Wang<sup>\*</sup>, Genyi Feng, Qiangqiang Fu, Huijing Hu, "*Transformative Advances in Single-Cell Omics: A Comprehensive Review of Foundation Models, Multimodal Integration and Computational Ecosystems*", Journal of Translational Medicine. (JCR Q1, IF: 7.5, major revision)
-    
+
 ## **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ARM), 2023. (**Best Conference Paper Finalist**)
 2. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*", IEEE International Conference on Robotics and Automation (ICRA), 2025. (**IEEE ICRA RAS Travel Grants Award**)

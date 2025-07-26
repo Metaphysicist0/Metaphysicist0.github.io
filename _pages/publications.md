@@ -19,8 +19,7 @@ author_profile: true
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ARM), 2023. (**Best Conference Paper Finalist**)
 2. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*", IEEE International Conference on Robotics and Automation (ICRA), 2025. (**IEEE ICRA RAS Travel Grants Award**)
 3. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE International Conference on Robotics and Automation (ICRA), 2025.
-4. Haoyu Wang, Bin Chen, Zilong Yin, **Tianliang Yao**, Sijia Li, Hangling Sun, Chenyu Zhou, "*Distributed Formation Control and Collision Avoidance Using Subequivariant Properties*", The 44th Chinese Control Conference (CCC), 2025.
-5. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
+4. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
 
 
 ## **Services**

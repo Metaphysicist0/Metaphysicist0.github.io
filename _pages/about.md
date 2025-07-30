@@ -12,7 +12,7 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the AIM group at the Departmen
 
 
 # 🔥 News
-- *2025.08*: I start my PhD journey at CUHK EE.
+- *2025.08*: I start my Ph.D. journey at CUHK EE.
 
 # 📝 Publications 
 **Journal**

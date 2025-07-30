@@ -31,14 +31,14 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.
 - Outstanding Graduates of Tongji University, Jun 2025.
 - IEEE ICRA 2025 RAS Travel Grants Award, May 2025.
-- **The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生奖)** (the highest honor @ Tongji), May 2025.
-- **Baosteel Scholarship Special Award (宝钢优秀学生特等奖)** (15 undergrads nationwide per year), Nov 2024.
-- **Academic Star Pacesetter of Tongji (同济大学学术之星标兵)**, the highest honor for undergrads @ Tongji （6 undergraduates per year）, Nov 2024.
-- **The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生提名奖)** (the highest honor @ Tongji), May 2024.
-- **Qi Di Scholarship (启迪奖学金)** (the highest honor @ the College, sponsored by Prof. Qidi Wu (吴启迪), former deputy minister of education and former president of Tongji), May 2024.
-- **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
-- **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ARM), Jul 2023.
-- **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
+- The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生奖) (the highest honor @ Tongji), May 2025.
+- Baosteel Scholarship Special Award (宝钢优秀学生特等奖) (15 undergrads nationwide per year), Nov 2024.
+- Academic Star Pacesetter of Tongji (同济大学学术之星标兵), the highest honor for undergrads @ Tongji （6 undergraduates per year）, Nov 2024.
+- The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生提名奖) (the highest honor @ Tongji), May 2024.
+- Qi Di Scholarship (启迪奖学金) (the highest honor @ the College, sponsored by Prof. Qidi Wu (吴启迪), former deputy minister of education and former president of Tongji), May 2024.
+- First Prize in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
+- Best Conference Paper Finalist, IEEE Conference on Advanced Robotics and Mechatronics (ARM), Jul 2023.
+- Gold Prize in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E. Degree, Automation, Tongji University, GPA: 91/95, Rank: 1/61, Shanghai, China, Supervisor: Prof. Peng Qi.

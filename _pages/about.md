@@ -37,7 +37,7 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 - The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生提名奖) (the highest honor @ Tongji), May 2024.
 - Qi Di Scholarship (启迪奖学金) (the highest honor @ the College, sponsored by Prof. Qidi Wu (吴启迪), former deputy minister of education and former president of Tongji), May 2024.
 - First Prize in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
-- Best Conference Paper Finalist, IEEE ICARM, Jul 2023.
+- Best Conference Paper Finalist, IEEE ICARM 2023, Jul 2023.
 - Gold Prize in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 
 # 📖 Educations

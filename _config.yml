@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Tianliang YAO's Homepage"
-description              : 
+description              : ""
 repository               : "Metaphysicist0/Metaphysicist0.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -25,7 +25,7 @@ author:
   avatar           : "images/profile.jpg"
   bio              : "Not as smart as my robots."
   location         : "Hong Kong SAR, China"
-  employer         : "The Chinese University of Hong Kong"
+  employer         : "CUHK"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XwJMmG4AAAAJ&hl=zh-CN"
   email            : "2150248@tongji.edu.cn"

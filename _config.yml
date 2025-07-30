@@ -23,9 +23,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tianliang YAO"
   avatar           : "images/profile.jpg"
-  bio              : Not as smart as my robots.
+  bio              : "Not as smart as my robots."
   location         : "Hong Kong SAR, China"
-  employer         : The Chinese University of Hong Kong
+  employer         : "The Chinese University of Hong Kong"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=XwJMmG4AAAAJ&hl=zh-CN"
   email            : "2150248@tongji.edu.cn"

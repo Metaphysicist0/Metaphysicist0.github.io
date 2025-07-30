@@ -43,7 +43,7 @@ Hi! I am Tianliang Yao, a Ph.D. student at the AIM group at the Department of El
 - *2021.09 - 2025.06*, B.E. Degree, Automation, Tongji University, GPA:91/95, Rank:1/61, Shanghai, China, Supervisor: Prof. Peng Qi.
 - *2025.08 - 2029.07*, Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Supervisor: Prof. Yixuan Yuan.
 
-# Services
+# 💻 Services
 
 **Journal Reviewer**
 - International Journal of Surgery (JCR Q1, IF: 12.9)

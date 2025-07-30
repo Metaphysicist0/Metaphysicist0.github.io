@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tianliang Yao, a year 1 Ph.D. student at the AIM group at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
+Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
 
 # 🔥 News
@@ -37,7 +37,6 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the AIM group at the Departmen
 - **The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生提名奖)** (the highest honor @ Tongji), May 2024.
 - **Qi Di Scholarship (启迪奖学金)** (the highest honor @ the College, sponsored by Prof. Qidi Wu (吴启迪), former deputy minister of education and former president of Tongji), May 2024.
 - **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
-("Challenge Cup" is the most influential research competition among university students in China, especially the Research Track.)
 - **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ARM), Jul 2023.
 - **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 

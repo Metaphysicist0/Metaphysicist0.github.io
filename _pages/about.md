@@ -8,17 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-{% if site.google_scholar_stats_use_cdn %}
-{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
-{% else %}
-{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
-{% endif %}
-{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<span class='anchor' id='about-me'></span>
-
 Hi! I am Tianliang Yao, a Ph.D. student at the AIM group at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
-
 
 
 # 🔥 News
@@ -32,7 +22,7 @@ Hi! I am Tianliang Yao, a Ph.D. student at the AIM group at the Department of El
 3. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
 4. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)
 
-## **Conference**
+**Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ARM), 2023. (**Best Conference Paper Finalist**)
 2. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*", IEEE International Conference on Robotics and Automation (ICRA), 2025. (**IEEE ICRA RAS Travel Grants Award**)
 3. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE International Conference on Robotics and Automation (ICRA), 2025.
@@ -49,6 +39,7 @@ Hi! I am Tianliang Yao, a Ph.D. student at the AIM group at the Department of El
 # Services
 
 **Journal Reviewer**
+
 International Journal of Surgery (JCR Q1, IF: 12.9)
 
 Expert Systems with Applications (JCR Q1, IF: 7.5)
@@ -64,11 +55,13 @@ Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
 Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
 
 **Conference Reviewer**
+
 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
 
 IEEE International Joint Conference on Neural Networks (IJCNN), 2025
 
 **Academic Organizations**
+
 Student Committee Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 
 # 💬 Invited Talks

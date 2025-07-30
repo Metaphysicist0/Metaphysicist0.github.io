@@ -8,12 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
+{% if site.google_scholar_stats_use_cdn %}
+{% assign gsDataBaseUrl = "https://cdn.jsdelivr.net/gh/" | append: site.repository | append: "@" %}
+{% else %}
+{% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
+{% endif %}
+{% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+<span class='anchor' id='about-me'></span>
+Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
 # 🔥 News
 - *2025.08*: I start my Ph.D. journey at CUHK EE.
 
+<span class='anchor' id='publications'></span>
 # 📝 Publications 
 **Journal**
 1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7).

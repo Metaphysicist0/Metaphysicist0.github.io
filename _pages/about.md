@@ -79,5 +79,5 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
-- Sharing talk on "*Artificial intelligence in coronary image analysis*," CTOCC 2023, Oct 2023.
 - Sharing talk on “*Advancing Embodied Intelligence in Endovascular Robots*,” Siemens Healthineers, Jun 2024.
+- Sharing talk on "*Artificial intelligence in coronary image analysis*," CTOCC 2023, Oct 2023.

@@ -23,25 +23,27 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the AIM group at the Departmen
 
 **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ARM), 2023. (**Best Conference Paper Finalist**)
-2. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*", IEEE International Conference on Robotics and Automation (ICRA), 2025. (**IEEE ICRA RAS Travel Grants Award**)
+2. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*", IEEE International Conference on Robotics and Automation (ICRA), 2025. (**IEEE ICRA RAS Travel Grant Award**)
 3. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE International Conference on Robotics and Automation (ICRA), 2025.
 4. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
 
 # 🎖 Selected Honors and Awards
-- **Baosteel Scholarship Special Award (宝钢优秀学生特等奖)** (15 undergrads nationwide), Nov 2024.
+- Outstanding Undergraduate Thesis Award of Tongji, Jun 2025.
+- Outstanding Graduates of Tongji University, Jun 2025.
+- IEEE ICRA 2025 RAS Travel Grants Award, May 2025.
+- **The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生奖)** (the highest honor @ Tongji), May 2025.
+- **Baosteel Scholarship Special Award (宝钢优秀学生特等奖)** (15 undergrads nationwide per year), Nov 2024.
 - **Academic Star Pacesetter of Tongji (同济大学学术之星标兵)**, the highest honor for undergrads @ Tongji （6 undergraduates per year）, Nov 2024.
-- **The Pursuit of Excellence Scholarship (同济大学追求卓越奖励基金)** (the highest honor @ Tongji, 20/~44,000 applicants (including all academic staff and all students), top 0.05%), May 2024 and May 2025.
-- **Qi Di Scholarship (启迪奖学金)** (the highest honor @ the College of Electronic and Information Engineering, sponsored by Qidi Wu (吴启迪), former deputy minister of education and former president of Tongji Univ., 20/~1800, top 1%), May 2024.
-- Outstanding Undergraduate Thesis Award of Tongji (1/61), June 2025.
-- Outstanding Graduates of Tongji University, June 2025.
+- **The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生提名奖)** (the highest honor @ Tongji), May 2024.
+- **Qi Di Scholarship (启迪奖学金)** (the highest honor @ the College, sponsored by Prof. Qidi Wu (吴启迪), former deputy minister of education and former president of Tongji), May 2024.
 - **First Prize** in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
 ("Challenge Cup" is the most influential research competition among university students in China, especially the Research Track.)
 - **Best Conference Paper Finalist**, IEEE Conference on Advanced Robotics and Mechatronics (ARM), Jul 2023.
-- -* **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
+- **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E. Degree, Automation, Tongji University, GPA:91/95, Rank:1/61, Shanghai, China, Supervisor: Prof. Peng Qi.
-- *2025.08 - 2029.07*, Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Supervisor: Prof. Yixuan Yuan.
+- *2025.08 - 2029.07 (expected)*, Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Supervisor: Prof. Yixuan Yuan.
 
 # 💻 Services
 

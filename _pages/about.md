@@ -46,31 +46,21 @@ Hi! I am Tianliang Yao, a Ph.D. student at the AIM group at the Department of El
 # Services
 
 **Journal Reviewer**
-
-International Journal of Surgery (JCR Q1, IF: 12.9)
-
-Expert Systems with Applications (JCR Q1, IF: 7.5)
-
-IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
-
-Knowledge-based Systems (JCR Q1, IF: 7.2)
-
-IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
-
-Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
-
-Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
+- International Journal of Surgery (JCR Q1, IF: 12.9)
+- Expert Systems with Applications (JCR Q1, IF: 7.5)
+- IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
+- Knowledge-based Systems (JCR Q1, IF: 7.2)
+- IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
+- Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
+- Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
 
 **Conference Reviewer**
-
-IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
-
-IEEE International Joint Conference on Neural Networks (IJCNN), 2025
+- IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
+- IEEE International Joint Conference on Neural Networks (IJCNN), 2025
 
 **Academic Organizations**
-
-Student Committee Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
+- Student Committee Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 
 # 💬 Invited Talks
-1. Sharing talk on "*Artificial intelligence in coronary image analysis*," CTOCC 2023, Oct 2023.
-2. Sharing talk on “*Advancing Embodied Intelligence in Endovascular Robots*,” Siemens Healthineers, Jun 2024.
+- Sharing talk on "*Artificial intelligence in coronary image analysis*," CTOCC 2023, Oct 2023.
+- Sharing talk on “*Advancing Embodied Intelligence in Endovascular Robots*,” Siemens Healthineers, Jun 2024.

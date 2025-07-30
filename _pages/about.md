@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I am Tianliang Yao, a Ph.D. student at the AIM group at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
+Hi! I am Tianliang Yao, a year 1 Ph.D. student at the AIM group at the Department of Electronic Engineering, The Chinese University of Hong Kong, supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the Department of Control Science and Engineering, [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
 
 # 🔥 News

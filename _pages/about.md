@@ -41,7 +41,7 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 - **Gold Prize** in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 
 # 📖 Educations
-- *2021.09 - 2025.06*, B.E. Degree, Automation, Tongji University, GPA:91/95, Rank:1/61, Shanghai, China, Supervisor: Prof. Peng Qi.
+- *2021.09 - 2025.06*, B.E. Degree, Automation, Tongji University, GPA: 91/95, Rank: 1/61, Shanghai, China, Supervisor: Prof. Peng Qi.
 - *2025.08 - 2029.07 (expected)*, Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Supervisor: Prof. Yixuan Yuan.
 
 # 💻 Services

@@ -18,6 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). I received my B.Eng degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
+<span class='anchor' id='news'></span>
 # 🔥 News
 - *2025.08*: I start my Ph.D. journey at CUHK EE.
 
@@ -48,12 +49,13 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 - Best Conference Paper Finalist, IEEE ICARM 2023, Jul 2023.
 - Gold Prize in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 
+<span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2021.09 - 2025.06*, B.E. Degree, Automation, Tongji University, GPA: 91/95, Rank: 1/61, Shanghai, China, Supervisor: Prof. Peng Qi.
 - *2025.08 - 2029.07 (expected)*, Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Supervisor: Prof. Yixuan Yuan.
 
+<span class='anchor' id='services'></span>
 # 💻 Services
-
 **Journal Reviewer**
 - International Journal of Surgery (JCR Q1, IF: 12.9)
 - Expert Systems with Applications (JCR Q1, IF: 7.5)
@@ -70,6 +72,7 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 **Academic Organizations**
 - Student Committee Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 
+<span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - Sharing talk on "*Artificial intelligence in coronary image analysis*," CTOCC 2023, Oct 2023.
 - Sharing talk on “*Advancing Embodied Intelligence in Endovascular Robots*,” Siemens Healthineers, Jun 2024.

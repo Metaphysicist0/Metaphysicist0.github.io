@@ -28,7 +28,7 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 4. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
 
 # 🎖 Selected Honors and Awards
-- Outstanding Undergraduate Thesis Award of Tongji, Jun 2025.
+- Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.
 - Outstanding Graduates of Tongji University, Jun 2025.
 - IEEE ICRA 2025 RAS Travel Grants Award, May 2025.
 - **The Pursuit of Excellence Nomination Scholarship (同济大学追求卓越学生奖)** (the highest honor @ Tongji), May 2025.

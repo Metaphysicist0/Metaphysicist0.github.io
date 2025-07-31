@@ -59,7 +59,7 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 
 
 <span class='anchor' id='services'></span>
-# 💻 Services
+# 🎖 Services
 **Journal Reviewer**
 - International Journal of Surgery (JCR Q1, IF: 12.9)
 - Expert Systems with Applications (JCR Q1, IF: 7.5)

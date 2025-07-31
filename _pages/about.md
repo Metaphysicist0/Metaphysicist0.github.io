@@ -33,6 +33,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 2. **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)
 3. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
 4. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)
+5. **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions*", IEEE Reviews in Biomedical Engineering. (JCR Q1, IF: 12.0, major revision)
 
 **Conference**
 1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)

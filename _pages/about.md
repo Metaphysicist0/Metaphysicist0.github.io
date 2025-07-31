@@ -25,7 +25,7 @@ Hi! I am Tianliang Yao, a year 1 Ph.D. student at the [AIM group](http://www.ee.
 
 
 <span class='anchor' id='publications'></span>
-# 📝 Publications 
+# 📝 Selected Publications 
 **Journal**
 1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7).
 2. **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)

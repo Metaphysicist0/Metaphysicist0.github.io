@@ -51,14 +51,14 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
 - **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
   **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), 2025.
+  IEEE International Conference on Robotics and Automation (ICRA), 2025.<br>
   (**IEEE ICRA RAS Travel Grant Award**)
 - **Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats**<br>
   Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), 2025.
 - **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
   Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
-  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.
+  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.<br>
   (**Best Conference Paper Finalist**)
 
 # 🎖 Selected Honors and Awards

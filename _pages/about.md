@@ -54,7 +54,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
   IEEE International Conference on Robotics and Automation (ICRA), 2025.<br>
   (**IEEE ICRA RAS Travel Grant Award**)
 - **Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats**<br>
-  Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi<br>
+  Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Di Wu, Qiulin Wang, Zixi Chen, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), 2025.
 - **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
   Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>

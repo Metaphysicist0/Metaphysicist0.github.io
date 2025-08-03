@@ -29,17 +29,37 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 **Journal**
-1. **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi, "*Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation*", Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7).
-2. **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi, "*Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions*", IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)
-3. **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi, "*Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures*", Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
-4. **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi, "*Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics*", IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)
-5. **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi, "*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions*", IEEE Reviews in Biomedical Engineering. (JCR Q1, IF: 12.0, major revision)
+- **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
+  **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
+  IEEE Reviews in Biomedical Engineering. (JCR Q1, IF: 12.0, major revision)
+- **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
+   **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
+   IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)
+- **Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures**<br>
+  **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi<br>
+  Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
+- **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**
+  **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi<br>
+  IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)
+- **Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation**<br>
+  **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi<br>
+  Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7)
 
 **Conference**
-1. Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai, "*A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties,*" IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023. (**Best Conference Paper Finalist**)
-2. **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi, "*Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics*", IEEE International Conference on Robotics and Automation (ICRA), 2025. (**IEEE ICRA RAS Travel Grant Award**)
-3. Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi, "*Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats*”, IEEE International Conference on Robotics and Automation (ICRA), 2025.
-4. **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi, "*Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions*", IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
+- **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
+  **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
+   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
+- **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
+  **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
+  IEEE International Conference on Robotics and Automation (ICRA), 2025.
+  (**IEEE ICRA RAS Travel Grant Award**)
+- **Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats**<br>
+  Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Zixi Chen, Qiulin Wang, Di Wu, Peng Qi<br>
+  IEEE International Conference on Robotics and Automation (ICRA), 2025.
+- **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
+  Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
+  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.
+  (**Best Conference Paper Finalist**)
 
 # 🎖 Selected Honors and Awards
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.

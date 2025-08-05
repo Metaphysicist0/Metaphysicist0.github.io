@@ -23,7 +23,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2025.08*: I start my Ph.D. journey at CUHK EE.
+- *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
 
 
 <span class='anchor' id='publications'></span>

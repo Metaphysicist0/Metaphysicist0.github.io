@@ -37,7 +37,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
   IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)
 - **Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures**<br>
   **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi<br>
-  Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)
+  Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)<br>
     (**Inside Back Cover**)
 - **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
    **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>

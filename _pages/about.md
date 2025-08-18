@@ -101,7 +101,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 - Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 
 **Open-source Projects**
-- [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) (<img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">), contributed to the Section of *Embodied AI in Healthcare*.
+- [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) (<img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">), the lead and primary contributor of the Section of *Embodied AI in Healthcare*.
 
 
 <span class='anchor' id='invited-talks'></span>

@@ -103,6 +103,9 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 **Open-source Projects**
 - [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) (<img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">), the lead and primary contributor to the Section *"Embodied AI in Healthcare"*.
 
+<span class='anchor' id='ta'></span>
+# 📖 Teaching Assistant:
+- 2025-2026	Fall	ELEG4512 Digital Image Processing
 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks

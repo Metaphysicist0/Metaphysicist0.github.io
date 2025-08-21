@@ -105,7 +105,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant
-- 2025-2026	Fall	ELEG4512 Digital Image Processing
+- ELEG4512: Digital Image Processing, 2025-2026 Fall.
 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks

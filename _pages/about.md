@@ -29,6 +29,9 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 **Journal**
+- **Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning**<br>
+  Shuang Liang, Zhicheng Liu, Guangyuan Liu, **Tianliang Yao**, Chunyi Yang, Peng Qi<br>
+  IEEE Journal of Biomedical and Health Informatics (J-BHI). (JCR Q1, IF: 6.8, major revision)
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
   IEEE Reviews in Biomedical Engineering. (JCR Q1, IF: 12.0, major revision)

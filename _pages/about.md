@@ -65,6 +65,12 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
   IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.<br>
   (**Best Conference Paper Finalist**)
 
+**Authorized Patents**
+- **Deep-learning-based control for autonomous cardiovascular intervention robot and its application**<br>
+   Peng Qi, **Tianliang Yao**, CN116021512B, 2025.
+-  **A pan-vascular interventional procedure training scoring method and its application**<br>
+   Peng Qi, **Tianliang Yao**, CN116030672B, 2024.
+
 # 🎖 Selected Honors and Awards
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.
 - Outstanding Graduates of Tongji University, Jun 2025.

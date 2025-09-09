@@ -94,6 +94,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 # 🎖 Services
 **Journal Reviewer**
 - International Journal of Surgery (JCR Q1, IF: 12.9)
+- Engineering Applications of Artificial Intelligence (JCR Q1, IF: 8.0)
 - Expert Systems with Applications (JCR Q1, IF: 7.5)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - Knowledge-based Systems (JCR Q1, IF: 7.2)

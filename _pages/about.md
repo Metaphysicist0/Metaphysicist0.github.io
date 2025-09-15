@@ -101,6 +101,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
 - Computers and Electrical Engineering (JCR Q1, IF: 4.9)
 - Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
+- Advances in Ophthalmology Practice and Research (JCR Q1, IF: 3.4)
 - Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
 
 **Conference Reviewer**

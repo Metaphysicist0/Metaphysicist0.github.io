@@ -66,10 +66,14 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
   (**Best Conference Paper Finalist**)
 
 **Authorized Patents**
+- **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
+  Peng Qi, **Tianliang Yao**, CN119417737B, 2025.
+- **Neural Rendering for 3D ultrasound reconstruction of intraoperative scenes in cardiovascular interventions**<br>
+  Peng Qi, **Tianliang Yao**, CN119206038B, 2025.
 - **Deep-learning-based control for autonomous cardiovascular intervention robot and its application**<br>
-   Peng Qi, **Tianliang Yao**, CN116021512B, 2025.
--  **A pan-vascular interventional procedure training scoring method and its application**<br>
-   Peng Qi, **Tianliang Yao**, CN116030672B, 2024.
+  Peng Qi, **Tianliang Yao**, CN116021512B, 2025.
+- **A pan-vascular interventional procedure training scoring method and its application**<br>
+  Peng Qi, **Tianliang Yao**, CN116030672B, 2024.
 
 # 🎖 Selected Honors and Awards
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.

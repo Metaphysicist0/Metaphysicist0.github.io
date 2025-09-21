@@ -65,6 +65,11 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
   IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.<br>
   (**Best Conference Paper Finalist**)
 
+**Book Chapter**
+- **A Practical Tutorial on MindSpore-based Intelligent Medical Analysis**<br>
+  Editor-in-Chief: Peng Qi; Associate Editors: Xinrong Zhu, Yan Huang, Lixiao Zhang <br>
+  Contributors: Kaiyi Song, Zhengyu Shi, Miao He, Jiyuan Zhao, Hao Wang, **Tianliang Yao**, Jiacheng Ni, Chenxu Zhang, Sijie Dong, Baiqing Song, Jiayi Luo, Fan Yang, Yuying Jia, Huan Wang, Baoru Kang, Zhengqiang Zhu.
+
 **Authorized Patents**
 - **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
   Peng Qi, **Tianliang Yao**, CN119417737B, 2025.
@@ -72,7 +77,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
   Peng Qi, **Tianliang Yao**, CN119206038B, 2025.
 - **Deep-learning-based control for autonomous cardiovascular intervention robot and its application**<br>
   Peng Qi, **Tianliang Yao**, CN116021512B, 2025.
-- **A pan-vascular interventional procedure training scoring method and its application**<br>
+- **An endovascular interventional procedure training scoring method and its application**<br>
   Peng Qi, **Tianliang Yao**, CN116030672B, 2024.
 
 # 🎖 Selected Honors and Awards

@@ -66,7 +66,7 @@ Hi! I am Tianliang Yao, a first-year Ph.D. student at the [AIM group](http://www
   (**Best Conference Paper Finalist**)
 
 **Book Chapter**
-- **A Practical Tutorial on MindSpore-based Intelligent Medical Analysis**<br>
+- **A Practical Tutorial on MindSpore-based Intelligent Medical Information Analysis《MindSpore医学智能分析实践教程》**<br>
   Editor-in-Chief: Peng Qi; Associate Editors: Xinrong Zhu, Yan Huang, Lixiao Zhang <br>
   Contributors: Kaiyi Song, Zhengyu Shi, Miao He, Jiyuan Zhao, Hao Wang, **Tianliang Yao**, Jiacheng Ni, Chenxu Zhang, Sijie Dong, Baiqing Song, Jiayi Luo, Fan Yang, Yuying Jia, Huan Wang, Baoru Kang, Zhengqiang Zhu.
 

@@ -84,7 +84,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 # 🎖 Selected Honors and Awards
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.
 - Outstanding Graduates of Tongji University, Jun 2025.
-- IEEE ICRA 2025 RAS Travel Grants Award, May 2025.
+- IEEE ICRA 2025 RAS Travel Grant Award, May 2025.
 - The Pursuit of Excellence Scholarship (同济大学追求卓越学生奖) (the highest honor @ Tongji), May 2025 and May 2024, **twice**.
 - Baosteel Scholarship Special Award (宝钢优秀学生特等奖) (15 undergrads nationwide per year), Nov 2024.
 - Academic Star Pacesetter of Tongji (同济大学学术之星标兵), (the highest honor for undergrads @ Tongji), Nov 2024.
@@ -115,6 +115,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
 
 **Conference Reviewer**
+- IEEE International Conference on Robotics and Automation (ICRA), 2026
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2025
 

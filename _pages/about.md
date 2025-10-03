@@ -44,10 +44,11 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures**<br>
   **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi<br>
   Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)<br>
-    (**Inside Back Cover**)
+   (**Inside Back Cover**)
 - **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
    **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
-   IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)
+   IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)<br>
+   (**IROS 2025 Oral**)
 - **Enhancing Percutaneous Coronary Intervention with Heuristic Path Planning and Deep-Learning based Vascular Segmentation**<br>
   **Tianliang Yao**, Chengjia Wang, Xinyi Wang, Xiang Li, Zhaolei Jiang, Peng Qi<br>
   Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7)

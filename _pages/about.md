@@ -125,7 +125,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2025
 
 **Editorial & Conference Services**
-- Program committee member, AAAI Undergraduate Consortium, 2026.
+- Program committee member, AAAI Conference on Artificial Intelligence (AAAI) Undergraduate Consortium, 2026.
 
 **Academic Organizations**
 - Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).

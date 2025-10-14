@@ -113,6 +113,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - Knowledge-based Systems (JCR Q1, IF: 7.2)
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
+- Biomedical Signal Processing and Control (JCR Q1, IF: 4.9)
 - Computers and Electrical Engineering (JCR Q1, IF: 4.9)
 - Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
 - Advances in Ophthalmology Practice and Research (JCR Q1, IF: 3.4)

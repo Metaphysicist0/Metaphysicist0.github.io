@@ -32,7 +32,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning**<br>
   Shuang Liang, Zhicheng Liu, Guangyuan Liu, **Tianliang Yao**, Chunyi Yang, Peng Qi<br>
   IEEE Journal of Biomedical and Health Informatics (J-BHI). (JCR Q1, IF: 6.8, major revision)
-- **Clinical-grade AI model for molecular subtyping of endometrial cancer: A multi-center cohort study in China**<br>https://github.com/Metaphysicist0/Metaphysicist0.github.io/blob/main/_pages/about.md
+- **Clinical-grade AI model for molecular subtyping of endometrial cancer: A multi-center cohort study in China**<
   Peng Qi, **Tianliang Yao**, Hu Li, Jingnan Zhu, Jianye Li, Xuezhen Luo, Qizhi He, Yiran Li<br>
   Molecular Biomedicine. (JCR Q1, IF: 10.1, major revision, submitted in 2024)
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
@@ -144,3 +144,4 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - Sharing talk on “*Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures*,” Siemens Healthineers Shanghai Innovation Center, Jun 2024.
 - Sharing talk on "*Artificial Intelligence in Coronary Image Analysis*," Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 2023.
 
+<a href='https://mapmyvisitors.com/web/1byr7'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=P_j5NmoygM3uhcWirSjS9X1L1wIFmErKg8e9GxZQA5Y'/></a>

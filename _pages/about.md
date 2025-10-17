@@ -78,6 +78,8 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 **Authorized Patents**
 - **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
   Peng Qi, **Tianliang Yao**, CN119417737B, 2025.
+- **A feature-based method for aligning angiogram sequences and its application**<br>
+  Peng Qi, **Tianliang Yao**, Yiran Li, CN116416288B, 2025.
 - **Neural Rendering for 3D ultrasound reconstruction of intraoperative scenes in cardiovascular interventions**<br>
   Peng Qi, **Tianliang Yao**, CN119206038B, 2025.
 - **Deep-learning-based control for autonomous cardiovascular intervention robot and its application**<br>

@@ -75,7 +75,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Contributors: Kaiyi Song, Zhengyu Shi, Miao He, Jiyuan Zhao, Hao Wang, **Tianliang Yao**, Jiacheng Ni, Chenxu Zhang, Sijie Dong, Baiqing Song, Jiayi Luo, Fan Yang, Yuying Jia, Huan Wang, Baoru Kang, Zhengqiang Zhu <br>
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
-**Authorized Patents**
+**Authorized Patent**
 - **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
   Peng Qi, **Tianliang Yao**, CN119417737B, 2025.
 - **A feature-based method for aligning angiogram sequences and its application**<br>

@@ -37,7 +37,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   IEEE Reviews in Biomedical Engineering. (JCR Q1, IF: 12.0, major revision)
 - **Clinical-grade AI model for molecular subtyping of endometrial cancer: A multi-center cohort study in China**<br>
   Peng Qi, **Tianliang Yao**, Hu Li, Jingnan Zhu, Jianye Li, Xuezhen Luo, Qizhi He, Yiran Li<br>
-  Molecular Biomedicine. (JCR Q1, IF: 10.1)
+  Molecular Biomedicine, 2025. (JCR Q1, IF: 10.1)
 - **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
   **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi<br>
   IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)

@@ -45,7 +45,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi<br>
   Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)<br>
    (**Inside Back Cover**)
-  <img src="{{'/images/AISY_202510_Cover.jpg'}}" alt="Inside Back Cover" width="200" style="border:1px solid #eee; margin-top:10px;"/>  
+  <img src="{{'images/AISY_202510_Cover.jpg'}}" alt="Inside Back Cover" width="200" style="border:1px solid #eee; margin-top:10px;"/>  
 - **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
    **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
    IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4)<br>

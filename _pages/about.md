@@ -35,6 +35,9 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
   IEEE Reviews in Biomedical Engineering. (JCR Q1, IF: 12.0, major revision)
+- **Learning Expressive Task Embeddings and Sample-Efficient Exploration for Context Shift Reduction in Offline Meta-Reinforcement Environment**<br>
+  Haoyu Wang, Xiaoyu Tan, **Tianliang Yao**, Zhijun Fang, Peng  Qi, Xihe Qiu<br>
+  IEEE Transactions on Cognitive and Developmental Systems, 2025. (JCR Q1, IF: 4.9)
 - **Clinical-grade AI model for molecular subtyping of endometrial cancer: A multi-center cohort study in China**<br>
   Peng Qi, **Tianliang Yao**, Hu Li, Jingnan Zhu, Jianye Li, Xuezhen Luo, Qizhi He, Yiran Li<br>
   Molecular Biomedicine, 2025. (JCR Q1, IF: 10.1)

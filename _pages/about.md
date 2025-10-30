@@ -80,6 +80,8 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
 **Authorized Patent**
+- **An Auxiliary Diagnostic System for Mitral Valve Transcatheter Edge-to-Edge Repair**<br>
+  Peng Qi, **Tianliang Yao**, CN119601212B, 2025.
 - **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
   Peng Qi, **Tianliang Yao**, CN119417737B, 2025.
 - **A feature-based method for aligning angiogram sequences and its application**<br>

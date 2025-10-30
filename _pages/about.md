@@ -38,7 +38,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Learning Expressive Task Embeddings and Sample-Efficient Exploration for Context Shift Reduction in Offline Meta-Reinforcement Environment**<br>
   Haoyu Wang, Xiaoyu Tan, **Tianliang Yao**, Zhijun Fang, Peng  Qi, Xihe Qiu<br>
   IEEE Transactions on Cognitive and Developmental Systems (T-CDS), 2025. (JCR Q1, IF: 4.9)
-- **Clinical-grade AI model for molecular subtyping of endometrial cancer: A multi-center cohort study in China**<br>
+- **Clinical-Grade AI Model for Molecular Subtyping of Endometrial Cancer: A Multi-Center Cohort Study in China**<br>
   Peng Qi, **Tianliang Yao**, Hu Li, Jingnan Zhu, Jianye Li, Xuezhen Luo, Qizhi He, Yiran Li<br>
   Molecular Biomedicine, 2025. (JCR Q1, IF: 10.1)
 - **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
@@ -80,7 +80,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
 **Authorized Patent**
-- **An Auxiliary Diagnostic System for Mitral Valve Transcatheter Edge-to-Edge Repair**<br>
+- **An auxiliary diagnostic system for mitral valve transcatheter edge-to-edge repair**<br>
   Peng Qi, **Tianliang Yao**, CN119601212B, 2025.
 - **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
   Peng Qi, **Tianliang Yao**, CN119417737B, 2025.

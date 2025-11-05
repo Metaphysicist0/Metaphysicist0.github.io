@@ -80,7 +80,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
 **Authorized Patent**
-- **A Deep Learning System for Gesture Recognition and Skill Assessment in Endovascular Procedures**<br>
+- **A deep learning system for gesture recognition and skill assessment in endovascular procedures**<br>
   Peng Qi, **Tianliang Yao**, Yi Zhang, CN116562392B, 2025.
 - **An auxiliary diagnostic system for mitral valve transcatheter edge-to-edge repair**<br>
   Peng Qi, **Tianliang Yao**, CN119601212B, 2025.

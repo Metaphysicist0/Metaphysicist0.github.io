@@ -130,6 +130,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
 
 **Conference Reviewer**
+- IEEE International Symposium on Circuits and Systems (ISCAS), 2026
 - International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026
 - IEEE International Conference on Robotics and Automation (ICRA), 2026
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025

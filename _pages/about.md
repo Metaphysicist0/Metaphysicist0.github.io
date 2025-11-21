@@ -122,6 +122,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - Expert Systems with Applications (JCR Q1, IF: 7.5)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - Knowledge-based Systems (JCR Q1, IF: 7.2)
+- IEEE Transactions on Haptics
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
 - Biomedical Signal Processing and Control (JCR Q1, IF: 4.9)
 - Computers and Electrical Engineering (JCR Q1, IF: 4.9)

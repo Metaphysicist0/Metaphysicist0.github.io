@@ -25,10 +25,12 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 # 🔥 News
 - *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
 
-
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 **Journal**
+- **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
+  **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
+  IEEE Reviews in Biomedical Engineering. (JCR Q1, IF: 12.0, Pending Acceptance)
 - **Learning Expressive Task Embeddings and Sample-Efficient Exploration for Context Shift Reduction in Offline Meta-Reinforcement Environment**<br>
   Haoyu Wang, Xiaoyu Tan, **Tianliang Yao**, Zhijun Fang, Peng  Qi, Xihe Qiu<br>
   IEEE Transactions on Cognitive and Developmental Systems (T-CDS), 2025. (JCR Q1, IF: 4.9)

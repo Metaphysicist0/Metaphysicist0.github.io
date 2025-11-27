@@ -138,7 +138,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - Program committee member, AAAI Conference on Artificial Intelligence (AAAI) Undergraduate Consortium, 2026.
 
 **Academic Organizations**
-- Member of the Student Committee of the Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
+- Student committee member, Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
 
 **Open-source Projects**
 - [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) (<img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">), the lead and primary contributor to the Section *"Embodied AI in Healthcare"*.

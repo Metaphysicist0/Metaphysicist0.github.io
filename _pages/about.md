@@ -27,6 +27,11 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
+**Preprint**
+- **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
+  Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Xiaoying Tang, Yixuan Yuan<br>
+  Preprint
+  
 **Journal**
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
@@ -35,7 +40,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Haoyu Wang, Xiaoyu Tan, **Tianliang Yao**, Zhijun Fang, Peng  Qi, Xihe Qiu<br>
   IEEE Transactions on Cognitive and Developmental Systems (T-CDS), 2025. (JCR Q1, IF: 4.9)
 - **Clinical-Grade AI Model for Molecular Subtyping of Endometrial Cancer: A Multi-Center Cohort Study in China**<br>
-  Peng Qi, **Tianliang Yao**, Hu Li, Jingnan Zhu, Jianye Li, Xuezhen Luo, Qizhi He, Yiran Li<br>
+  Peng Qi†, **Tianliang Yao†**, Hu Li†, Jingnan Zhu†, Jianye Li, Xuezhen Luo, Qizhi He, Yiran Li<br>
   Molecular Biomedicine, 2025. (JCR Q1, IF: 10.1)
 - **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
   **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi<br>

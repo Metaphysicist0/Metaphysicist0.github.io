@@ -23,7 +23,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- <span style="color:#d32f2f; font-weight: bold;">***Important:*** I am currently fully committed to ongoing projects within our research group. To protect intellectual property and maintain research quality, I have **no availability** for any form of external discussions or any other cooperation. Thanks for understanding!</span>
+- <span style="color:#d32f2f; font-weight: bold;">***Pinned*** **Important:** **I am currently fully committed to ongoing projects within our research group. To protect intellectual property and maintain research quality,** **I have no availability for any form of external discussions or any other cooperation.** **Thanks for understanding**!</span>
 - *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
 
 <span class='anchor' id='publications'></span>

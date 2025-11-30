@@ -16,13 +16,14 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). Previously, I received my B.Eng. degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) in 2025, guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm) and collaborated with Prof. [Bo Lu](https://lu-bo.github.io/) from Soochow University.
+I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). Previously, I received my B.Eng. degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) in 2025, guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
 **Recent focus:** AI-Driven Healthcare, Embodied Intelligence for Medical Robotics.
 
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- ***Important*** I am currently fully committed to ongoing projects within our research group and have no availability for external discussions or collaborations. To protect intellectual property and maintain research quality, please kindly direct all inquiries and collaboration requests to my supervisors. Thanks for your understanding!
 - *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
 
 <span class='anchor' id='publications'></span>

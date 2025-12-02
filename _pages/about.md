@@ -128,6 +128,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
 - Biomedical Signal Processing and Control (JCR Q1, IF: 4.9)
 - Computers and Electrical Engineering (JCR Q1, IF: 4.9)
+- iScience (JCR Q1, IF: 4.1, Cell Press)
 - Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
 - Advances in Ophthalmology Practice and Research (JCR Q1, IF: 3.4)
 - IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (OJ-UFFC) (JCR Q1, IF: 2.9)

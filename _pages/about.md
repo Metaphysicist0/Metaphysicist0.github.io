@@ -82,6 +82,8 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
 **Authorized Patent**
+- **A telescopic catheter system for endovascular procedures and its application**<br>
+  Peng Qi, **Tianliang Yao**, CN116785555B, 2025.
 - **A deep learning system for gesture recognition and skill assessment in endovascular procedures**<br>
   Peng Qi, **Tianliang Yao**, Yi Zhang, CN116562392B, 2025.
 - **An auxiliary diagnostic system for mitral valve transcatheter edge-to-edge repair**<br>

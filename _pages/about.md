@@ -144,6 +144,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2025
 
 **Editorial & Conference Services**
+- Editorial board member, npj Digital Surgery, 2026.
 - Program committee member, AAAI Conference on Artificial Intelligence (AAAI) Undergraduate Consortium, 2026.
 
 **Academic Organizations**

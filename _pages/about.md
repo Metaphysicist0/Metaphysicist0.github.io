@@ -29,10 +29,13 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
-**Preprint**
+**In submission**
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
-  Preprint, 2025.
+  In submission, 2025.
+- **The Eye as a Window to the Brain: Building Trustworthy AI for a New Era of Democratized Neurological Health Screening**<br>
+  Zhen Chen, **Tianliang Yao**, Cheng Wang, Yixuan Yuan<br>
+  In submission, 2025.
   
 **Journal**
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>

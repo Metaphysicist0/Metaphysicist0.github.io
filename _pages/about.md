@@ -36,6 +36,9 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **The Eye as a Window to the Brain: Building Trustworthy AI for a New Era of Democratized Neurological Health Screening**<br>
   Zhen Chen, **Tianliang Yao**, Cheng Wang, Yixuan Yuan<br>
   In submission, 2025.
+- **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic XXX**<br>
+  **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
+  In submission, 2025.
   
 **Journal**
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>

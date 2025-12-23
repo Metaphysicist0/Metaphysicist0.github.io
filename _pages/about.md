@@ -45,8 +45,8 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning**<br>
   Shuang Liang, Zhicheng Liu, Guangyuan Liu, **Tianliang Yao**, Chunyi Yang, Peng Qi<br>
   IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (JCR Q1, IF: 6.8, minor revision, submitted in 2024)
-- **CoMRL: Context-Driven Meta-Reinforcement Learning Framework for Generalizable Robotic-Assisted Endovascular Navigation**
-  Hengyu Hu, Shaolong Tang, Tianliang Yao, Zhengyu Shi, Zhaoxing Li, Jiguang Li, Dong Liu, Peng Qi
+- **CoMRL: Context-Driven Meta-Reinforcement Learning Framework for Generalizable Robotic-Assisted Endovascular Navigation**<br>
+  Hengyu Hu, Shaolong Tang, Tianliang Yao, Zhengyu Shi, Zhaoxing Li, Jiguang Li, Dong Liu, Peng Qi<br>
   IEEE Robotics and Automation Letters (RA-L), 2025. (JCR Q1, IF: 5.3, major revision)
   
 **Journal**

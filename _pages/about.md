@@ -171,6 +171,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant
+- ENGG5202: Pattern Recognition, 2025-2026 Spring.
 - ELEG4512: Digital Image Processing, 2025-2026 Fall.
 
 <span class='anchor' id='invited-talks'></span>

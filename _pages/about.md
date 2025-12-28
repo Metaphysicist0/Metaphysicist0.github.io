@@ -182,11 +182,11 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
-- "**Artificial Intelligence Techniques for Task-Level Autonomous Robotic-Assisted Endovascular Procedures**"<br>
+- **Artificial Intelligence Techniques for Task-Level Autonomous Robotic-Assisted Endovascular Procedures**<br>
   University of Science and Technology of China (USTC), Jul 2025.
-- "**Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures**"<br>
+- **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures**<br>
   Siemens Healthineers Shanghai Innovation Center, Jun 2024.
-- "**Artificial Intelligence in Coronary Image Analysis**"<br>
+- **Artificial Intelligence in Coronary Image Analysis**<br>
   Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 2023.
   
 <a href='https://mapmyvisitors.com/web/1byr7'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=P_j5NmoygM3uhcWirSjS9X1L1wIFmErKg8e9GxZQA5Y'/></a>

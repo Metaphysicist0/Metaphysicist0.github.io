@@ -166,6 +166,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2025
 
 **Editorial & Conference Services**
+- Editorial Board invitation, npj Digital Surgery, 2025. (Respectfully declined as a first-year Ph.D. student.)
 - Program committee member, AAAI Conference on Artificial Intelligence (AAAI) Undergraduate Consortium, 2026.
 - Student workshop organizer, ["Robotics for Cardiovascular Interventions: AI, Imaging, and Autonomy"](https://sites.google.com/view/icra-2026/home), IEEE International Conference on Robotics and Automation (ICRA), 2026. (Proposal is under review)
 

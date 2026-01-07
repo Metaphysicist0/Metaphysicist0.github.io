@@ -52,7 +52,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
   IEEE Reviews in Biomedical Engineering (RBME), 2025. (JCR Q1, IF: 12.0)<br>
-  (**Featured Article**)
+  <span style="color:#d32f2f">(**Featured Article**)
 - **Learning Expressive Task Embeddings and Sample-Efficient Exploration for Context Shift Reduction in Offline Meta-Reinforcement Environment**<br>
   Haoyu Wang, Xiaoyu Tan, **Tianliang Yao**, Zhijun Fang, Peng  Qi, Xihe Qiu<br>
   IEEE Transactions on Cognitive and Developmental Systems (T-CDS), 2025. (JCR Q1, IF: 4.9)
@@ -66,7 +66,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures**<br>
   **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi<br>
   Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)<br>
-   (**Inside Back Cover**)<br>
+   <span style="color:#d32f2f">(**Inside Back Cover**)<br>
   <img src='images/AISY_202510_Cover.jpg' alt="AISY_202510" width="25%">
 - **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
    **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
@@ -83,14 +83,14 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
   **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), 2025.<br>
-  (**IEEE ICRA RAS Travel Grant Award**)
+  <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)
 - **Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats**<br>
   Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Di Wu, Qiulin Wang, Zixi Chen, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), 2025.
 - **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
   Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
   IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.<br>
-  (**Best Conference Paper Finalist**)
+  <span style="color:#d32f2f">(**Best Conference Paper Finalist**)
 
 **Book Chapter**
 - **A Practical Tutorial on MindSpore-based Intelligent Medical Information Analysis《MindSpore医学智能分析实践教程》**<br>

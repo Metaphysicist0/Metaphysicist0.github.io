@@ -118,6 +118,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Peng Qi, **Tianliang Yao**, CN116030672B, 2024.
 
 # 🎖 Selected Honors and Awards
+- Featured Article (**First author**), IEEE Reviews in BiomedicalEngineering, Jan 2026.
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.
 - Outstanding Graduates of Tongji University, Jun 2025.
 - IEEE ICRA 2025 RAS Travel Grant Award, May 2025.

@@ -130,7 +130,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - Gold Prize in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 
 <span class='anchor' id='projects'></span>
-# 💻 Research Projects
+# 💻 Research Project Experience
 1. Student Participant, Development and Integration of AI-Assisted Intelligent Navigation System for Endovascular Robotics, Siemens Healthineers, Total Funding: 1,000,000 CNY, 2026~2029.
 2. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, Total Funding: 2,000,000 CNY, 2023~2026.
 

@@ -33,7 +33,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 **In submission**
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
-  In submission, 2025.
+  Nature Communications (1st round review).
 - **VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for XXX**<br>
   Bo Lu, Lei Li, **Tianliang Yao**, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi<br>
   In submission, 2025.

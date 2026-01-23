@@ -36,9 +36,9 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
   Nature Communications, 2026. (1st round review)
-- **The Eye as a Window to the Brain: Building Trustworthy AI for a New Era of Democratized Neurological Health Screening**<br>
+- **Implementing the eye as a window to the brain in low-resourced settings**<br>
   Zhen Chen, **Tianliang Yao**, Cheng Wang, Yixuan Yuan<br>
-  In submission, 2026.
+  npj Digital Medicine, 2026. (Under review)
 - **VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for XXX**<br>
   Bo Lu, Lei Li, **Tianliang Yao**, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi<br>
   In submission, 2025.

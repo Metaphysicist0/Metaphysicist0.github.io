@@ -31,8 +31,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 # 📝 Selected Publications 
 (†: equal contribution)<br>
 **In submission**
-- **Learning-Enabled XX in XX**<br>
-  2026.
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
   Nature Communications, 2026. (1st round review)
@@ -135,8 +133,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='projects'></span>
 # 💻 Research Project Experience
-1. Student Participant, Development and Integration of AI-Assisted Intelligent Navigation System for Endovascular Robotics, Siemens Healthineers, Total Funding: 1,000,000 CNY, 2026~2029.
-2. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, Total Funding: 2,000,000 CNY, 2023~2026.
+1. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, Total Funding: 2,000,000 CNY, 2023~2026.
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations

@@ -147,6 +147,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 **Journal Reviewer**
 - The Innovation (JCR Q1, IF: 25.7)
 - International Journal of Surgery (JCR Q1, IF: 12.9)
+- Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
 - IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
 - Engineering Applications of Artificial Intelligence (JCR Q1, IF: 8.0)
 - Expert Systems with Applications (JCR Q1, IF: 7.5)

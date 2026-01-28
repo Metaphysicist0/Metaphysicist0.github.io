@@ -160,7 +160,8 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - iScience (JCR Q1, IF: 4.1, Cell Press)
 - Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
 - Advances in Ophthalmology Practice and Research (JCR Q1, IF: 3.4)
-- IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (OJ-UFFC) (JCR Q1, IF: 2.9)
+- International Journal of Computer Assisted Radiology and Surgery (IJCARS) (IF:3.0)
+- IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (OJ-UFFC) (IF: 2.9)
 - Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
 
 **Conference Reviewer**

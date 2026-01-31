@@ -39,9 +39,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Implementing the Eye as a Window to the Brain in Low-Resourced Settings**<br>
   Zhen Chen, **Tianliang Yao**, Cheng Wang, Yixuan Yuan<br>
   npj Digital Medicine, 2026. (Under review)
-- **VAS-Diffuser: Visual-Augmented and Structure-Informed Diffuser for Guidewire Trajectory Prediction in Robotic Endovascular Interventions**<br>
-  Bo Lu, Lei Li, **Tianliang Yao**, Yixin Gu, Markus Kowarschik, Jiajia Ge, Yixuan Yuan, Lining Sun, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), 2026. (Under review)
 - **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic XXX**<br>
   **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
   In submission, 2025.

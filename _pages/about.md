@@ -79,20 +79,26 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7)
 
 **Conference**
+- **Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**<br>
+  Hao Wang, **Tianliang Yao**, Bo Lu, Zhiqiang Pei, Dong Liu, Lei Ma, Peng Qi<br>
+  IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
+- **Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation**<br>
+  Jiyuan Zhao, Zhengyu Shi, Wentong Tian, **Tianliang Yao**, Dong Liu, Tao Liu, Yizhe Wu, Peng Qi<br>
+  IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
 - **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
   **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
-   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025. (**Oral**)
+   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, 2025. (**Oral**)
 - **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
   **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), 2025.<br>
+  IEEE International Conference on Robotics and Automation (ICRA), Atlanta, 2025.<br>
   <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)
 - **Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats**<br>
   Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Di Wu, Qiulin Wang, Zixi Chen, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), 2025. <br>
+  IEEE International Conference on Robotics and Automation (ICRA), Atlanta, 2025. <br>
    [(公众号简介)](https://mp.weixin.qq.com/s/KBpne5ucI-foupXbcEhevQ)
 - **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
   Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
-  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), 2023.<br>
+  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, 2023.<br>
   <span style="color:#d32f2f">(**Best Conference Paper Finalist**)
 
 **Book Chapter**

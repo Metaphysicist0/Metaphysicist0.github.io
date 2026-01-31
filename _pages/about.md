@@ -79,7 +79,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**<br>
   Hao Wang, **Tianliang Yao**, Bo Lu, Zhiqiang Pei, Dong Liu, Lei Ma, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
-- **Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation**<br>
+- **Vision-based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation**<br>
   Jiyuan Zhao, Zhengyu Shi, Wentong Tian, **Tianliang Yao**, Dong Liu, Tao Liu, Yizhe Wu, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
 - **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>

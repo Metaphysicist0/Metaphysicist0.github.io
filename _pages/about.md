@@ -138,7 +138,8 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='projects'></span>
 # 💻 Research Project Experience
-1. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, Total Funding: 2,000,000 CNY, 2023~2026.
+1. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, CUHK & Tongji, Total Funding: 2,000,000 CNY, 2023~2026.
+2. Student Participant, AI-Enabled Autonomous Intervention Robotic System, Siemens Healthineers & CUHK & Tongji, Total Funding: 1,000,000 CNY, 2026~2029.
 
 <span class='anchor' id='educations'></span>
 # 📖 Educations

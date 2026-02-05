@@ -31,8 +31,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 # 📝 Selected Publications 
 (†: equal contribution)<br>
 **In submission**
-- **Learning-enabled X**<br>
-  In submission, 2026.
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
   Nature Communications, 2026. (1st round review)
@@ -193,6 +191,8 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
+- **Learning-enabled task autonomy in robotic endovascular interventions**<br>
+  Interventional Robotics Academic Symposium, Tongji University, Feb 2026.
 - **Artificial Intelligence Techniques for Task-Level Autonomous Robotic-Assisted Endovascular Procedures**<br>
   University of Science and Technology of China (USTC), Jul 2025.
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures**<br>

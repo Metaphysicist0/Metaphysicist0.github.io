@@ -42,7 +42,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   npj Digital Medicine, 2026. (Under review)
 - **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic XXX**<br>
   **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
-  In submission, 2025.
+  IEEE Transactions, 2025. (Under review)
 - **Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning**<br>
   Shuang Liang, Zhicheng Liu, Guangyuan Liu, **Tianliang Yao**, Chunyi Yang, Peng Qi<br>
   IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (JCR Q1, IF: 6.8, minor revision, submitted in 2024)

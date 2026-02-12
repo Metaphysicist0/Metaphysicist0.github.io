@@ -128,30 +128,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2026
 
-**Editorial & Conference Services**
-- Editorial board member, npj Digital Surgery, 2026.
-- Program committee member, AAAI Conference on Artificial Intelligence (AAAI) Undergraduate Consortium, 2026.
 
-**Academic Organizations**
-- Student committee member, Autonomous Robotic Technology Seminar (ARTS, 自主机器人技术研讨会), affiliated with the China Association of Automation (CAA，中国自动化学会).
-
-**Open-source Projects**
-- [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide) (<img alt="GitHub repo stars" src="https://img.shields.io/github/stars/TianxingChen/Embodied-AI-Guide">), the lead and primary contributor to the Section *"Embodied AI in Healthcare"*.
-
-<span class='anchor' id='ta'></span>
-# 📖 Teaching Assistant
-- ENGG5202: Pattern Recognition, 2025-2026 Spring.
-- ELEG4512: Digital Image Processing, 2025-2026 Fall.
-
-<span class='anchor' id='invited-talks'></span>
-# 💬 Invited Talks
-- **Learning-Enabled Task Autonomy in Robotic Endovascular Interventions**<br>
-  Interventional Robotics Academic Symposium, Tongji University, Feb 2026.
-- **Artificial Intelligence Techniques for Task-Level Autonomous Robotic-Assisted Endovascular Procedures**<br>
-  University of Science and Technology of China (USTC), Jul 2025.
-- **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures**<br>
-  Siemens Healthineers Shanghai Innovation Center, Jun 2024.
-- **Artificial Intelligence in Coronary Image Analysis**<br>
-  Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 2023.
   
 <a href='https://mapmyvisitors.com/web/1byr7'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=P_j5NmoygM3uhcWirSjS9X1L1wIFmErKg8e9GxZQA5Y'/></a>

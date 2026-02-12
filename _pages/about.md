@@ -93,12 +93,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - Best Conference Paper Finalist, IEEE ICARM 2023, Jul 2023.
 - Gold Prize in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
 
-<span class='anchor' id='projects'></span>
-# 💻 Research Project Experience
-1. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, CUHK & Tongji, Total Funding: 2,000,000 CNY, 2023~2026.
-2. Student Participant, AI-Enabled Autonomous Intervention Robotic System, Siemens Healthineers & CUHK & Tongji, Total Funding: 1,000,000 CNY, 2026~2029. <br>
- <span style="color:#d32f2f"> **(Siemens Healthineers' largest single scientific research collaboration in China to date)**
-
 <span class='anchor' id='educations'></span>
 # 📖 Educations
 - *2025.08 - 2029.07 (expected)*, Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Supervisor: Prof. Yixuan Yuan.

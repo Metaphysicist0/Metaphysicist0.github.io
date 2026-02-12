@@ -128,6 +128,9 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2026
 
-
+<span class='anchor' id='ta'></span>
+# 📖 Teaching Assistant
+- ENGG5202: Pattern Recognition, 2025-2026 Spring.
+- ELEG4512: Digital Image Processing, 2025-2026 Fall.
   
 <a href='https://mapmyvisitors.com/web/1byr7'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=P_j5NmoygM3uhcWirSjS9X1L1wIFmErKg8e9GxZQA5Y'/></a>

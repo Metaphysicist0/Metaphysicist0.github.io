@@ -103,22 +103,14 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 **Journal Reviewer**
 - The Innovation (JCR Q1, IF: 25.7)
 - International Journal of Surgery (JCR Q1, IF: 12.9)
-- Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
 - IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
+- Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
 - Engineering Applications of Artificial Intelligence (JCR Q1, IF: 8.0)
 - Expert Systems with Applications (JCR Q1, IF: 7.5)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - Knowledge-based Systems (JCR Q1, IF: 7.2)
 - IEEE Transactions on Haptics
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
-- Biomedical Signal Processing and Control (JCR Q1, IF: 4.9)
-- Computers and Electrical Engineering (JCR Q1, IF: 4.9)
-- iScience (JCR Q1, IF: 4.1, Cell Press)
-- Journal of Biomedical Informatics (JCR Q1, IF: 4.0)
-- Advances in Ophthalmology Practice and Research (JCR Q1, IF: 3.4)
-- International Journal of Computer Assisted Radiology and Surgery (IJCARS) (IF:3.0)
-- IEEE Open Journal of Ultrasonics, Ferroelectrics, and Frequency Control (OJ-UFFC) (IF: 2.9)
-- Journal of Systems Science and Systems Engineering (系统科学与系统工程学报)
 
 **Conference Reviewer**
 - IEEE International Conference on Multimedia & Expo (ICME), 2026

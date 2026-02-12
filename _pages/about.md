@@ -23,8 +23,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- <span style="color:#d32f2f; font-weight: bold;">**Important:** **I am currently fully committed to ongoing projects within our research group. To protect intellectual property and maintain research quality,** **I have no availability for any form of external discussions or any other cooperation.** **Thanks for understanding**!</span>
-- <span style="color:#d32f2f; font-weight: bold;">**Important:** **I am deeply grateful for the excellent research environments and mentorship I have received. Please direct any specific inquiries regarding the research groups or admissions to the professors directly. Best of luck with your application**!</span>
 - *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
 
 <span class='anchor' id='publications'></span>
@@ -43,22 +41,12 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic XXX**<br>
   **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
   IEEE Transactions, 2025. (Under review)
-- **Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning**<br>
-  Shuang Liang, Zhicheng Liu, Guangyuan Liu, **Tianliang Yao**, Chunyi Yang, Peng Qi<br>
-  IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (JCR Q1, IF: 6.8, minor revision, submitted in 2024)
-  
+
 **Journal**
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
   IEEE Reviews in Biomedical Engineering (RBME), 2025. (JCR Q1, IF: 12.0)<br>
   <span style="color:#d32f2f">(**Featured Article**) [(公众号简介)](https://mp.weixin.qq.com/s/0q2EQnVAdFaw2qCAiDbz6A?scene=1&click_id=7)
-- **Learning Expressive Task Embeddings and Sample-Efficient Exploration for Context Shift Reduction in Offline Meta-Reinforcement Environment**<br>
-  Haoyu Wang, Xiaoyu Tan, **Tianliang Yao**, Zhijun Fang, Peng  Qi, Xihe Qiu<br>
-  IEEE Transactions on Cognitive and Developmental Systems (T-CDS), 2025. (JCR Q1, IF: 4.9)
-- **Clinical-Grade AI Model for Molecular Subtyping of Endometrial Cancer: A Multi-Center Cohort Study in China**<br>
-  Peng Qi†, **Tianliang Yao†**, Hu Li†, Jingnan Zhu†, Jianye Li, Xuezhen Luo, Qizhi He, Yiran Li<br>
-  Molecular Biomedicine, 2025. (JCR Q1, IF: 10.1)<br>
-  The core algorithm and system workflow have been granted a National Invention Patent (CN120852412B).
 - **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
   **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi<br>
   IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)<br>
@@ -77,12 +65,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7)
 
 **Conference**
-- **Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**<br>
-  Hao Wang, **Tianliang Yao**, Bo Lu, Zhiqiang Pei, Dong Liu, Lei Ma, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
-- **Vision-based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation**<br>
-  Jiyuan Zhao, Zhengyu Shi, Wentong Tian, **Tianliang Yao**, Dong Liu, Tao Liu, Yizhe Wu, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
 - **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
   **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, 2025. (**Oral**)
@@ -98,32 +80,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
   Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
   IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, 2023.<br>
   <span style="color:#d32f2f">(**Best Conference Paper Finalist**)
-
-**Book Chapter**
-- **A Practical Tutorial on MindSpore-based Intelligent Medical Information Analysis《MindSpore医学智能分析实践教程》**<br>
-  Editor-in-Chief: Peng Qi; Associate Editors: Xinrong Zhu, Yan Huang, Lixiao Zhang;<br>
-  Contributors: Kaiyi Song, Zhengyu Shi, Miao He, Jiyuan Zhao, Hao Wang, **Tianliang Yao**, Jiacheng Ni, Chenxu Zhang, Sijie Dong, Baiqing Song, Jiayi Luo, Fan Yang, Yuying Jia, Huan Wang, Baoru Kang, Zhengqiang Zhu <br>
-  Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
-
-**Authorized Patent**
-- **A telescopic catheter system for endovascular procedures and its application**<br>
-  Peng Qi, **Tianliang Yao**, CN116785555B, 2025.
-- **A vascular phenotyping system for dynamic feature extraction from morpho-temporal angioarchitecture**<br>
-  Peng Qi, **Tianliang Yao**, Yu Wang, CN116310397B, 2025.
-- **A deep learning system for gesture recognition and skill assessment in endovascular procedures**<br>
-  Peng Qi, **Tianliang Yao**, Yi Zhang, CN116562392B, 2025.
-- **An auxiliary diagnostic system for mitral valve transcatheter edge-to-edge repair**<br>
-  Peng Qi, **Tianliang Yao**, CN119601212B, 2025.
-- **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
-  Peng Qi, **Tianliang Yao**, CN119417737B, 2025.
-- **A feature-based method for aligning angiogram sequences and its application**<br>
-  Peng Qi, **Tianliang Yao**, Yiran Li, CN116416288B, 2025.
-- **Neural Rendering for 3D ultrasound reconstruction of intraoperative scenes in cardiovascular interventions**<br>
-  Peng Qi, **Tianliang Yao**, CN119206038B, 2025.
-- **Deep-learning-based control for autonomous cardiovascular intervention robot and its application**<br>
-  Peng Qi, **Tianliang Yao**, CN116021512B, 2025.
-- **An endovascular interventional procedure training scoring method and its application**<br>
-  Peng Qi, **Tianliang Yao**, CN116030672B, 2024.
 
 # 🎖 Selected Honors and Awards
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.

@@ -45,7 +45,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 **Journal**
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, and Peng Qi<br>
-  IEEE Reviews in Biomedical Engineering (RBME), 2025. (JCR Q1, IF: 12.0)<br>
+  IEEE Reviews in Biomedical Engineering (RBME), 2025. (JCR Q1, IF: 12.0, Acceptance rate: 6%)<br>
   <span style="color:#d32f2f">(**Featured Article**) [(公众号简介)](https://mp.weixin.qq.com/s/0q2EQnVAdFaw2qCAiDbz6A?scene=1&click_id=7)
 - **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
   **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, and Peng Qi<br>

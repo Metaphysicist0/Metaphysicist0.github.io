@@ -31,7 +31,7 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 **In submission**
 - **X**<br>
   **Tianliang Yao†** et al. <br>
-  In submission, 2026. (1st round review)
+  A leading international journal, 2026. (1st round review)
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
   Nature Communications, 2026. (1st round review)

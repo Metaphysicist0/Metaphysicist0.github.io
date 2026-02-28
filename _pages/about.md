@@ -16,7 +16,7 @@ redirect_from:
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
 <span class='anchor' id='about-me'></span>
-I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). Previously, I received my B.Eng. degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/) in 2025, guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
+I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxyuan/index.htm) at the [Department of Electronic Engineering](https://www.ee.cuhk.edu.hk/en-gb/), [The Chinese University of Hong Kong](https://www.cuhk.edu.hk/chinese/index.html), supervised by Prof. [Yixuan Yuan](http://www.ee.cuhk.edu.hk/~yxyuan/). Previously, I received my B.Eng. degree from the [Department of Control Science and Engineering](https://cse.tongji.edu.cn/), [College of Electronics and Information Engineering](https://see.tongji.edu.cn/) at [Tongji University](https://www.tongji.edu.cn/), guided by Prof. [Peng Qi](https://cse.tongji.edu.cn/6b/68/c15581a158568/page.htm).
 
 **Recent focus:** AI-Driven Healthcare, Embodied Intelligence for Medical Robotics.
 
@@ -98,11 +98,6 @@ I am currently a first-year Ph.D. student at the [AIM group](http://www.ee.cuhk.
 - First Prize in “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work, Research Track, Oct 2023.
 - Best Conference Paper Finalist, IEEE ICARM 2023, Jul 2023.
 - Gold Prize in the 6th China (Shanghai) International Exhibition of Inventions, Jun 2023.
-
-<span class='anchor' id='educations'></span>
-# 📖 Educations
-- *2025.08 - 2029.07 (expected)*, Ph.D. student @ Dept. of EE, The Chinese University of Hong Kong, Hong Kong SAR, China, Supervisor: Prof. Yixuan Yuan.
-- *2021.09 - 2025.06*, B.Eng. Degree, Automation, Tongji University, GPA: 91/95, Rank: 1/61, Shanghai, China, Supervisor: Prof. Peng Qi.
 
 <span class='anchor' id='services'></span>
 # 🎖 Selected Services

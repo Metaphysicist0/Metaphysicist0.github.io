@@ -87,6 +87,10 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   Contributors: Kaiyi Song, Zhengyu Shi, Miao He, Jiyuan Zhao, Hao Wang, **Tianliang Yao**, Jiacheng Ni, Chenxu Zhang, Sijie Dong, Baiqing Song, Jiayi Luo, Fan Yang, Yuying Jia, Huan Wang, Baoru Kang, Zhengqiang Zhu <br>
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
+# 📝 Research Project Experience
+1. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, CUHK & Tongji, Total Funding: 2,000,000 CNY.
+2. Student Participant, AI-Enabled Autonomous Interventions and Robotics, Siemens Healthineers & CUHK & Tongji, Total Funding: 1,000,000 CNY.
+
 # 🎖 Selected Honors and Awards
 - Outstanding Undergraduate Thesis Award of Tongji University, Jun 2025.
 - Outstanding Graduates of Tongji University, Jun 2025.

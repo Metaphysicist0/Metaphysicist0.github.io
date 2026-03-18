@@ -41,6 +41,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic XXX**<br>
   **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
   A flagship journal in robotics, 2025. (Under review)
+  <sub>*Participatory work completed prior to graduate enrollment. Extended review timeline due to journal processing.*</sub>
 
 **Journal**
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>

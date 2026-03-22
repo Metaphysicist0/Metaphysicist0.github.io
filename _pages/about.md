@@ -154,6 +154,9 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 2023.
 
 # 📰 News & Media Coverage
+[The Direction of Youth] **National Outstanding University Students Showcase**<br>
+[China Central Television (CCTV)](https://tv.cctv.com/2025/09/16/VIDEQPfOfXDwFeQYMke12RpP250916.shtml?spm=C55953877151.PXXwefeHcOAR.0.0), Sep 2025.
+
 [Tongji University News] **Undergraduate Student Receives 2024 Baosteel Scholarship Special Award**<br>
 [Tongji University Official Website](https://news.tongji.edu.cn/info/1002/89327.htm), Nov 2024.
 

@@ -154,7 +154,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 2023.
 
 # 📰 News & Media Coverage
-[Tongji University News] **Undergraduate Student Tianliang Yao Receives 2024 Baosteel Scholarship Special Award**<br>
+[Tongji University News] **Undergraduate Student Receives 2024 Baosteel Scholarship Special Award**<br>
 [Tongji University Official Website](https://news.tongji.edu.cn/info/1002/89327.htm), Nov 2024.
 
 [Shanghai Science & Technology Innovation] **AI-Enabled Cardiovascular Interventional Robotics**<br>

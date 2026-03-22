@@ -152,5 +152,12 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   Siemens Healthineers Shanghai Innovation Center, Jun 2024.
 - **Artificial Intelligence in Coronary Image Analysis**<br>
   Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 2023.
-  
+
+# 📰 News & Media Coverage
+[Tongji University News] **Undergraduate Student Tianliang Yao Receives 2024 Baosteel Scholarship Special Award**<br>
+[Tongji University Official Website](https://news.tongji.edu.cn/info/1002/89327.htm), Nov 2024.
+
+[Shanghai Science & Technology Innovation] **AI-Enabled Cardiovascular Interventional Robotics**<br>
+[Shanghai Media Group (SMG) News Channel](https://www.kankanews.com/detail/ZGwkjZa6GQx), Jun 2023.
+
 <a href='https://mapmyvisitors.com/web/1byr7'  title='Visit tracker'><img src='https://mapmyvisitors.com/map.png?cl=ffffff&w=600&t=tt&d=P_j5NmoygM3uhcWirSjS9X1L1wIFmErKg8e9GxZQA5Y'/></a>

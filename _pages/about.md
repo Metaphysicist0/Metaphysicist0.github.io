@@ -88,6 +88,26 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   Contributors: Kaiyi Song, Zhengyu Shi, Miao He, Jiyuan Zhao, Hao Wang, **Tianliang Yao**, Jiacheng Ni, Chenxu Zhang, Sijie Dong, Baiqing Song, Jiayi Luo, Fan Yang, Yuying Jia, Huan Wang, Baoru Kang, Zhengqiang Zhu <br>
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
+**Authorized Patent**
+- **A telescopic catheter system for endovascular procedures and its application**<br>
+  Peng Qi, **Tianliang Yao**, CN116785555B, 2025.
+- **A vascular phenotyping system for dynamic feature extraction from morpho-temporal angioarchitecture**<br>
+  Peng Qi, **Tianliang Yao**, Yu Wang, CN116310397B, 2025.
+- **A deep learning system for gesture recognition and skill assessment in endovascular procedures**<br>
+  Peng Qi, **Tianliang Yao**, Yi Zhang, CN116562392B, 2025.
+- **An auxiliary diagnostic system for mitral valve transcatheter edge-to-edge repair**<br>
+  Peng Qi, **Tianliang Yao**, CN119601212B, 2025.
+- **Diffusion-based low-light enhancement for intraoperative visualization in cardiac interventional procedures**<br>
+  Peng Qi, **Tianliang Yao**, CN119417737B, 2025.
+- **A feature-based method for aligning angiogram sequences and its application**<br>
+  Peng Qi, **Tianliang Yao**, Yiran Li, CN116416288B, 2025.
+- **Neural Rendering for 3D ultrasound reconstruction of intraoperative scenes in cardiovascular interventions**<br>
+  Peng Qi, **Tianliang Yao**, CN119206038B, 2025.
+- **Deep-learning-based control for autonomous cardiovascular intervention robot and its application**<br>
+  Peng Qi, **Tianliang Yao**, CN116021512B, 2025.
+- **An endovascular interventional procedure training scoring method and its application**<br>
+  Peng Qi, **Tianliang Yao**, CN116030672B, 2024.
+
 # 📝 Research Project Experience
 1. Student Participant, Intelligent Robotic Catheter System for Mitral Valve Transcatheter Edge-to-Edge Repair Procedure, National Key Research and Development Program of China, CUHK & Tongji, Total Funding: 2,000,000 CNY.
 2. Student Participant, AI-Enabled Autonomous Interventions and Robotics, Siemens Healthineers & CUHK & Tongji, Total Funding: 1,000,000 CNY.

@@ -43,6 +43,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   IEEE Transactions on Robotics (T-RO), submitted in 2025. (Major Revision)<br>
   <span style="color:#d32f2f">Representative Achievement of Tongji University, Exhibited at the 25th China International Industry Fair (CIIF), Sep. 2025. <br>
   [Tongji University Official Website](https://news.tongji.edu.cn/info/1002/92116.htm)<br>
+  
   <sub>*Completed prior to graduate enrollment.*</sub>
 
 **Journal**

@@ -41,9 +41,8 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic XXX**<br>
   **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
   IEEE Transactions on Robotics (T-RO), submitted in 2025. (Major Revision)<br>
-  <span style="color:#d32f2f">Representative Achievement of Tongji University, Exhibited at the 25th China International Industry Fair (CIIF), Sep. 2025. <br>
+  <span style="color:#d32f2f">Representative Achievement of Tongji University, Exhibited at the 25th China International Industry Fair (CIIF), Sep. 2025. </span><br>
   [Tongji University Official Website](https://news.tongji.edu.cn/info/1002/92116.htm)<br>
-  
   <sub>*Completed prior to graduate enrollment.*</sub>
 
 **Journal**
@@ -58,7 +57,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures**<br>
   **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi<br>
   Advanced Intelligent Systems (AISY), 2025. (JCR Q1, IF: 6.8)<br>
-   <span style="color:#d32f2f">(**Inside Back Cover**) [(公众号简介)](https://mp.weixin.qq.com/s/bv9LTvfWsi4vLYO_t-PPxA)<br>
+   <span style="color:#d32f2f">(**Inside Back Cover**) </span>[(公众号简介)](https://mp.weixin.qq.com/s/bv9LTvfWsi4vLYO_t-PPxA)<br>
   <img src='images/AISY_202510_Cover.jpg' alt="AISY_202510" width="25%">
 - **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
    **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
@@ -75,7 +74,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
   **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), Atlanta, 2025.<br>
-  <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)
+  <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)</span>
 - **Ultrasound-Guided Robotic Blood Drawing and In Vivo Studies on Submillimetre Vessels of Rats**<br>
   Shuaiqi Jing, **Tianliang Yao**, Ke Zhang, Di Wu, Qiulin Wang, Zixi Chen, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), Atlanta, 2025. <br>
@@ -83,7 +82,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
   Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
   IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, 2023.<br>
-  <span style="color:#d32f2f">(**Best Conference Paper Finalist**)
+  <span style="color:#d32f2f">(**Best Conference Paper Finalist**)</span>
 
 **Book Chapter**
 - **A Practical Tutorial on MindSpore-based Intelligent Medical Information Analysis《MindSpore医学智能分析实践教程》**<br>

@@ -167,6 +167,9 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 <span class='anchor' id='invited-talks'></span>
 # 💬 Invited Talks
 - **Learning-Enabled Task Autonomy in Robotic Endovascular Interventions**<br>
+  SUSTech Institute of Robotics (SIR), Southern University of Science and Technology (SUSTech) <br>
+  Invited by Prof. Jian S. Dai (MAE, FREng/RSA/IEEE/ASME/IMechE), Mar 2026.
+- **Learning-Enabled Task Autonomy in Robotic Endovascular Interventions**<br>
   Interventional Robotics Academic Symposium, Tongji University, Feb 2026.
 - **Artificial Intelligence Techniques for Task-Level Autonomous Robotic-Assisted Endovascular Procedures**<br>
   University of Science and Technology of China (USTC), Jul 2025.

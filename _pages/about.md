@@ -168,15 +168,15 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 # 💬 Invited Talks
 - **Learning-Enabled Task Autonomy in Robotic Interventional Therapy**<br>
   SUSTech Institute of Robotics (SIR), Southern University of Science and Technology (SUSTech), <br>
-  Invited by Prof. Jian S. Dai (MAE, FREng/RSA/IEEE/ASME/IMechE), Mar 2026.
+  Invited by Prof. Jian S. Dai (MAE, FREng/RSA/IEEE/ASME/IMechE), Apr 1, 2026.
 - **Learning-Enabled Task Autonomy in Robotic Endovascular Interventions**<br>
-  Interventional Robotics Academic Symposium, Tongji University, Feb 2026.
+  Interventional Robotics Academic Symposium, Tongji University, Feb 5, 2026.
 - **Artificial Intelligence Techniques for Task-Level Autonomous Robotic-Assisted Endovascular Procedures**<br>
-  University of Science and Technology of China (USTC), Jul 2025.
+  University of Science and Technology of China (USTC), Jul 23, 2025.
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures**<br>
   Siemens Healthineers Shanghai Innovation Center, Jun 2024.
 - **Artificial Intelligence in Coronary Image Analysis**<br>
-  Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 2023.
+  Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 22, 2023.
 
 # 📰 News & Media Coverage
 [The Direction of Youth] **National Outstanding University Students Showcase**<br>

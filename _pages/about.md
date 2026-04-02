@@ -174,7 +174,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **Artificial Intelligence Techniques for Task-Level Autonomous Robotic-Assisted Endovascular Procedures**<br>
   University of Science and Technology of China (USTC), Jul 23, 2025.
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures**<br>
-  Siemens Healthineers Shanghai Innovation Center, Jun 2024.
+  Siemens Healthineers Shanghai Innovation Center, Jun 15, 2024.
 - **Artificial Intelligence in Coronary Image Analysis**<br>
   Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 22, 2023.
 

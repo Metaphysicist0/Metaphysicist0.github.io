@@ -177,7 +177,8 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures**<br>
   Siemens Healthineers Shanghai Innovation Center, Jun 15, 2024.
 - **Artificial Intelligence in Coronary Image Analysis**<br>
-  Chronic Total Occlusion Club - China (CTOCC) 2023, Oct 22, 2023.
+  Chronic Total Occlusion Club - China (CTOCC) 2023, <br>
+  Organized by Junbo Ge (Academician of Chinese Academy of Sciences, FACC, FAHA, FESC, FSCAI), Oct 22, 2023.
 
 # 📰 News & Media Coverage
 [The Direction of Youth] **National Outstanding University Students Showcase**<br>

@@ -29,9 +29,6 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 # 📝 Selected Publications 
 (†: equal contribution)<br>
 **In submission**
-- **X**<br>
-  **Tianliang Yao†**, Zhiqiang Pei†,  Dong Liu, Liu Wang, Tao Liu, Jiyuan Zhao, Zhengyu Shi, Ying Wang, Markus Kowarschik, Rebecca Fahrig, Yixuan Yuan📧, Junbo Ge📧, Peng Qi📧 <br>
-  Science Advances, 2026. (1st round review)
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
   Nature Communications, 2026. (1st round review)

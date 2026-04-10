@@ -57,7 +57,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   [(News from Queen Mary University of London)](https://www.sems.qmul.ac.uk/news/7257/prof-althoefer-publishes-paper-on-using-fuzzy-reinforcement-learning-in-endovascular-robotics/)
 - **Self-Supervised X-Ray Coronary Angiography Segmentation with Vessel-Aware Synthesis Learning**<br>
   Shuang Liang, Zhicheng Liu, Guangyuan Liu, **Tianliang Yao**, Chunyi Yang, Peng Qi<br>
-  IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (JCR Q1, IF: 6.8)
+  IEEE Journal of Biomedical and Health Informatics (J-BHI), 2025. (JCR Q1, IF: 6.8)<br>
   <sub>*Project completed and submitted prior to graduate enrollment.*</sub>
 - **Real-Time Guidewire Tip Tracking Using a Siamese Network for Image-Guided Endovascular Procedures**<br>
   **Tianliang Yao**, Zhiqiang Pei, Yong Li, Yixuan Yuan, Peng Qi<br>

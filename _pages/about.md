@@ -31,7 +31,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 **In submission**
 - **X**<br>
   **Tianliang Yao†**, ....<br>
-  Science Advances, 2026. (In transfer submission)
+  Science Advances, 2026. (In transfer submission)<br>
   <sub>*Has been applied in commercial products.*</sub>
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
   Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>

@@ -73,6 +73,16 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   Computers in Biology and Medicine, 2023. (JCR: Q1, IF: 7.7)
 
 **Conference**
+- **Sample-Efficient Learning with Online Expert Correction for Autonomous Catheter Steering in Endovascular Bifurcation Navigation**<br>
+  Hao Wang, **Tianliang Yao**, Bo Lu, Zhiqiang Pei, Dong Liu, Lei Ma, Peng Qi<br>
+  IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
+  <sub>*Participatory work completed prior to graduate enrollment.*</sub><br>
+  <sub>*First author Hao Wang won the IEEE ICRA RAS Travel Grant Award.*</sub>
+- **Vision-Based Reasoning with Topology-Encoded Graphs for Anatomical Path Disambiguation in Robot-Assisted Endovascular Navigation**<br>
+  Jiyuan Zhao, Zhengyu Shi, Wentong Tian, **Tianliang Yao**, Dong Liu, Tao Liu, Yizhe Wu, Peng Qi<br>
+  IEEE International Conference on Robotics and Automation (ICRA), Vienna, 2026.<br>
+  <sub>*Participatory work completed prior to graduate enrollment.*</sub><br>
+  <sub>*First author Jiyuan Zhao won the IEEE ICRA RAS Travel Grant Award.*</sub>
 - **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
   **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, 2025. (**Oral**)

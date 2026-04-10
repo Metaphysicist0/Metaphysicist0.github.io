@@ -91,6 +91,10 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
   Publisher: Publishing House of Electronics Industry (电子工业出版社), 2025.
 
 **Authorized Patent**
+- **Multimodal data-driven simultaneous localization and 3D map construction in endovascular intervention**<br>
+  Peng Qi, **Tianliang Yao**, CN115969519B, 2026.
+- **A telescopic catheter system for endovascular procedures and its application**<br>
+  Peng Qi, **Tianliang Yao**, CN116785555B, 2025.
 - **A telescopic catheter system for endovascular procedures and its application**<br>
   Peng Qi, **Tianliang Yao**, CN116785555B, 2025.
 - **A vascular phenotyping system for dynamic feature extraction from morpho-temporal angioarchitecture**<br>

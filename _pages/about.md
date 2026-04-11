@@ -66,10 +66,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - The Innovation (JCR Q1, IF: 25.7)
 - IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
 - Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
-- Engineering Applications of Artificial Intelligence (JCR Q1, IF: 8.0)
-- Expert Systems with Applications (JCR Q1, IF: 7.5)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
-- Knowledge-based Systems (JCR Q1, IF: 7.2)
 - IEEE Transactions on Artificial Intelligence (T-AI)
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
 

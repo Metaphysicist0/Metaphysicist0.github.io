@@ -44,14 +44,14 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 **Conference**
 - **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
   **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
-   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, 2025. (**Oral**)
+   IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025. (**Oral**)
 - **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
   **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
-  IEEE International Conference on Robotics and Automation (ICRA), Atlanta, 2025.<br>
+  IEEE International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025.<br>
   <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)</span>
 - **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
   Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
-  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, 2023.<br>
+  IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, China, 2023.<br>
   <span style="color:#d32f2f">(**Best Conference Paper Finalist**)</span>
 
 <span class='anchor' id='services'></span>

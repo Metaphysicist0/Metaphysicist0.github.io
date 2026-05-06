@@ -27,6 +27,12 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
 (†: equal contribution)<br>
+
+**In Submission**
+- **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
+  Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A Keane, Xiaoying Tang, Yixuan Yuan<br>
+  Nature Communications, 2026. (1st round review)
+  
 **Journal**
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sebastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi<br>

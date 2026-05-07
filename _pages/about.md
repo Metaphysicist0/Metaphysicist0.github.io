@@ -65,11 +65,12 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
 
 **Conference Reviewer**
-- IEEE International Conference on Multimedia & Expo (ICME), 2026
-- IEEE International Symposium on Circuits and Systems (ISCAS), 2026
-- International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026
 - IEEE International Conference on Robotics and Automation (ICRA), 2026
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025-2026
+- IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026
+- International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026
+- IEEE International Conference on Multimedia & Expo (ICME), 2026
+- IEEE International Symposium on Circuits and Systems (ISCAS), 2026
 - IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2026
 
 <span class='anchor' id='ta'></span>

@@ -22,6 +22,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 
 <span class='anchor' id='news'></span>
 # 🔥 News
+- *2025.05*: I pass the Ph.D. screening test (Committee: Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/), Prof. [Jiewen Lai](https://samlai.me/)).
 - *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
 
 <span class='anchor' id='publications'></span>

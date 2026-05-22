@@ -80,12 +80,12 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - ELEG4512: Digital Image Processing, 2025-2026 Fall.
 
 # 🏆 Selected Honors and Awards
-- The Pursuit of Excellence Scholarship (the highest honor), 2024 & 2025.
+- The Pursuit of Excellence Scholarship (the highest honor), Tongji University, 2024 & 2025.
 - Outstanding Undergraduate Thesis Award, Tongji University, 2025.
 - Outstanding Graduate, Tongji University, 2025.
 - IEEE ICRA 2025 RAS Travel Grant Award, 2025.
 - Baosteel Scholarship Special Award (15 undergraduates nationwide), 2024.
-- Academic Star Pacesetter of Tongji University (the highest honor for undergraduates), 2024.
+- Academic Star Pacesetter (the highest honor for undergraduates), Tongji University, 2024.
 - Qi Di Scholarship (the highest honor of the College) 2024.
 - Best Conference Paper Finalist, IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Jul 2023.
 - National First Prize (Team Leader), “Challenge Cup” National College Students Contest of Extracurricular Academic and Scientific Work (Research Track), Oct 2023. 

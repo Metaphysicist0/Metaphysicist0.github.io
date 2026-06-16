@@ -72,7 +72,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026
 - IEEE International Conference on Multimedia & Expo (ICME), 2026
 - IEEE International Symposium on Circuits and Systems (ISCAS), 2026
-- IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2026
+- IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2027
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant

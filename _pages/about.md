@@ -80,7 +80,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - ELEG4512: Digital Image Processing, 2025-2026 Fall.
 
 # 🏆 Selected Honors and Awards
-- Talent Development Scholarship (TDS) (HK$10,000), HKSAR Government, 2026.
+- Talent Development Scholarship (TDS), HKSAR Government, 2026.
 - The Pursuit of Excellence Scholarship (the highest honor), Tongji University, 2024 & 2025.
 - Outstanding Undergraduate Thesis Award, Tongji University, 2025.
 - Outstanding Graduate, Tongji University, 2025.

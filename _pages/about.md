@@ -58,7 +58,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 <span class='anchor' id='services'></span>
 # 🎖 Selected Services
 **Journal Reviewer**
-- The Innovation (JCR Q1, IF: 25.7)
+- The Innovation (JCR Q1, IF: 39.5)
 - IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
 - Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)

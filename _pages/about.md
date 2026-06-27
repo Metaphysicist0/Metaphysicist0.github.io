@@ -61,7 +61,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - The Innovation (JCR Q1, IF: 39.5)
 - IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
 - Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
-- IEEE Internet of Things Journal (JCR Q1, IF: 8.7)
+- IEEE Internet of Things Journal (IOT-J) (JCR Q1, IF: 8.7)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - IEEE Transactions on Artificial Intelligence (T-AI)
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)

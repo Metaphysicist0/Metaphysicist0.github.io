@@ -69,6 +69,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 **Conference Reviewer**
 - IEEE International Conference on Robotics and Automation (ICRA), 2026
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025-2026
+- International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2026
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026
 - International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026
 - IEEE International Conference on Multimedia & Expo (ICME), 2026

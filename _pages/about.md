@@ -66,6 +66,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - IEEE Transactions on Artificial Intelligence (T-AI)
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
+- Chinese Journal of Mechanical Engineering (《中国机械工程学报》)
 
 **Conference Reviewer**
 - IEEE International Conference on Robotics and Automation (ICRA), 2026

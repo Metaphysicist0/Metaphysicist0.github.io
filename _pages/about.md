@@ -41,7 +41,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
    **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
    IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4, **IROS 2025 Oral**)<br>
-  <span style="color:#d32f2f">(**Outstanding Paper Award (Top 3) for Cross-TC Collaboration, IEEE RAS Healthcare and Medical Robotics Cluster, 2026**)
+  <span style="color:#d32f2f">(**Outstanding Paper Award (Top 3) for Cross-TC Collaboration, IEEE RAS Healthcare and Medical Robotics Cluster, with travel grant2026**)
 
 **Conference**
 - **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>

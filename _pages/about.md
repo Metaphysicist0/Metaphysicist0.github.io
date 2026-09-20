@@ -32,7 +32,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 **Journal**
 - **X**<br>
   AA†, BB†, **Tianliang Yao†**, et al.<br>
-  X, 2026. (JCR Q1, IF: 18.1, Conditionally Accepted)
+  X, 2026. (JCR Q1, Conditionally Accepted)
 - **X**<br>
   **Tianliang Yao**, et al.<br>
   IEEE Transactions on Robotics (T-RO), 2026. (JCR Q1, IF: 11.1, Conditionally Accepted)

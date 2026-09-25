@@ -78,7 +78,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 - Robotica (Est. 1983, one of the two longest-standing journals in robotics)
 
 **Conference Reviewer**
-- IEEE International Conference on Robotics and Automation (ICRA), 2026
+- IEEE International Conference on Robotics and Automation (ICRA), 2026-2027
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025-2026
 - International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2026
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026

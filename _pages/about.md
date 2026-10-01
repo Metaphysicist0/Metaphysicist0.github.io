@@ -20,7 +20,7 @@ I am currently a Ph.D. student at the [AIM group](http://www.ee.cuhk.edu.hk/~yxy
 
 **Email:** tlyao@link.cuhk.edu.hk
 
-**Recent focus:** AI-Driven Medical Innovation, Embodied Healthcare Systems, Robotic Interventional Therapy.
+**Research interest: AI-Native Healthcare Systems**, with a focus on AI-Driven Medical Innovation, Embodied Healthcare Systems, and Robotic Interventional Therapy.
 
 <span class='anchor' id='news'></span>
 # 🔥 News

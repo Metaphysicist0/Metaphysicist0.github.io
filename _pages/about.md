@@ -31,37 +31,38 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 
-(†: equal contribution; *: the corresponding author(s))<br>
+(†: equal contribution)<br>
 
 **Journal**
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
-  Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A. Keane, Xiaoying Tang*, Yixuan Yuan*<br>
+  Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A. Keane, Xiaoying Tang, Yixuan Yuan<br>
   National Science Review, 2026. (JCR Q1, IF: 18.1)
 - **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic Catheterization with In-Vivo Validation**<br>
+  **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
   IEEE Transactions on Robotics (T-RO), 2026. (JCR Q1, IF: 11.1, in press)
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
-  **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sébastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi*<br>
+  **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sébastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi<br>
   IEEE Reviews in Biomedical Engineering (RBME), 2026. (JCR Q1, IF: 16.0, Acceptance rate: 6%)<br>
   <span style="color:#d32f2f">(**Featured Article**)
 - **Multi-Agent Fuzzy Reinforcement Learning with LLM for Cooperative Navigation of Endovascular Robotics**<br>
-  **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, Peng Qi*<br>
+  **Tianliang Yao**, Yueqi Xu, Haoyu Wang, Xihe Qiu, Kaspar Althoefer, Peng Qi<br>
   IEEE Transactions on Fuzzy Systems (T-FS), 2025. (JCR Q1, IF: 11.9)<br>
   <span style="color:#d32f2f">(**ESI Highly Cited Paper**)
 - **Sim2Real Learning with Domain Randomization for Autonomous Guidewire Navigation in Robotic-Assisted Endovascular Interventions**<br>
-   **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi*<br>
+   **Tianliang Yao**, Haoyu Wang, Bo Lu, Jiajia Ge, Zhiqiang Pei, Markus Kowarschik, Lining Sun, Lakmal Seneviratne, Peng Qi<br>
    IEEE Transactions on Automation Science and Engineering (T-ASE), 2025. (JCR Q1, IF: 6.4, **IROS 2025 Oral**)<br>
   <span style="color:#d32f2f">(**Outstanding Paper Award (Top 3) for Cross-TC Collaboration, IEEE RAS Healthcare and Medical Robotics Cluster, 2026**)
 
 **Conference**
 - **Real-Time 3D Guidewire Reconstruction from Intraoperative DSA Images for Robot-Assisted Endovascular Interventions**<br>
-  **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi*<br>
+  **Tianliang Yao**, Bingrui Li, Bo Lu, Zhiqiang Pei, Yixuan Yuan, Peng Qi<br>
    IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), Hangzhou, China, 2025. (**Oral**)
 - **Sim4EndoR: A Reinforcement Learning Centered Simulation Platform for Task Automation of Endovascular Robotics**<br>
-  **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi*<br>
+  **Tianliang Yao**, Jingwei Song, Madaoji Ban, Bo Lu, Zhiqiang Pei, Peng Qi<br>
   IEEE International Conference on Robotics and Automation (ICRA), Atlanta, USA, 2025.<br>
   <span style="color:#d32f2f">(**IEEE ICRA RAS Travel Grant Award**)</span>
 - **A Haptic Exploration and Surface Classification of Objects with Four Typical Surface Properties**<br>
-  Peng Qi*, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
+  Peng Qi, Yunfeng Wu, **Tianliang Yao**, Bo Lu, Yi Sun, Jian S. Dai<br>
   IEEE Conference on Advanced Robotics and Mechatronics (ICARM), Sanya, China, 2023.<br>
   <span style="color:#d32f2f">(**Best Conference Paper Finalist**)</span>
 

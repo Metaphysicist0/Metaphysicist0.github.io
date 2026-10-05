@@ -34,12 +34,12 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 (†: equal contribution)<br>
 
 **Journal**
-- **X**<br>
-  **Tianliang Yao**, et al.<br>
-  IEEE Transactions on Robotics (T-RO), 2026. (JCR Q1, IF: 11.1, Conditionally Accepted)
 - **Towards Next-Generation Artificial Intelligence Models for Integrated Diagnostics Embedding Eye-Brain Connections**<br>
-  Zhen Chen†, Cheng Wang†, Tianliang Yao†, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A. Keane, Xiaoying Tang, Yixuan Yuan <br>
+  Zhen Chen†, Cheng Wang†, **Tianliang Yao†**, Jianwen Liang, Yijin Huang, Jianfeng Feng, Dongfeng Gu, Pearse A. Keane, Xiaoying Tang, Yixuan Yuan <br>
   National Science Review, 2026. (JCR Q1, IF: 18.1)
+- **Hierarchical Learning Framework for Task-Level Autonomous Intraoperative Image-Guided Robotic Catheterization with In-Vivo Validation**<br>
+  **Tianliang Yao**, Dong Liu, Tao Liu, Bo Lu, Yixuan Yuan, Lakmal Seneviratne, Kaspar Althoefer, Jian S. Dai, Peng Qi<br>
+  IEEE Transactions on Robotics (T-RO), 2026. (JCR Q1, IF: 11.1)
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sébastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi<br>
   IEEE Reviews in Biomedical Engineering (RBME), 2026. (JCR Q1, IF: 16.0, Acceptance rate: 6%)<br>

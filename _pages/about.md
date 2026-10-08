@@ -76,6 +76,7 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 - IEEE Internet of Things Journal (IoT-J) (JCR Q1, IF: 8.7)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - IEEE Transactions on Artificial Intelligence (T-AI)
+- Advanced Intelligent Systems (JCR Q1, IF: 6.7)
 - IEEE Transactions on Automation Science and Engineering (T-ASE) (JCR Q1, IF: 6.4)
 - Chinese Journal of Mechanical Engineering (《中国机械工程学报》) (JCR Q1, IF: 5.1)
 - BMJ Digital Health & AI

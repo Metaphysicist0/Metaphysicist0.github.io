@@ -74,7 +74,7 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 - IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
 - Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
 - IEEE Internet of Things Journal (IoT-J) (JCR Q1, IF: 8.7)
-- Biomimetic Intelligence and Robotics (BioRob) (JCR Q1, IF: 8.6)
+- Biomimetic Intelligence and Robotics (BIRob) (JCR Q1, IF: 8.6)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
 - IEEE Transactions on Artificial Intelligence (T-AI)
 - Advanced Intelligent Systems (JCR Q1, IF: 6.7)

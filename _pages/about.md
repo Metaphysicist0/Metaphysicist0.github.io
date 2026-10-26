@@ -87,13 +87,13 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 **Conference Reviewer**
 - IEEE International Conference on Robotics and Automation (ICRA), 2026-2027
 - IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2025-2026
+- International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026-2027
+- IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2027
 - International Conference on Biomimetic Intelligence and Robotics (ICBIR), 2026
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026
-- International Conference on Information Processing in Computer-Assisted Interventions (IPCAI), 2026
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2027
 - IEEE International Conference on Multimedia & Expo (ICME), 2026
 - IEEE International Symposium on Circuits and Systems (ISCAS), 2026
-- IEEE International Joint Conference on Neural Networks (IJCNN), 2025-2027
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant

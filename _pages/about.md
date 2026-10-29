@@ -93,7 +93,7 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 - IEEE International Conference on Systems, Man, and Cybernetics (SMC), 2026
 - IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP), 2027
 - IEEE International Conference on Multimedia & Expo (ICME), 2026
-- IEEE International Symposium on Circuits and Systems (ISCAS), 2026
+- IEEE International Symposium on Circuits and Systems (ISCAS), 2026-2027
 
 <span class='anchor' id='ta'></span>
 # 📖 Teaching Assistant

@@ -26,8 +26,8 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 
 <span class='anchor' id='news'></span>
 # 🔥 News
-- *2026.05*: I pass the Ph.D. screening test (Committee: Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) and Prof. [Jiewen Lai](https://samlai.me/)).
-- *2025.08*: I start my Ph.D. journey at AIM Group, CUHK EE.
+- *2026.05*: I passed the Ph.D. screening test (Committee: Prof. [Qi Dou](https://www.cse.cuhk.edu.hk/~qdou/) and Prof. [Jiewen Lai](https://samlai.me/)).
+- *2025.08*: I started my Ph.D. journey at AIM Group, CUHK EE.
 
 <span class='anchor' id='publications'></span>
 # 📝 Selected Publications 

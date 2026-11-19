@@ -69,6 +69,7 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 **Journal Reviewer**
 - The Innovation (JCR Q1, IF: 39.5)
 - Nature Communications (JCR Q1, IF: 18.1)
+- npj Digital Surgery
 - IEEE Transactions on Fuzzy Systems (T-FS) (JCR Q1, IF: 11.9)
 - Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
 - IEEE Internet of Things Journal (IoT-J) (JCR Q1, IF: 8.7)

@@ -44,6 +44,10 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
   
 <span class='anchor' id='services'></span>
 # 🎖 Selected Services
+
+**Conference Service**
+- Conference Volunteer, IEEE EMBS International Conference on Biomedical and Health Informatics (BHI’26), 2026
+
 **Journal Reviewer**
 - The Innovation (JCR Q1, IF: 39.5)
 - Nature Communications (JCR Q1, IF: 18.1)

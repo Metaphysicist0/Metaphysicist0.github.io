@@ -40,7 +40,8 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 - **Advancing Embodied Intelligence in Robotic-Assisted Endovascular Procedures: A Systematic Review of AI Solutions**<br>
   **Tianliang Yao**, Bo Lu, Markus Kowarschik, Yixuan Yuan, Hubin Zhao, Sébastien Ourselin, Kaspar Althoefer, Junbo Ge, Peng Qi<br>
   IEEE Reviews in Biomedical Engineering (RBME), 2026. (JCR Q1, IF: 16.0, Acceptance rate: 6%)<br>
-  <span style="color:#d32f2f">(**Featured Article**)
+  <span style="color:#d32f2f">**(Featured Article)**</span><br>
+  📚 [**Living Literature Repository**](https://github.com/Metaphysicist0/Embodied-Intelligence-in-Endovascular-Robot-Navigation) (Continuously Updated)
 
 <span class='anchor' id='services'></span>
 # 🎖 Selected Services

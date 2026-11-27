@@ -51,7 +51,6 @@ AI-Native Healthcare Systems, with a focus on AI-Driven Medical Innovation, Embo
 **Journal Reviewer**
 - The Innovation (JCR Q1, IF: 39.5)
 - Nature Communications (JCR Q1, IF: 18.1)
-- npj Digital Surgery
 - Medical Image Analysis (MedIA) (JCR Q1, IF: 11.8)
 - Biomimetic Intelligence and Robotics (BIRob) (JCR Q1, IF: 8.6)
 - IEEE/ASME Transactions on Mechatronics (T-Mech) (JCR Q1, IF: 7.3)
